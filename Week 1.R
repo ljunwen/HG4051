@@ -1,4 +1,4 @@
-download.file("https://raw.githubusercontent.com/ljunwen/HG4051/main/3009.txt", "3009.txt")
+download.file("https://raw.githubusercontent.com/ljunwen/HG4051/main/data/3009.txt", "3009.txt")
 
 path <- "D:/"
 conv <- read.csv(file = paste0(path, "3009.txt"), header=TRUE, sep="\t", skipNul = TRUE, encoding="UTF-8", stringsAsFactors=FALSE)
