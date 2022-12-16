@@ -1,11 +1,18 @@
 download.file("https://raw.githubusercontent.com/ljunwen/HG4051/main/data/3009.txt", "3009.txt")
 
-path <- "D:/"
+path <- ""
 conv <- read.csv(file = paste0(path, "3009.txt"), header=TRUE, sep="\t", skipNul = TRUE, encoding="UTF-8", stringsAsFactors=FALSE)
 # alternatively:
 conv <- read.delim(file = paste0(path, "3009.txt"), header=TRUE, skipNul = TRUE, encoding="UTF-8", stringsAsFactors=FALSE)
 
+if(!require(stringr)){
+  install.packages("stringr")   # installs the lmerTest package if it isn't installed
+  library(stringr)   # loads the package
+}
+
 conv$count <- str_count(conv$text, "\\[lah\\]")
+# alternatively:
+conv$count <- stringr::str_count(conv$text, "\\[lah\\]")
 
 conv_a <- subset(conv, speaker == "A:")
 conv_b <- subset(conv, speaker == "B:")
