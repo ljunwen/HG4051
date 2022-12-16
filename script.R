@@ -1,10 +1,1 @@
-install.packages("stringr")
-install.packages("dplyr")
-install.packages("magrittr")
-install.packages("reshape2")
-install.packages("ggplot2")
-install.packages("lme4")
-install.packages("lmerTest")
-install.packages("emmeans")
-
 download.file("https://raw.githubusercontent.com/ljunwen/HG4051/main/data.txt", "data.txt")
