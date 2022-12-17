@@ -10,6 +10,7 @@ conv <- read.csv(file = paste0(path, "3009.txt"), header=TRUE, sep="\t", skipNul
 # alternatively:
 conv <- read.delim(file = paste0(path, "3009.txt"), header=TRUE, skipNul = TRUE, encoding="UTF-8", stringsAsFactors=FALSE)
 
+class(conv)
 class(conv$SCD)
 class(conv$speaker)
 class(conv$tmin)
