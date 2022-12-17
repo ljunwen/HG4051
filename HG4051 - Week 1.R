@@ -1,5 +1,10 @@
+# downloads the data file from the course's GitHub
 download.file("https://raw.githubusercontent.com/ljunwen/HG4051/main/data/3009.txt", "3009.txt")
 
+getwd()   # tells you where the current working directory is
+setwd("C:/")   # sets the current working directory as C:/ (you can change it to wherever you want)
+
+# time to write your own comments!
 path <- ""
 conv <- read.csv(file = paste0(path, "3009.txt"), header=TRUE, sep="\t", skipNul = TRUE, encoding="UTF-8", stringsAsFactors=FALSE)
 # alternatively:
@@ -18,6 +23,21 @@ class(conv$speaker)
 
 levels(conv$SCD)
 levels(conv$speaker)
+
+head(conv)
+
+# alternatively:
+conv[c(1:6),]
+
+conv[c(1:6), c(3,5)]
+
+# alternatively:
+head(conv[, c(3,5)])
+
+conv[3, 5]
+
+#alternatively:
+conv$text[3]
 
 conv$duration <- conv$tmax - conv$tmin
 
