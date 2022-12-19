@@ -25,6 +25,9 @@ class(conv$speaker)
 levels(conv$SCD)
 levels(conv$speaker)
 
+conv$speaker[1] <- "C:"
+conv$speaker[1] <- "A:"
+
 head(conv)
 
 # alternatively:
