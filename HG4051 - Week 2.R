@@ -1,5 +1,5 @@
 # downloads the data file from the course's GitHub
-download.file("https://github.com/ljunwen/HG4051/raw/main/data/Week%202%20-%20RT%20data.txt", "reaction time.txt")
+download.file("https://github.com/ljunwen/HG4051/raw/main/data/Week%202%20-%20RT%20data.txt", "Week 2 - RT data.txt")
 
 # simulation of distribution of sample means
 
@@ -32,7 +32,7 @@ stdev/sqrt(n)
 
 # t-tests
 path <- ""
-Data <- read.delim(file = paste0(path, "reaction time.txt"), header = TRUE, stringsAsFactors = TRUE)
+Data <- read.delim(file = paste0(path, "Week 2 - RT data.txt"), header = TRUE, stringsAsFactors = TRUE)
 
 t.test(RT ~ Drug, data = Data)
 t.test(RT ~ Drug, paired = TRUE, data = Data)
