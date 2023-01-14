@@ -1,5 +1,5 @@
 # downloads the data file from the course's GitHub
-download.file("https://github.com/ljunwen/HG4051/raw/main/data/Week%203%20-%20RT%20data.txt", "Week 3 - RT data.txt")
+download.file("https://github.com/ljunwen/HG4051/raw/main/data/Week%203%20-%20RT%20data.txt", "Week 3 - RT data.txt", method = "libcurl")
 
 path <- "D:/"
 Data <- read.delim(file = paste0(path, "Week 3 - RT data.txt"), header = TRUE, stringsAsFactors = TRUE)
