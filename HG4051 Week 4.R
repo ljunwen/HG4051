@@ -1,5 +1,5 @@
 # downloads the data file from the course's GitHub
-download.file("https://github.com/ljunwen/HG4051/raw/main/data/Week%204%20-%20sw2005.A.terminals.xml", "Week 4 - sw2005.A.terminals.xml")
+# download.file("https://github.com/ljunwen/HG4051/raw/main/data/Week%204%20-%20sw2005.A.terminals.xml", "Week 4 - sw2005.A.terminals.xml")
 
 path <- "D:/NSC Part 3/48k/Transcripts/Scripts Same Room/combined2/Switchboard NXT/"
 file <- "2005-1.xml"
