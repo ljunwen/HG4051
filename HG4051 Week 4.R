@@ -3,6 +3,9 @@ download.file("https://github.com/ljunwen/HG4051/raw/main/data/Week%204%20-%20sw
 
 path <- "D:/NSC Part 3/48k/Transcripts/Scripts Same Room/combined2/Switchboard NXT/"
 file <- "2005-1.xml"
+write_to_file <- "n"
+
+
 transcript_str <- readChar(paste0(path, file), file.info(paste0(path, file))$size)
 
 transcript_str <- gsub(">\n\t<nite:pointer","><nite:pointer", transcript_str)
@@ -68,14 +71,16 @@ transcript_raw <- subset(transcript_raw, msstate != "non-aligned")
 transcript_raw$start <- as.numeric(transcript_raw$start)
 transcript_raw$end <- as.numeric(transcript_raw$end)
 
-# export the raw transcript
+# output data to text file if write_to_file = "y"
 
-write_utf8_txt <- function(df, file) {
-  con <- file(file, open = "w+", encoding = "native.enc")
-  firstline <- paste0(colnames(df), collapse = "\t")
-  data <- apply(df, 1, function(x) {paste0(x, collapse = "\t")})
-  writeLines(c(firstline, data), con = con, useBytes = TRUE)
-  close(con)
+if (write_to_file == "y") {
+  write_utf8_txt <- function(df, file) {
+    con <- file(file, open = "w+", encoding = "native.enc")
+    firstline <- paste0(colnames(df), collapse = "\t")
+    data <- apply(df, 1, function(x) {paste0(x, collapse = "\t")})
+    writeLines(c(firstline, data), con = con, useBytes = TRUE)
+    close(con)
+  }
+  
+  write_utf8_txt(transcript_raw, paste0(dir_path, "raw transcripts/", substr(file,1,6), ".txt"))
 }
-
-write_utf8_txt(transcript_raw, paste0(dir_path, "raw transcripts/", substr(file,1,6), ".txt"))
