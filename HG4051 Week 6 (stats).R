@@ -1,5 +1,5 @@
 # downloads the data file from the course's GitHub
-download.file("https://github.com/ljunwen/HG4051/raw/main/data/Week%206%20-%20RT%20data.txt", "Week 6 - RT data.txt", method = "libcurl")
+download.file("https://github.com/ljunwen/HG4051/raw/main/data/Week%206%20-%20Ratings%20data.txt", "Week 6 - Ratings data.txt", method = "libcurl")
 
 # linear regression
 
