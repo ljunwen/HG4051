@@ -1,0 +1,1417 @@
+ResponseId	S.Gender	S.Ethnicity	S.Education	S.AgeGroup	P.Gender	P.Ethnicity	P.Education	P.Age	Speaker	Sentence	Loop	RC1	RC2	RC3	RC4
+R_yI6YNvokMYLPKEN	Male	Indian	Polytechnic	20+	Female	Indian	University	21	618	1	1	-0.46848408	0.085755887	0.513917603	-0.453486503
+R_yI6YNvokMYLPKEN	Male	Malay	Secondary school	20+	Female	Indian	University	21	613	1	2	-0.689862213	-1.114950235	-0.145407507	-0.420855387
+R_yI6YNvokMYLPKEN	Female	Chinese	Polytechnic	30+	Female	Indian	University	21	937	2	3	-0.341814308	0.388434181	0.856866517	0.498399769
+R_yI6YNvokMYLPKEN	Male	Chinese	Secondary school	20+	Female	Indian	University	21	400	3	4	-1.5200392	-0.559994012	0.76844431	-0.1265727
+R_yI6YNvokMYLPKEN	Female	Malay	University	30+	Female	Indian	University	21	931	4	5	0.001444845	-0.676784219	-0.629180145	-1.75530594
+R_yI6YNvokMYLPKEN	Female	Indian	University	30+	Female	Indian	University	21	956	3	6	-1.545746186	-0.124538654	-0.474621456	-0.209750158
+R_1LO7QhD1cMgOm0x	Female	Chinese	Polytechnic	30+	Female	Chinese	University	21	937	2	1	0.849316177	1.002979967	0.011260552	-1.129781005
+R_1LO7QhD1cMgOm0x	Male	Indian	Polytechnic	20+	Female	Chinese	University	21	618	4	2	-1.442424258	1.714213786	-1.023865284	1.134183662
+R_1LO7QhD1cMgOm0x	Female	Malay	University	30+	Female	Chinese	University	21	931	3	3	1.691055627	-0.706630112	1.764169984	-0.571626594
+R_1LO7QhD1cMgOm0x	Male	Chinese	Secondary school	20+	Female	Chinese	University	21	400	4	4	-1.25633614	1.787827514	-1.595067074	2.15214845
+R_1LO7QhD1cMgOm0x	Female	Indian	University	30+	Female	Chinese	University	21	956	2	6	2.601731422	2.549796558	2.439541788	2.210209939
+R_3fpZ8jDd3HAjirf	Male	Malay	Secondary school	30+	Female	Chinese	University	21	965	2	1	-0.105238657	-0.914670463	-0.309041406	-0.250950809
+R_3fpZ8jDd3HAjirf	Female	Malay	University	20+	Female	Chinese	University	21	532	1	2	-0.731240583	0.230230198	-0.092020358	-0.799184798
+R_3fpZ8jDd3HAjirf	Female	Chinese	Polytechnic	20+	Female	Chinese	University	21	818	4	3	0.286120397	0.825262152	-0.794279992	0.451098752
+R_3fpZ8jDd3HAjirf	Male	Indian	Polytechnic	30+	Female	Chinese	University	21	936	3	4	1.084723453	0.928751789	-0.02749315	0.161359849
+R_3fpZ8jDd3HAjirf	Male	Chinese	University	30+	Female	Chinese	University	21	832	3	5	-0.701941565	-1.991142604	-0.736192606	-0.934455403
+R_3fpZ8jDd3HAjirf	Female	Indian	Secondary school	20+	Female	Chinese	University	21	446	5	6	-0.307427979	-1.567054353	0.447816565	-0.713511805
+R_wNJSIklWvyfrqPn	Male	Malay	Secondary school	20+	Female	Chinese	University	22	613	2	1	0.786690476	0.396547727	0.672201544	0.224861335
+R_wNJSIklWvyfrqPn	Male	Indian	Polytechnic	20+	Female	Chinese	University	22	618	1	2	0.853746931	0.117708024	0.249480622	0.423141354
+R_wNJSIklWvyfrqPn	Female	Malay	University	30+	Female	Chinese	University	22	931	4	3	-0.061573872	-0.268947028	-0.023272906	-0.612227899
+R_wNJSIklWvyfrqPn	Female	Chinese	Polytechnic	30+	Female	Chinese	University	22	937	3	4	0.855125943	0.509912796	0.160097922	0.171493745
+R_wNJSIklWvyfrqPn	Female	Indian	University	30+	Female	Chinese	University	22	956	2	5	0.190895077	0.908893237	0.656384775	1.043115943
+R_wNJSIklWvyfrqPn	Male	Chinese	Secondary school	20+	Female	Chinese	University	22	400	1	6	-0.404477915	1.685162414	0.198800808	0.594455815
+R_3qWq9eG4eAARFff	Male	Indian	Polytechnic	30+	Male	Chinese	Post-secondary	25	936	3	1	-1.249832943	-0.118976746	0.056377395	0.379269322
+R_3qWq9eG4eAARFff	Female	Malay	University	20+	Male	Chinese	Post-secondary	25	532	5	2	-1.877253489	0.054224653	0.061682019	-0.87055912
+R_3qWq9eG4eAARFff	Female	Chinese	Polytechnic	20+	Male	Chinese	Post-secondary	25	818	2	3	1.204280674	-0.040039254	1.34125219	-0.09560897
+R_3qWq9eG4eAARFff	Female	Indian	Secondary school	20+	Male	Chinese	Post-secondary	25	446	4	4	-1.42244159	0.977498323	-0.261578938	0.047972843
+R_3qWq9eG4eAARFff	Male	Malay	Secondary school	30+	Male	Chinese	Post-secondary	25	965	1	5	1.226695806	-1.334369826	0.485470507	0.105157398
+R_3qWq9eG4eAARFff	Male	Chinese	University	30+	Male	Chinese	Post-secondary	25	832	4	6	-1.245386714	1.134107951	-0.205684337	2.317385375
+R_2z8FqiNFpKmIBpO	Male	Chinese	Polytechnic	20+	Female	Chinese	Post-secondary	23	878	1	1	-1.227773872	1.427608591	-0.933653037	1.218492219
+R_2z8FqiNFpKmIBpO	Male	Malay	University	30+	Female	Chinese	Post-secondary	23	558	4	2	-0.950846355	-1.007751373	-0.812290772	-2.139192175
+R_2z8FqiNFpKmIBpO	Female	Malay	Secondary school	20+	Female	Chinese	Post-secondary	23	225	3	3	-1.695800024	-0.305346574	-1.7352649	-0.645554916
+R_2z8FqiNFpKmIBpO	Female	Chinese	University	20+	Female	Chinese	Post-secondary	23	239	2	4	-0.496039283	0.209298997	-0.030015755	-0.260971596
+R_2z8FqiNFpKmIBpO	Male	Indian	Secondary school	30+	Female	Chinese	Post-secondary	23	962	1	5	-0.694696072	-0.84860921	-0.431407475	-1.167155478
+R_2z8FqiNFpKmIBpO	Female	Indian	Polytechnic	20+	Female	Chinese	Post-secondary	23	930	4	6	-0.090909274	0.520082177	-0.695404195	-0.512700853
+R_1gOsvRjAuN9b3l1	Male	Chinese	Secondary school	20+	Female	Chinese	Post-secondary	23	400	3	1	1.090222502	0.026636239	0.776557281	0.11455678
+R_1gOsvRjAuN9b3l1	Female	Malay	University	30+	Female	Chinese	Post-secondary	23	931	2	2	0.468504209	0.299967917	0.836362593	-1.346874703
+R_1gOsvRjAuN9b3l1	Female	Indian	University	30+	Female	Chinese	Post-secondary	23	956	4	3	0.252233139	1.103595044	-0.005628852	0.629101755
+R_1gOsvRjAuN9b3l1	Male	Indian	Polytechnic	20+	Female	Chinese	Post-secondary	23	618	3	4	0.113896575	-0.446063343	0.919071337	-0.910154973
+R_1gOsvRjAuN9b3l1	Male	Malay	Secondary school	20+	Female	Chinese	Post-secondary	23	613	4	5	1.15613091	-0.094432041	1.453043893	-1.503219604
+R_1gOsvRjAuN9b3l1	Female	Chinese	Polytechnic	30+	Female	Chinese	Post-secondary	23	937	1	6	-0.322011125	0.835343495	-0.866508675	1.416262844
+R_bjEAKGwxgccFcbv	Male	Malay	Secondary school	30+	Female	Chinese	University	23	965	1	1	-0.493942381	-1.007890764	-0.824147856	-1.517647413
+R_bjEAKGwxgccFcbv	Male	Chinese	University	30+	Female	Chinese	University	23	832	3	2	-1.242104609	-0.096550833	-1.064151812	-1.610802777
+R_bjEAKGwxgccFcbv	Female	Malay	University	20+	Female	Chinese	University	23	532	2	3	0.123505363	0.696146182	-0.493521707	-1.383146696
+R_bjEAKGwxgccFcbv	Female	Chinese	Polytechnic	20+	Female	Chinese	University	23	818	4	4	-0.242947829	0.247127227	-0.033575048	0.660509517
+R_bjEAKGwxgccFcbv	Male	Indian	Polytechnic	30+	Female	Chinese	University	23	936	1	5	-0.033325426	-1.779753163	-0.031593987	-0.62062103
+R_bjEAKGwxgccFcbv	Female	Indian	Secondary school	20+	Female	Chinese	University	23	446	4	6	-0.944873771	-1.504813507	-0.843323233	-1.50516786
+R_9sQdyw6317O8ohP	Male	Chinese	University	30+	Female	Chinese	University	23	832	4	1	0.017946916	-0.309954685	-1.317167796	-1.227462316
+R_9sQdyw6317O8ohP	Male	Indian	Polytechnic	30+	Female	Chinese	University	23	936	1	2	-0.37794929	0.332286282	-0.287014802	0.184731486
+R_9sQdyw6317O8ohP	Female	Indian	Secondary school	20+	Female	Chinese	University	23	446	3	3	-0.681531727	-0.507847083	-0.887587422	-0.630426717
+R_9sQdyw6317O8ohP	Female	Malay	University	20+	Female	Chinese	University	23	532	1	4	-0.433340735	0.92768987	-0.396199982	0.079078848
+R_9sQdyw6317O8ohP	Female	Chinese	Polytechnic	20+	Female	Chinese	University	23	818	3	5	-0.694957613	1.037969661	-0.707692288	0.58472528
+R_9sQdyw6317O8ohP	Male	Malay	Secondary school	30+	Female	Chinese	University	23	965	2	6	0.419430835	-0.749290355	0.162562873	-0.820310336
+R_25G9kmXTVmfrnYy	Male	Indian	University	20+	Female	Chinese	University	21	1014	2	1	0.557609141	1.582637712	1.317603825	0.77095475
+R_25G9kmXTVmfrnYy	Male	Chinese	University	20+	Female	Chinese	University	21	866	4	2	-1.96178109	1.894664321	-1.002641034	1.501907094
+R_25G9kmXTVmfrnYy	Female	Malay	Polytechnic	30+	Female	Chinese	University	21	911	1	3	0.976884143	1.433124197	1.300955147	0.758822177
+R_25G9kmXTVmfrnYy	Female	Chinese	Secondary school	30+	Female	Chinese	University	21	694	2	4	0.042577684	-0.25221552	0.422670641	-0.078744908
+R_25G9kmXTVmfrnYy	Female	Indian	Secondary school	30+	Female	Chinese	University	21	664	1	5	-1.961467749	0.51986394	0.120737112	-0.318185141
+R_25G9kmXTVmfrnYy	Male	Malay	Polytechnic	20+	Female	Chinese	University	21	990	3	6	-1.725354048	-1.147774346	-0.946109817	-2.2073703
+R_1pQYgYJBafQ5vEt	Female	Indian	University	30+	Female	Malay	University	21	956	4	1	1.913065841	1.960051999	1.989930074	1.540202366
+R_1pQYgYJBafQ5vEt	Female	Malay	University	30+	Female	Malay	University	21	931	4	2	0.202372911	-0.008490321	-0.0414155	-0.076839759
+R_1pQYgYJBafQ5vEt	Female	Chinese	Polytechnic	30+	Female	Malay	University	21	937	2	3	1.340960282	1.504299958	1.00799842	0.754517531
+R_1pQYgYJBafQ5vEt	Male	Chinese	Secondary school	20+	Female	Malay	University	21	400	1	4	0.27475291	0.333962997	0.465497498	0.719013631
+R_1pQYgYJBafQ5vEt	Male	Malay	Secondary school	20+	Female	Malay	University	21	613	3	5	0.18579961	-0.129997235	-0.005916337	-0.104652842
+R_1pQYgYJBafQ5vEt	Male	Indian	Polytechnic	20+	Female	Malay	University	21	618	1	6	1.660387483	0.864848204	1.1718847	0.902708264
+R_3hgQio0ilNzO6b8	Female	Indian	Polytechnic	20+	Male	Chinese	University	25	930	2	1	2.496575308	0.025494073	1.467763776	1.045370271
+R_3hgQio0ilNzO6b8	Male	Malay	University	30+	Male	Chinese	University	25	558	3	2	1.519895356	1.5189964	1.403720624	0.49667838
+R_3hgQio0ilNzO6b8	Male	Chinese	Polytechnic	20+	Male	Chinese	University	25	878	4	3	0.707703347	1.392710376	1.099296944	1.698889297
+R_3hgQio0ilNzO6b8	Female	Chinese	University	20+	Male	Chinese	University	25	239	2	4	0.964629858	1.051317215	0.898228048	1.410274185
+R_3hgQio0ilNzO6b8	Female	Malay	Secondary school	20+	Male	Chinese	University	25	225	1	5	2.609159377	1.086550809	1.999368948	1.316629374
+R_3hgQio0ilNzO6b8	Male	Indian	Secondary school	30+	Male	Chinese	University	25	962	4	6	-0.467708386	0.108718473	0.651217383	0.377752701
+R_2rHZVZ7ePxHaGaa	Female	Indian	University	30+	Female	Chinese	University	22	956	3	1	0.263142277	1.220484748	2.629521029	1.381762553
+R_2rHZVZ7ePxHaGaa	Male	Chinese	Secondary school	20+	Female	Chinese	University	22	400	1	2	0.655651095	0.445510605	0.923857463	1.147059469
+R_2rHZVZ7ePxHaGaa	Male	Indian	Polytechnic	20+	Female	Chinese	University	22	618	2	3	0.349858077	1.414413627	-0.135196525	1.438076898
+R_2rHZVZ7ePxHaGaa	Male	Malay	Secondary school	20+	Female	Chinese	University	22	613	3	4	1.45987425	-1.004596861	0.287119793	-0.523992206
+R_2rHZVZ7ePxHaGaa	Female	Malay	University	30+	Female	Chinese	University	22	931	2	5	1.015180592	-0.73967663	1.687024596	-0.65246817
+R_2rHZVZ7ePxHaGaa	Female	Chinese	Polytechnic	30+	Female	Chinese	University	22	937	4	6	0.564000276	1.513889626	-0.57571536	0.708255948
+R_28HslsVWuHknXER	Male	Malay	Secondary school	30+	Male	Chinese	University	24	965	3	1	-0.685563472	-1.371984226	-0.926985615	-0.298447226
+R_28HslsVWuHknXER	Female	Malay	University	20+	Male	Chinese	University	24	532	1	2	-0.67954081	1.120824714	0.31986272	0.605684002
+R_28HslsVWuHknXER	Male	Indian	Polytechnic	30+	Male	Chinese	University	24	936	3	3	0.083077664	-0.173515395	0.346527272	-0.170843148
+R_28HslsVWuHknXER	Female	Indian	Secondary school	20+	Male	Chinese	University	24	446	5	4	-0.071492457	-0.379376214	-0.572626118	0.469711375
+R_28HslsVWuHknXER	Male	Chinese	University	30+	Male	Chinese	University	24	832	2	5	-0.442439842	-0.609467935	-0.117863749	-0.404356878
+R_28HslsVWuHknXER	Female	Chinese	Polytechnic	20+	Male	Chinese	University	24	818	4	6	-0.9404974	-0.900933685	-0.765578321	-0.736269196
+R_1jeMiZA97KuaS0l	Male	Chinese	University	20+	Male	Indian	University	25	866	4	1	-0.156234106	-0.455573504	-0.5131054	-0.643057547
+R_1jeMiZA97KuaS0l	Female	Indian	Secondary school	30+	Male	Indian	University	25	664	4	2	-0.073810674	-0.454190568	-0.502859464	-0.901748325
+R_1jeMiZA97KuaS0l	Male	Malay	Polytechnic	20+	Male	Indian	University	25	990	2	3	-0.436877057	-0.626969572	-0.089864139	-0.076522228
+R_1jeMiZA97KuaS0l	Female	Chinese	Secondary school	30+	Male	Indian	University	25	694	1	4	0.259204544	-0.977568215	-0.722546802	-0.211692525
+R_1jeMiZA97KuaS0l	Male	Indian	University	20+	Male	Indian	University	25	1014	3	5	0.568726766	0.26683877	-0.089185871	-0.766371944
+R_1jeMiZA97KuaS0l	Female	Malay	Polytechnic	30+	Male	Indian	University	25	911	3	6	0.023096188	-0.004487861	-0.998640953	-0.445050398
+R_2zXPKv1TjK20j8O	Female	Malay	University	30+	Female	Chinese	Post-secondary	19	931	4	1	-1.650406441	-1.491268733	-1.24388446	0.605993692
+R_2zXPKv1TjK20j8O	Female	Chinese	Polytechnic	30+	Female	Chinese	Post-secondary	19	937	3	2	-0.964291804	0.928343101	-0.966277619	0.140301049
+R_2zXPKv1TjK20j8O	Male	Chinese	Secondary school	20+	Female	Chinese	Post-secondary	19	400	1	3	-0.671856888	-0.782677074	-0.870442338	-2.094351613
+R_2zXPKv1TjK20j8O	Female	Indian	University	30+	Female	Chinese	Post-secondary	19	956	3	4	-0.454083504	1.925361231	-0.616268673	0.019417973
+R_2zXPKv1TjK20j8O	Male	Malay	Secondary school	20+	Female	Chinese	Post-secondary	19	613	2	5	-1.171679609	-0.926300755	1.257686368	-2.112707872
+R_2zXPKv1TjK20j8O	Male	Indian	Polytechnic	20+	Female	Chinese	Post-secondary	19	618	1	6	-0.458635718	0.671137741	0.477220159	-1.430358529
+R_1LeyVDpeZqeDO0G	Male	Malay	Polytechnic	20+	Female	Chinese	Post-secondary	53	990	2	1	-1.708304972	-1.527425512	-2.43116449	-1.96435366
+R_1LeyVDpeZqeDO0G	Male	Indian	University	20+	Female	Chinese	Post-secondary	53	1014	2	2	1.398879739	0.432541812	-0.041267372	0.709914859
+R_1LeyVDpeZqeDO0G	Male	Chinese	University	20+	Female	Chinese	Post-secondary	53	866	1	3	-0.066570386	-0.27932811	-0.743227453	-0.033468223
+R_1LeyVDpeZqeDO0G	Female	Indian	Secondary school	30+	Female	Chinese	Post-secondary	53	664	5	4	0.399627433	0.468287687	-0.797908066	0.75566752
+R_1LeyVDpeZqeDO0G	Female	Chinese	Secondary school	30+	Female	Chinese	Post-secondary	53	694	4	5	1.47017687	1.003278786	-1.23568967	0.506048366
+R_1LeyVDpeZqeDO0G	Female	Malay	Polytechnic	30+	Female	Chinese	Post-secondary	53	911	3	6	0.030341798	0.615168026	-0.203407109	1.072776495
+R_3O2jWRpYjITxH1F	Female	Chinese	University	20+	Female	Malay	University	23	239	5	1	-0.833708765	-1.338652834	-1.711212657	-0.582271125
+R_3O2jWRpYjITxH1F	Male	Malay	University	30+	Female	Malay	University	23	558	4	2	-0.009530048	-1.055704361	-1.484587393	-0.088657045
+R_3O2jWRpYjITxH1F	Male	Indian	Secondary school	30+	Female	Malay	University	23	962	1	3	-0.797177837	-2.342435615	-1.197941063	0.64721778
+R_3O2jWRpYjITxH1F	Female	Malay	Secondary school	20+	Female	Malay	University	23	225	2	4	1.015813864	-1.063482851	-0.475468806	0.712095796
+R_3O2jWRpYjITxH1F	Male	Chinese	Polytechnic	20+	Female	Malay	University	23	878	1	5	-2.820783604	1.772767298	-2.66677961	1.698365083
+R_3O2jWRpYjITxH1F	Female	Indian	Polytechnic	20+	Female	Malay	University	23	930	2	6	1.265341997	0.37800682	1.450355835	0.727425639
+R_w1WQgxIrW4AZ4Dn	Male	Chinese	University	20+	Female	Chinese	University	21	866	2	1	-0.733605358	-0.206161485	-0.142841622	-0.222964865
+R_w1WQgxIrW4AZ4Dn	Male	Indian	University	20+	Female	Chinese	University	21	1014	4	2	0.013675517	0.241829139	-1.080902319	-0.043479978
+R_w1WQgxIrW4AZ4Dn	Female	Indian	Secondary school	30+	Female	Chinese	University	21	664	2	3	0.084821621	0.477492458	-0.051941494	0.088363752
+R_w1WQgxIrW4AZ4Dn	Male	Malay	Polytechnic	20+	Female	Chinese	University	21	990	3	4	0.13669523	0.2980026	-0.65801476	-0.394457251
+R_w1WQgxIrW4AZ4Dn	Female	Malay	Polytechnic	30+	Female	Chinese	University	21	911	1	5	-0.135719995	0.215807925	-0.110154526	-0.441035324
+R_w1WQgxIrW4AZ4Dn	Female	Chinese	Secondary school	30+	Female	Chinese	University	21	694	4	6	0.579167765	0.422991221	-0.389359322	-0.668826025
+R_2fwCfy1eVfpERHU	Male	Indian	Polytechnic	30+	Female	Chinese	University	25	936	2	1	-0.486040992	0.008831153	-0.192499268	-0.557574469
+R_2fwCfy1eVfpERHU	Female	Indian	Secondary school	20+	Female	Chinese	University	25	446	3	2	-0.019705154	-0.225499929	-0.485380166	-0.933038154
+R_2fwCfy1eVfpERHU	Female	Chinese	Polytechnic	20+	Female	Chinese	University	25	818	2	3	-0.368007038	-0.280815798	-0.561581905	0.127870681
+R_2fwCfy1eVfpERHU	Male	Malay	Secondary school	30+	Female	Chinese	University	25	965	1	4	-0.043472873	-0.24991831	-0.119250081	-0.731453057
+R_2fwCfy1eVfpERHU	Male	Chinese	University	30+	Female	Chinese	University	25	832	3	5	-0.353164179	-0.944657402	-0.56430605	-0.367755834
+R_2fwCfy1eVfpERHU	Female	Malay	University	20+	Female	Chinese	University	25	532	4	6	-0.383705959	-0.312873023	-0.998684169	-0.637548233
+R_3oNNg7OR4jFPnSX	Female	Malay	University	30+	Female	Chinese	University	21	931	2	1	-0.004093911	0.345871321	0.528160392	0.026254486
+R_3oNNg7OR4jFPnSX	Male	Chinese	Secondary school	20+	Female	Chinese	University	21	400	4	2	-0.611383137	0.485957056	0.407560224	0.443110567
+R_3oNNg7OR4jFPnSX	Male	Indian	Polytechnic	20+	Female	Chinese	University	21	618	1	3	-0.052732454	0.626920084	0.501479375	-0.605664734
+R_3oNNg7OR4jFPnSX	Female	Indian	University	30+	Female	Chinese	University	21	956	2	4	0.373738826	0.842782539	0.619983774	0.860325492
+R_3oNNg7OR4jFPnSX	Male	Malay	Secondary school	20+	Female	Chinese	University	21	613	3	5	-0.214217137	0.136419681	0.004608081	-0.627696723
+R_3oNNg7OR4jFPnSX	Female	Chinese	Polytechnic	30+	Female	Chinese	University	21	937	1	6	-2.092867616	-0.174944958	-0.792919378	-1.579869643
+R_sLvvfN5MPWHCQaR	Male	Indian	University	20+	Male	Indian	Post-secondary	22	1014	4	1	0.23711824	0.516203893	-1.281185119	-1.597411214
+R_sLvvfN5MPWHCQaR	Female	Malay	Polytechnic	30+	Male	Indian	Post-secondary	22	911	2	2	0.193873384	-0.976338507	0.348693538	-0.653324345
+R_sLvvfN5MPWHCQaR	Female	Chinese	Secondary school	30+	Male	Indian	Post-secondary	22	694	3	5	0.723972689	-0.792677076	-0.322351315	0.184253085
+R_sLvvfN5MPWHCQaR	Male	Malay	Polytechnic	20+	Male	Indian	Post-secondary	22	990	4	6	0.813653578	-0.76325268	0.287436406	0.458612691
+R_3QoSkahci36qBtD	Female	Indian	Secondary school	20+	Female	Malay	University	22	446	5	1	1.224499036	1.695802541	1.092909772	1.046744941
+R_3QoSkahci36qBtD	Male	Indian	Polytechnic	30+	Female	Malay	University	22	936	1	2	1.319564125	1.232937283	1.168620218	1.228252154
+R_3QoSkahci36qBtD	Female	Chinese	Polytechnic	20+	Female	Malay	University	22	818	1	3	0.802652838	0.565909032	0.664650202	0.233136556
+R_3QoSkahci36qBtD	Male	Chinese	University	30+	Female	Malay	University	22	832	4	4	0.890449669	1.146884786	1.483697114	1.414957867
+R_3QoSkahci36qBtD	Female	Malay	University	20+	Female	Malay	University	22	532	5	5	1.60494939	1.190945592	0.724543659	1.380553901
+R_3QoSkahci36qBtD	Male	Malay	Secondary school	30+	Female	Malay	University	22	965	2	6	1.420324785	0.510781209	1.173634161	1.020111172
+R_3PGMDgauLTsXVry	Male	Indian	Polytechnic	20+	Female	Malay	University	39	618	1	2	-0.825538211	0.229131594	-0.186709323	0.223281461
+R_3PGMDgauLTsXVry	Male	Malay	Secondary school	20+	Female	Malay	University	39	613	4	3	-0.323594879	-1.094739337	-0.417205562	-0.230190204
+R_3PGMDgauLTsXVry	Female	Malay	University	30+	Female	Malay	University	39	931	2	4	-0.462094393	1.708596939	-0.494358815	1.259676208
+R_3PGMDgauLTsXVry	Female	Indian	University	30+	Female	Malay	University	39	956	2	5	1.825527842	2.001562994	-1.448202919	-0.265711427
+R_3PGMDgauLTsXVry	Female	Chinese	Polytechnic	30+	Female	Malay	University	39	937	3	6	-0.022027915	0.429820716	-0.194187303	-0.613630654
+R_1I4X7lOfFvmMFS1	Female	Malay	University	30+	Female	Chinese	University	20	931	1	1	-0.525928573	-0.092827741	0.198314877	0.582725275
+R_1I4X7lOfFvmMFS1	Female	Indian	University	30+	Female	Chinese	University	20	956	3	2	0.575641039	0.551979213	-0.45752687	-0.191958593
+R_1I4X7lOfFvmMFS1	Male	Chinese	Secondary school	20+	Female	Chinese	University	20	400	2	3	-0.133866177	-0.342011956	-0.737132445	-0.725224967
+R_1I4X7lOfFvmMFS1	Female	Chinese	Polytechnic	30+	Female	Chinese	University	20	937	4	4	-0.061408295	-0.279418695	-0.515824271	-0.277300688
+R_1I4X7lOfFvmMFS1	Male	Indian	Polytechnic	20+	Female	Chinese	University	20	618	1	5	-0.338292086	-0.43904451	-0.309669508	-0.527733884
+R_1I4X7lOfFvmMFS1	Male	Malay	Secondary school	20+	Female	Chinese	University	20	613	3	6	-0.200212062	0.108402635	-0.206922351	-0.178618316
+R_xAvF7ZfHm7t22mR	Female	Malay	University	30+	Female	Chinese	Secondary	58	931	2	1	0.250715843	0.999763932	0.542563222	1.290374161
+R_xAvF7ZfHm7t22mR	Male	Indian	Polytechnic	20+	Female	Chinese	Secondary	58	618	1	2	0.666503856	1.941577172	-1.279161193	1.158331438
+R_xAvF7ZfHm7t22mR	Female	Indian	University	30+	Female	Chinese	Secondary	58	956	3	3	0.151184358	0.944904251	0.369567379	1.105020011
+R_xAvF7ZfHm7t22mR	Male	Chinese	Secondary school	20+	Female	Chinese	Secondary	58	400	4	4	0.034142101	1.669766787	-0.048442829	1.136880449
+R_xAvF7ZfHm7t22mR	Male	Malay	Secondary school	20+	Female	Chinese	Secondary	58	613	1	5	-0.439202052	-0.720913054	-0.627112623	-1.783822223
+R_xAvF7ZfHm7t22mR	Female	Chinese	Polytechnic	30+	Female	Chinese	Secondary	58	937	3	6	-0.641151585	-0.412880746	-1.684932196	-1.331795247
+R_W7DaT387wEPeAzD	Female	Indian	Polytechnic	20+	Female	Chinese	University	21	930	3	1	-0.828870304	-0.104980877	0.363011305	-0.895621447
+R_W7DaT387wEPeAzD	Male	Malay	University	30+	Female	Chinese	University	21	558	2	2	-0.143283782	-0.903308494	-1.67707874	-3.430446144
+R_W7DaT387wEPeAzD	Male	Chinese	Polytechnic	20+	Female	Chinese	University	21	878	1	3	-1.500314465	1.00886246	0.314676028	0.045312711
+R_W7DaT387wEPeAzD	Male	Indian	Secondary school	30+	Female	Chinese	University	21	962	4	4	-1.530668699	-0.607786852	-1.158415343	-0.266328619
+R_W7DaT387wEPeAzD	Female	Chinese	University	20+	Female	Chinese	University	21	239	5	5	-1.435819285	0.62880946	0.909114004	1.163592917
+R_W7DaT387wEPeAzD	Female	Malay	Secondary school	20+	Female	Chinese	University	21	225	4	6	-0.506403153	-0.381255723	-0.49365263	-0.700046409
+R_1BWeh495v0UbLu9	Male	Indian	University	20+	Male	Malay	University	23	1014	4	1	1.160126583	0.746908525	1.109686633	1.512400812
+R_1BWeh495v0UbLu9	Male	Malay	Polytechnic	20+	Male	Malay	University	23	990	1	2	1.109130771	1.162962354	1.029829155	1.580840953
+R_1BWeh495v0UbLu9	Male	Chinese	University	20+	Male	Malay	University	23	866	3	3	0.80053711	0.533158965	1.705351453	1.343740241
+R_1BWeh495v0UbLu9	Female	Indian	Secondary school	30+	Male	Malay	University	23	664	1	4	-0.824618344	-0.209772681	-0.975118565	-0.133353555
+R_1BWeh495v0UbLu9	Female	Malay	Polytechnic	30+	Male	Malay	University	23	911	2	5	1.061351467	1.282225378	1.024512614	1.35009902
+R_1BWeh495v0UbLu9	Female	Chinese	Secondary school	30+	Male	Malay	University	23	694	4	6	-0.065062259	0.249532394	0.411673867	0.349227198
+R_cZvEVDv7vRoCSf7	Female	Malay	Secondary school	20+	Male	Indian	University	22	225	3	1	0.813224877	-0.395051149	-0.459190286	-0.079697225
+R_cZvEVDv7vRoCSf7	Male	Malay	University	30+	Male	Indian	University	22	558	4	2	-1.175215907	-0.755248946	-1.138000954	-0.90747604
+R_cZvEVDv7vRoCSf7	Male	Chinese	Polytechnic	20+	Male	Indian	University	22	878	2	3	0.973025513	1.563857049	-0.550596259	0.981741754
+R_cZvEVDv7vRoCSf7	Female	Indian	Polytechnic	20+	Male	Indian	University	22	930	2	4	-0.021075775	0.564903768	0.23982776	0.002380734
+R_cZvEVDv7vRoCSf7	Male	Indian	Secondary school	30+	Male	Indian	University	22	962	4	5	-0.709411601	-0.65615564	-0.725360841	-0.922685699
+R_cZvEVDv7vRoCSf7	Female	Chinese	University	20+	Male	Indian	University	22	239	1	6	0.50139256	-0.611904289	-0.047960844	-0.085574138
+R_1P0m1vJ2cPiAIHi	Male	Malay	Secondary school	30+	Female	Indian	University	21	965	4	1	-0.868923595	-1.193043931	-0.764847976	0.707397118
+R_1P0m1vJ2cPiAIHi	Female	Chinese	Polytechnic	20+	Female	Indian	University	21	818	2	2	0.587348641	2.176977798	0.215761944	1.190131989
+R_1P0m1vJ2cPiAIHi	Male	Indian	Polytechnic	30+	Female	Indian	University	21	936	4	3	0.647347451	0.880722427	0.56858636	-0.000566436
+R_1P0m1vJ2cPiAIHi	Female	Indian	Secondary school	20+	Female	Indian	University	21	446	1	4	-1.41241929	-0.94651163	-2.742953032	-1.794121785
+R_1P0m1vJ2cPiAIHi	Female	Malay	University	20+	Female	Indian	University	21	532	1	5	0.062297425	0.598533833	0.114331441	-0.236622485
+R_1P0m1vJ2cPiAIHi	Male	Chinese	University	30+	Female	Indian	University	21	832	3	6	-1.564963342	-1.048372788	-1.326836453	-1.581838299
+R_1jJnFwKa3ZYBL3y	Male	Indian	University	20+	Female	Chinese	University	22	1014	1	1	-0.273805021	-0.171771798	0.35948624	-0.220220501
+R_1jJnFwKa3ZYBL3y	Female	Malay	Polytechnic	30+	Female	Chinese	University	22	911	1	2	-1.213162082	-2.066258173	-0.13747072	-1.389276107
+R_1jJnFwKa3ZYBL3y	Female	Chinese	Secondary school	30+	Female	Chinese	University	22	694	3	3	0.064221873	-0.115915082	-0.18399611	-0.043220649
+R_1jJnFwKa3ZYBL3y	Male	Chinese	University	20+	Female	Chinese	University	22	866	2	4	-1.798132467	-1.758297254	-2.981789321	0.802959005
+R_1jJnFwKa3ZYBL3y	Male	Malay	Polytechnic	20+	Female	Chinese	University	22	990	4	5	-1.796812193	-0.444205092	-1.372374619	-1.453976582
+R_1jJnFwKa3ZYBL3y	Female	Indian	Secondary school	30+	Female	Chinese	University	22	664	4	6	-1.205897602	-1.689986656	-0.946915626	-2.353722434
+R_2TnmmAqNHWDHNax	Male	Malay	Polytechnic	20+	Prefer not to say	Indian	Post-secondary	24	990	2	1	1.115819537	0.11794672	-0.766724395	-0.953303937
+R_2TnmmAqNHWDHNax	Female	Indian	Secondary school	30+	Prefer not to say	Indian	Post-secondary	24	664	2	2	2.257934771	0.227003069	1.765114312	0.842655084
+R_2TnmmAqNHWDHNax	Female	Chinese	Secondary school	30+	Prefer not to say	Indian	Post-secondary	24	694	1	3	0.597744538	2.558092524	0.713941946	-0.429775938
+R_2TnmmAqNHWDHNax	Male	Chinese	University	20+	Prefer not to say	Indian	Post-secondary	24	866	3	4	-2.381685618	0.179384686	-3.728240709	0.459073744
+R_2TnmmAqNHWDHNax	Male	Indian	University	20+	Prefer not to say	Indian	Post-secondary	24	1014	4	5	-0.699223543	2.218932639	0.970396324	0.573116617
+R_2TnmmAqNHWDHNax	Female	Malay	Polytechnic	30+	Prefer not to say	Indian	Post-secondary	24	911	4	6	-0.243766684	2.187589401	0.367379726	1.064043232
+R_3fDHenRlEXshfGR	Female	Malay	University	30+	Female	Chinese	University	25	931	4	1	-1.323832004	-1.491519116	-0.553799161	-0.232380891
+R_3fDHenRlEXshfGR	Male	Malay	Secondary school	20+	Female	Chinese	University	25	613	2	2	-0.193720023	-1.084876088	0.238962832	-0.637513886
+R_3fDHenRlEXshfGR	Female	Indian	University	30+	Female	Chinese	University	25	956	2	3	0.46792583	1.340786169	-0.194520699	-0.094815015
+R_3fDHenRlEXshfGR	Male	Indian	Polytechnic	20+	Female	Chinese	University	25	618	1	4	-1.063198801	1.075456071	-0.365569052	0.379800133
+R_3fDHenRlEXshfGR	Female	Chinese	Polytechnic	30+	Female	Chinese	University	25	937	3	5	-0.737992198	1.275004001	-0.421835374	-0.541253714
+R_3fDHenRlEXshfGR	Male	Chinese	Secondary school	20+	Female	Chinese	University	25	400	1	6	-1.312661397	1.293454591	-0.046966705	0.615044916
+R_2eR2Owog0exKeCR	Male	Malay	Secondary school	20+	Female	Chinese	University	29	613	1	1	-0.467327207	-1.07891182	-0.516049971	-0.104939817
+R_2eR2Owog0exKeCR	Female	Indian	University	30+	Female	Chinese	University	29	956	3	2	-0.809879275	0.328735758	-0.614080232	1.30826178
+R_2eR2Owog0exKeCR	Female	Malay	University	30+	Female	Chinese	University	29	931	3	3	-1.412990346	-1.045255192	-0.695308596	-1.36370989
+R_2eR2Owog0exKeCR	Female	Chinese	Polytechnic	30+	Female	Chinese	University	29	937	2	4	1.698630126	0.099724518	0.79944576	0.114714871
+R_2eR2Owog0exKeCR	Male	Chinese	Secondary school	20+	Female	Chinese	University	29	400	4	5	-1.579475514	-0.859390485	-1.232407525	-0.218822847
+R_2eR2Owog0exKeCR	Male	Indian	Polytechnic	20+	Female	Chinese	University	29	618	2	6	-1.515075538	0.051326523	-0.341742655	1.062071523
+R_rrPsHpqQQKR8qjv	Female	Chinese	Polytechnic	20+	Female	Chinese	University	21	818	1	1	-1.479185387	-1.579892521	-0.013152468	-0.830316704
+R_rrPsHpqQQKR8qjv	Male	Chinese	University	30+	Female	Chinese	University	21	832	2	2	-1.715023796	-0.994453643	-1.348959578	-0.768784902
+R_rrPsHpqQQKR8qjv	Female	Malay	University	20+	Female	Chinese	University	21	532	5	3	-0.073035239	0.829254026	0.032696958	0.747838165
+R_rrPsHpqQQKR8qjv	Male	Indian	Polytechnic	30+	Female	Chinese	University	21	936	4	4	-0.528471848	-0.433054317	-0.789041975	-0.115500057
+R_rrPsHpqQQKR8qjv	Female	Indian	Secondary school	20+	Female	Chinese	University	21	446	1	5	-1.516449508	-1.061830387	-1.389851006	-1.099302327
+R_rrPsHpqQQKR8qjv	Male	Malay	Secondary school	30+	Female	Chinese	University	21	965	4	6	-0.890548472	-1.472682371	-1.868074668	-0.987888279
+R_ABg3W9zWP6moSNr	Male	Chinese	Secondary school	20+	Female	Chinese	Post-secondary	21	400	3	1	1.540966848	-0.890427723	1.1551709	0.746317964
+R_ABg3W9zWP6moSNr	Female	Malay	University	30+	Female	Chinese	Post-secondary	21	931	2	2	-2.395435377	-0.896048462	-0.207924051	-1.237456308
+R_ABg3W9zWP6moSNr	Female	Chinese	Polytechnic	30+	Female	Chinese	Post-secondary	21	937	4	3	-0.916652683	1.004865244	-0.52366529	-0.888778154
+R_ABg3W9zWP6moSNr	Male	Indian	Polytechnic	20+	Female	Chinese	Post-secondary	21	618	3	4	0.864352473	1.272898324	1.266445074	1.002060129
+R_ABg3W9zWP6moSNr	Male	Malay	Secondary school	20+	Female	Chinese	Post-secondary	21	613	1	5	0.822330042	-1.888499829	0.55003707	-1.774028533
+R_ABg3W9zWP6moSNr	Female	Indian	University	30+	Female	Chinese	Post-secondary	21	956	4	6	0.901352995	1.448231824	0.871336091	1.290489041
+R_9sD2QTv1ATt8X5v	Male	Chinese	University	20+	Male	Chinese	University	24	866	3	1	0.091795066	-1.473115903	-0.026334435	-1.54519588
+R_9sD2QTv1ATt8X5v	Female	Chinese	Secondary school	30+	Male	Chinese	University	24	694	1	2	0.601871441	-1.155556413	-0.344641566	-0.894698126
+R_9sD2QTv1ATt8X5v	Male	Malay	Polytechnic	20+	Male	Chinese	University	24	990	4	3	-1.173779557	-0.402335132	-1.806861841	-0.807331261
+R_9sD2QTv1ATt8X5v	Female	Indian	Secondary school	30+	Male	Chinese	University	24	664	5	4	-0.383875343	-1.683797628	-1.030553613	-1.721993373
+R_9sD2QTv1ATt8X5v	Male	Indian	University	20+	Male	Chinese	University	24	1014	4	5	-0.609792552	-0.214820044	-0.099178879	-0.681240889
+R_9sD2QTv1ATt8X5v	Female	Malay	Polytechnic	30+	Male	Chinese	University	24	911	2	6	0.464567708	-1.078776901	0.358453731	-0.313785403
+R_31mX2HexUc1s1ca	Male	Malay	University	30+	Female	Malay	Post-secondary	20	558	1	1	1.708392963	0.738496418	-0.76762825	-2.629715289
+R_31mX2HexUc1s1ca	Male	Chinese	Polytechnic	20+	Female	Malay	Post-secondary	20	878	4	2	-0.965339097	1.964051051	-0.599976289	1.049894318
+R_31mX2HexUc1s1ca	Female	Chinese	University	20+	Female	Malay	Post-secondary	20	239	2	3	2.663042907	1.466933409	0.829591349	-1.174673454
+R_31mX2HexUc1s1ca	Female	Malay	Secondary school	20+	Female	Malay	Post-secondary	20	225	3	4	1.701052301	0.764977063	1.120366719	-0.829059614
+R_31mX2HexUc1s1ca	Male	Indian	Secondary school	30+	Female	Malay	Post-secondary	20	962	4	5	-2.082502838	0.018956875	-0.323758492	-0.18595275
+R_31mX2HexUc1s1ca	Female	Indian	Polytechnic	20+	Female	Malay	Post-secondary	20	930	2	6	-0.979785679	0.490969445	-1.105965469	0.358786973
+R_1LzgCShkM9NfSVh	Female	Indian	University	30+	Female	Indian	Secondary	54	956	3	1	2.403890799	1.046101338	1.614705935	1.400094054
+R_1LzgCShkM9NfSVh	Male	Chinese	Secondary school	20+	Female	Indian	Secondary	54	400	1	2	0.317911523	-0.565108878	1.419808583	1.698713926
+R_1LzgCShkM9NfSVh	Female	Chinese	Polytechnic	30+	Female	Indian	Secondary	54	937	4	3	0.671615689	1.040659751	1.632504177	1.609699647
+R_1LzgCShkM9NfSVh	Male	Malay	Secondary school	20+	Female	Indian	Secondary	54	613	3	5	0.057761376	0.250648991	1.908724614	0.540697316
+R_1LzgCShkM9NfSVh	Female	Malay	University	30+	Female	Indian	Secondary	54	931	2	6	0.792321	1.332546662	1.682131107	1.424609071
+R_1NyKmhsxZfgpB6n	Female	Chinese	Secondary school	30+	Female	Malay	Post-secondary	47	694	2	1	-0.042401994	-1.179006223	-0.010014809	-0.686202347
+R_1NyKmhsxZfgpB6n	Male	Malay	Polytechnic	20+	Female	Malay	Post-secondary	47	990	1	3	-0.817139357	-0.457591666	-0.848608707	-0.976159404
+R_1NyKmhsxZfgpB6n	Female	Malay	Polytechnic	30+	Female	Malay	Post-secondary	47	911	3	4	-0.281504731	-0.731166121	-0.384402558	-0.844324484
+R_1NyKmhsxZfgpB6n	Male	Chinese	University	20+	Female	Malay	Post-secondary	47	866	4	5	-0.350687791	-1.034856639	-1.066996331	-0.616224263
+R_1NyKmhsxZfgpB6n	Male	Indian	University	20+	Female	Malay	Post-secondary	47	1014	4	6	-0.070380229	0.244650914	-0.149331254	0.093253072
+R_3p6eQ7cNYQttzGI	Female	Chinese	Polytechnic	30+	Female	Indian	University	25	937	3	1	-0.141420576	0.877545949	-0.315978593	1.350756079
+R_3p6eQ7cNYQttzGI	Male	Indian	Polytechnic	20+	Female	Indian	University	25	618	2	2	-0.315445555	-0.816184363	-0.549940192	-0.735749887
+R_3p6eQ7cNYQttzGI	Male	Malay	Secondary school	20+	Female	Indian	University	25	613	1	3	-0.896520652	-0.555518402	-0.138245009	-0.441977135
+R_3p6eQ7cNYQttzGI	Female	Malay	University	30+	Female	Indian	University	25	931	2	4	-0.833856428	-0.026522556	-0.491035341	-0.759570984
+R_3p6eQ7cNYQttzGI	Male	Chinese	Secondary school	20+	Female	Indian	University	25	400	4	5	-0.86918266	-0.095012158	-0.428361689	-0.100576905
+R_3p6eQ7cNYQttzGI	Female	Indian	University	30+	Female	Indian	University	25	956	1	6	0.225152895	-0.342936133	-0.89901371	0.255324677
+R_1QEZy7TRZj6oH8U	Female	Chinese	University	20+	Male	Indian	University	24	239	4	1	1.277819931	1.102949285	1.296939892	1.451078414
+R_1QEZy7TRZj6oH8U	Female	Indian	Polytechnic	20+	Male	Indian	University	24	930	4	2	1.256917317	1.095636682	0.967140832	0.804443307
+R_1QEZy7TRZj6oH8U	Male	Indian	Secondary school	30+	Male	Indian	University	24	962	1	3	0.787893141	0.090595303	0.357977647	0.407553591
+R_1QEZy7TRZj6oH8U	Male	Malay	University	30+	Male	Indian	University	24	558	1	4	0.845401247	1.351680113	1.106451243	1.557279448
+R_1QEZy7TRZj6oH8U	Male	Chinese	Polytechnic	20+	Male	Indian	University	24	878	2	5	-0.02157085	1.475829253	0.267297838	0.825089224
+R_1QEZy7TRZj6oH8U	Female	Malay	Secondary school	20+	Male	Indian	University	24	225	3	6	1.74496073	0.963445722	1.015493391	0.619709881
+R_10IdEvDZq14KR0D	Male	Indian	Secondary school	30+	Female	Chinese	Post-secondary	23	962	2	1	-0.255777905	-0.175307056	-0.587462077	-0.742978944
+R_10IdEvDZq14KR0D	Male	Malay	University	30+	Female	Chinese	Post-secondary	23	558	1	2	-0.329254012	-0.13779733	-0.086544153	-0.276780882
+R_10IdEvDZq14KR0D	Female	Malay	Secondary school	20+	Female	Chinese	Post-secondary	23	225	2	3	-0.150580986	0.511557094	-0.872098276	0.233161802
+R_10IdEvDZq14KR0D	Male	Chinese	Polytechnic	20+	Female	Chinese	Post-secondary	23	878	3	4	-0.014637671	0.368688283	-0.339539515	-0.020617517
+R_10IdEvDZq14KR0D	Female	Chinese	University	20+	Female	Chinese	Post-secondary	23	239	4	5	-0.867444195	0.552840021	-0.161099328	-0.716728728
+R_10IdEvDZq14KR0D	Female	Indian	Polytechnic	20+	Female	Chinese	Post-secondary	23	930	4	6	-0.596095492	-0.547816534	-0.252529746	0.780783124
+R_2b4cXwNsqwZazvg	Female	Indian	Secondary school	30+	Female	Chinese	University	21	664	5	1	-0.478334654	0.008431253	0.186647653	1.520312254
+R_2b4cXwNsqwZazvg	Female	Malay	Polytechnic	30+	Female	Chinese	University	21	911	4	2	0.100408717	-0.599525039	-0.550126898	0.118684704
+R_2b4cXwNsqwZazvg	Male	Chinese	University	20+	Female	Chinese	University	21	866	2	3	0.297617431	-0.510134425	0.442313997	-0.802805976
+R_2b4cXwNsqwZazvg	Male	Indian	University	20+	Female	Chinese	University	21	1014	2	4	0.044646609	0.822463368	0.689008418	0.564737202
+R_2b4cXwNsqwZazvg	Male	Malay	Polytechnic	20+	Female	Chinese	University	21	990	1	5	-0.183801824	-1.312537619	0.658254053	0.197269463
+R_2b4cXwNsqwZazvg	Female	Chinese	Secondary school	30+	Female	Chinese	University	21	694	3	6	0.137705026	-0.238614545	-0.694916058	0.662571923
+R_22tAcEFvZ4qrkeN	Female	Malay	Secondary school	20+	Male	Indian	University	23	225	2	1	1.108260812	-0.167286013	0.494047423	-0.532600274
+R_22tAcEFvZ4qrkeN	Female	Chinese	University	20+	Male	Indian	University	23	239	4	2	-1.601538868	0.031583117	0.578480677	0.823381184
+R_22tAcEFvZ4qrkeN	Male	Indian	Secondary school	30+	Male	Indian	University	23	962	3	3	-1.40300834	-0.201675643	0.120178242	0.335786175
+R_22tAcEFvZ4qrkeN	Male	Malay	University	30+	Male	Indian	University	23	558	3	4	-0.365158452	0.213383065	-0.914712757	-0.497524906
+R_22tAcEFvZ4qrkeN	Female	Indian	Polytechnic	20+	Male	Indian	University	23	930	2	6	0.645750735	-0.230273756	0.802820614	1.015578754
+R_SIhEFlRfGbH0QdH	Male	Chinese	University	30+	Female	Chinese	Post-secondary	28	832	3	1	-0.910154643	0.366815617	0.859338721	0.205149561
+R_SIhEFlRfGbH0QdH	Female	Malay	University	20+	Female	Chinese	Post-secondary	28	532	2	2	1.289245038	0.261001348	1.182100454	-0.710796569
+R_SIhEFlRfGbH0QdH	Female	Chinese	Polytechnic	20+	Female	Chinese	Post-secondary	28	818	1	3	-0.40133406	1.225889127	1.760257717	0.540414988
+R_SIhEFlRfGbH0QdH	Male	Malay	Secondary school	30+	Female	Chinese	Post-secondary	28	965	4	4	1.663939005	-2.064952782	1.999489181	1.14936749
+R_SIhEFlRfGbH0QdH	Male	Indian	Polytechnic	30+	Female	Chinese	Post-secondary	28	936	3	5	0.327452618	1.272755982	1.679578017	0.292039757
+R_SIhEFlRfGbH0QdH	Female	Indian	Secondary school	20+	Female	Chinese	Post-secondary	28	446	1	6	-1.093783056	0.1187349	-0.072193808	-1.880383235
+R_5vzrXeizPfRiSPv	Female	Malay	University	20+	Female	Malay	Post-secondary	19	532	1	1	-1.145181298	1.207975658	0.251240391	-0.8340078
+R_5vzrXeizPfRiSPv	Female	Indian	Secondary school	20+	Female	Malay	Post-secondary	19	446	1	2	0.319413646	0.044470735	0.460455646	1.563145496
+R_5vzrXeizPfRiSPv	Male	Malay	Secondary school	30+	Female	Malay	Post-secondary	19	965	3	3	1.495716089	0.184369916	-0.074780254	0.761903672
+R_5vzrXeizPfRiSPv	Male	Indian	Polytechnic	30+	Female	Malay	Post-secondary	19	936	2	4	1.588782824	0.280761071	0.987202685	0.989068747
+R_5vzrXeizPfRiSPv	Male	Chinese	University	30+	Female	Malay	Post-secondary	19	832	4	5	-0.332377754	-0.002279666	-0.326243284	1.073797934
+R_5vzrXeizPfRiSPv	Female	Chinese	Polytechnic	20+	Female	Malay	Post-secondary	19	818	2	6	1.447194079	1.693035957	1.864467871	1.607874035
+R_1F8kuelX0Opbadu	Male	Indian	Polytechnic	20+	Male	Indian	Post-secondary	22	618	3	1	1.017991827	0.698735888	0.125712565	0.95558746
+R_1F8kuelX0Opbadu	Female	Indian	University	30+	Male	Indian	Post-secondary	22	956	2	2	1.230955485	1.346245705	0.632147602	0.421607731
+R_1F8kuelX0Opbadu	Female	Chinese	Polytechnic	30+	Male	Indian	Post-secondary	22	937	3	3	0.421696128	0.548586187	0.68490998	-0.457838486
+R_1F8kuelX0Opbadu	Male	Chinese	Secondary school	20+	Male	Indian	Post-secondary	22	400	1	4	0.496434593	0.397966043	0.961075308	-0.11921794
+R_1F8kuelX0Opbadu	Female	Malay	University	30+	Male	Indian	Post-secondary	22	931	2	5	1.530179919	-0.007123893	1.111123458	-0.733329863
+R_1F8kuelX0Opbadu	Male	Malay	Secondary school	20+	Male	Indian	Post-secondary	22	613	4	6	2.489232164	0.925539093	1.440170737	0.334577605
+R_86XYt78LG6A8kAF	Male	Malay	Secondary school	20+	Female	Indian	Post-secondary	20	613	2	1	0.808655288	1.248293488	2.271146216	-0.073378278
+R_86XYt78LG6A8kAF	Male	Indian	Polytechnic	20+	Female	Indian	Post-secondary	20	618	4	2	0.26168307	1.024230137	-0.082502285	0.970046175
+R_86XYt78LG6A8kAF	Male	Chinese	Secondary school	20+	Female	Indian	Post-secondary	20	400	4	3	0.381337311	0.849827968	0.31058558	0.10542485
+R_86XYt78LG6A8kAF	Female	Chinese	Polytechnic	30+	Female	Indian	Post-secondary	20	937	1	4	0.371738289	0.525771635	0.779791184	1.262719135
+R_86XYt78LG6A8kAF	Female	Malay	University	30+	Female	Indian	Post-secondary	20	931	3	5	0.213601747	0.673947379	0.485475802	0.554641971
+R_86XYt78LG6A8kAF	Female	Indian	University	30+	Female	Indian	Post-secondary	20	956	2	6	1.222492367	1.939213005	0.147752566	0.520448247
+R_3fK4RoDe5vsO2CF	Male	Chinese	University	20+	Non-binary / third gender	Indian	University	22	866	3	1	-2.246350006	-0.711960111	-0.885982694	-0.126836033
+R_3fK4RoDe5vsO2CF	Female	Chinese	Secondary school	30+	Non-binary / third gender	Indian	University	22	694	1	2	-1.901959269	-2.109363258	-2.532923652	-2.358158444
+R_3fK4RoDe5vsO2CF	Female	Malay	Polytechnic	30+	Non-binary / third gender	Indian	University	22	911	4	3	-1.646874661	0.42938387	2.260315343	2.202206128
+R_3fK4RoDe5vsO2CF	Male	Indian	University	20+	Non-binary / third gender	Indian	University	22	1014	1	4	-1.64087857	-0.912580551	-1.694039985	-1.092122788
+R_3fK4RoDe5vsO2CF	Female	Indian	Secondary school	30+	Non-binary / third gender	Indian	University	22	664	4	5	-3.213725692	-3.249816289	-2.846433608	-2.693603087
+R_3fK4RoDe5vsO2CF	Male	Malay	Polytechnic	20+	Non-binary / third gender	Indian	University	22	990	2	6	-0.964784125	-1.788701441	-1.252999888	-1.21573946
+R_2du0L38RN7u7lD2	Female	Indian	Secondary school	20+	Female	Indian	Post-secondary	20	446	5	1	-0.494281964	-0.800154742	-0.735610216	-1.566750282
+R_2du0L38RN7u7lD2	Male	Malay	Secondary school	30+	Female	Indian	Post-secondary	20	965	2	2	2.148183899	1.275321904	0.54417921	1.757485965
+R_2du0L38RN7u7lD2	Male	Chinese	University	30+	Female	Indian	Post-secondary	20	832	4	3	-2.171288504	0.86127104	-0.814895971	1.411704401
+R_2du0L38RN7u7lD2	Female	Malay	University	20+	Female	Indian	Post-secondary	20	532	5	4	-0.019721473	1.169323676	1.55510853	0.436423908
+R_2du0L38RN7u7lD2	Female	Chinese	Polytechnic	20+	Female	Indian	Post-secondary	20	818	1	5	-0.125483931	2.074341413	1.667398036	1.942854712
+R_2du0L38RN7u7lD2	Male	Indian	Polytechnic	30+	Female	Indian	Post-secondary	20	936	1	6	2.343206871	0.900494783	0.748149895	0.733584329
+R_3DhWRygUkgv1vXd	Female	Indian	Secondary school	30+	Female	Chinese	University	21	664	2	1	1.726158083	0.776812214	0.688857806	0.984880166
+R_3DhWRygUkgv1vXd	Female	Malay	Polytechnic	30+	Female	Chinese	University	21	911	1	2	1.072746308	1.623617007	1.626822835	1.30090071
+R_3DhWRygUkgv1vXd	Female	Chinese	Secondary school	30+	Female	Chinese	University	21	694	4	3	0.230571512	0.2108817	0.443743019	0.556037624
+R_3DhWRygUkgv1vXd	Male	Chinese	University	20+	Female	Chinese	University	21	866	3	4	0.790568042	0.843289044	0.970168143	1.295572629
+R_3DhWRygUkgv1vXd	Male	Malay	Polytechnic	20+	Female	Chinese	University	21	990	2	5	1.726329435	0.427002923	1.271420113	1.400231158
+R_3DhWRygUkgv1vXd	Male	Indian	University	20+	Female	Chinese	University	21	1014	4	6	1.085515226	0.852747211	1.178243921	1.13724715
+R_2U3pSylwoCwS2vl	Male	Indian	Secondary school	30+	Female	Chinese	University	24	962	4	1	-0.300549098	-1.324064831	1.054305252	1.376525062
+R_2U3pSylwoCwS2vl	Male	Malay	University	30+	Female	Chinese	University	24	558	1	2	-1.124639941	0.165339796	-0.890476168	0.196978343
+R_2U3pSylwoCwS2vl	Female	Indian	Polytechnic	20+	Female	Chinese	University	24	930	3	3	-0.891320739	0.596977367	-0.416745211	0.957548408
+R_2U3pSylwoCwS2vl	Female	Chinese	University	20+	Female	Chinese	University	24	239	5	4	0.39983983	-0.13108275	0.110929458	-0.318729499
+R_2U3pSylwoCwS2vl	Female	Malay	Secondary school	20+	Female	Chinese	University	24	225	4	5	-1.030622994	-0.083531778	-0.843190973	-0.449995677
+R_2U3pSylwoCwS2vl	Male	Chinese	Polytechnic	20+	Female	Chinese	University	24	878	2	6	0.462302724	0.737959512	-0.234715862	-0.234993843
+R_1ovg8AwCT8DMpuh	Female	Indian	University	30+	Prefer not to say	Chinese	Post-secondary	23	956	2	1	2.054099344	1.652824107	2.102502934	2.037111115
+R_1ovg8AwCT8DMpuh	Male	Chinese	Secondary school	20+	Prefer not to say	Chinese	Post-secondary	23	400	1	2	-0.908069288	-1.79946571	-2.652188017	-1.91287535
+R_1ovg8AwCT8DMpuh	Female	Chinese	Polytechnic	30+	Prefer not to say	Chinese	Post-secondary	23	937	3	3	0.394528032	-0.922234536	-0.593572802	-0.591666033
+R_1ovg8AwCT8DMpuh	Male	Indian	Polytechnic	20+	Prefer not to say	Chinese	Post-secondary	23	618	1	4	-0.0364638	1.189229148	1.292971078	0.322243041
+R_1ovg8AwCT8DMpuh	Male	Malay	Secondary school	20+	Prefer not to say	Chinese	Post-secondary	23	613	2	5	-1.454364476	-1.889262395	-2.163666207	-1.889126396
+R_1ovg8AwCT8DMpuh	Female	Malay	University	30+	Prefer not to say	Chinese	Post-secondary	23	931	4	6	0.543675913	-0.370503692	0.932215641	1.21441722
+R_5ojPNVAJYgNuChr	Female	Malay	University	30+	Female	Chinese	University	22	931	4	1	0.050002581	0.460738821	-0.806016377	0.026616879
+R_5ojPNVAJYgNuChr	Male	Malay	Secondary school	20+	Female	Chinese	University	22	613	1	2	-0.907576797	-0.657853883	-0.10590106	-0.721288672
+R_5ojPNVAJYgNuChr	Male	Chinese	Secondary school	20+	Female	Chinese	University	22	400	2	3	-0.022737371	-0.141888081	-0.733285355	-0.133533759
+R_5ojPNVAJYgNuChr	Male	Indian	Polytechnic	20+	Female	Chinese	University	22	618	4	4	0.614286257	-0.034498166	0.479123826	0.257013278
+R_5ojPNVAJYgNuChr	Female	Chinese	Polytechnic	30+	Female	Chinese	University	22	937	3	5	0.263379833	-0.063966865	-0.482802756	0.151583253
+R_5ojPNVAJYgNuChr	Female	Indian	University	30+	Female	Chinese	University	22	956	3	6	-0.087152225	0.691769716	0.87700097	0.973971171
+R_UiGxtA0bbOsNic9	Female	Malay	University	20+	Female	Chinese	Secondary	31	532	4	1	-0.389006808	0.477723079	-0.283350699	0.23484647
+R_UiGxtA0bbOsNic9	Male	Malay	Secondary school	30+	Female	Chinese	Secondary	31	965	3	2	-0.729777713	-0.863780732	-0.64574851	-0.710801395
+R_UiGxtA0bbOsNic9	Male	Indian	Polytechnic	30+	Female	Chinese	Secondary	31	936	4	3	-0.302490727	-0.779362562	-0.262226095	-1.196393812
+R_UiGxtA0bbOsNic9	Female	Chinese	Polytechnic	20+	Female	Chinese	Secondary	31	818	1	4	-0.365712385	-0.897678623	-0.177523854	-0.211620209
+R_UiGxtA0bbOsNic9	Female	Indian	Secondary school	20+	Female	Chinese	Secondary	31	446	1	5	-0.919096074	-0.301327412	-1.123612251	-0.980222937
+R_UiGxtA0bbOsNic9	Male	Chinese	University	30+	Female	Chinese	Secondary	31	832	2	6	-0.751820665	-0.252178522	-0.731018271	-0.555550842
+R_O9VhcMggVWgQuHL	Male	Indian	Polytechnic	30+	Female	Chinese	Post-secondary	21	936	2	1	-0.006587018	0.602812391	0.299888275	-0.141725713
+R_O9VhcMggVWgQuHL	Male	Chinese	University	30+	Female	Chinese	Post-secondary	21	832	3	2	-1.349963272	-0.260253972	-1.865918114	-2.047005704
+R_O9VhcMggVWgQuHL	Female	Malay	University	20+	Female	Chinese	Post-secondary	21	532	4	3	-0.218236219	0.807111537	-0.066440677	-0.395851021
+R_O9VhcMggVWgQuHL	Male	Malay	Secondary school	30+	Female	Chinese	Post-secondary	21	965	1	4	-0.50044219	-0.479156302	0.176368059	-0.495893843
+R_O9VhcMggVWgQuHL	Female	Chinese	Polytechnic	20+	Female	Chinese	Post-secondary	21	818	2	5	-0.071149096	0.470126264	-0.584896352	-0.133145016
+R_O9VhcMggVWgQuHL	Female	Indian	Secondary school	20+	Female	Chinese	Post-secondary	21	446	3	6	-1.202923296	-0.331954649	-1.475835759	-1.934316046
+R_bxXGIgcppAVn8WJ	Female	Malay	Polytechnic	30+	Male	Malay	Post-secondary	23	911	2	1	1.196787438	-0.549797051	1.586511141	1.487836319
+R_bxXGIgcppAVn8WJ	Female	Chinese	Secondary school	30+	Male	Malay	Post-secondary	23	694	1	2	0.7699209	-0.84996511	0.060538613	-0.995460453
+R_bxXGIgcppAVn8WJ	Male	Indian	University	20+	Male	Malay	Post-secondary	23	1014	4	3	-0.199457202	0.085644568	-0.874907919	0.428610161
+R_bxXGIgcppAVn8WJ	Female	Indian	Secondary school	30+	Male	Malay	Post-secondary	23	664	1	4	0.124938262	-0.349516145	0.245748895	-0.06752113
+R_bxXGIgcppAVn8WJ	Male	Chinese	University	20+	Male	Malay	Post-secondary	23	866	3	5	-0.206940972	-0.703586811	-0.054916409	0.385989974
+R_bxXGIgcppAVn8WJ	Male	Malay	Polytechnic	20+	Male	Malay	Post-secondary	23	990	4	6	-0.319499992	-1.382400109	-0.313292033	0.288207783
+R_1BT1k9IBGWKNCUN	Female	Indian	University	30+	Male	Chinese	Post-secondary	21	956	1	1	-0.13190948	0.43337668	0.679398586	-0.181312473
+R_1BT1k9IBGWKNCUN	Female	Chinese	Polytechnic	30+	Male	Chinese	Post-secondary	21	937	2	2	1.064877814	0.242860165	1.22647701	-0.365872202
+R_1BT1k9IBGWKNCUN	Male	Indian	Polytechnic	20+	Male	Chinese	Post-secondary	21	618	4	3	0.624624308	1.300705682	0.143921689	0.612873075
+R_1BT1k9IBGWKNCUN	Female	Malay	University	30+	Male	Chinese	Post-secondary	21	931	3	5	-0.131674079	-1.617526066	0.197857139	-0.902336475
+R_1BT1k9IBGWKNCUN	Male	Chinese	Secondary school	20+	Male	Chinese	Post-secondary	21	400	4	6	-1.220471002	1.827420002	-1.475619278	0.794544608
+R_3k7W3cMfVK8DRIo	Female	Indian	Secondary school	30+	Female	Indian	University	21	664	2	1	-1.760987576	-1.638807184	-1.623586692	-0.759473512
+R_3k7W3cMfVK8DRIo	Male	Malay	Polytechnic	20+	Female	Indian	University	21	990	1	2	-2.366494435	-1.101709176	-1.555211875	-1.729217945
+R_3k7W3cMfVK8DRIo	Male	Chinese	University	20+	Female	Indian	University	21	866	3	3	0.663443519	0.06799297	0.079497773	1.275900474
+R_3k7W3cMfVK8DRIo	Female	Malay	Polytechnic	30+	Female	Indian	University	21	911	2	4	0.502363494	0.959159435	0.299189407	0.19991716
+R_3k7W3cMfVK8DRIo	Female	Chinese	Secondary school	30+	Female	Indian	University	21	694	4	5	-1.018729363	-0.673025545	-1.577149118	-1.17082379
+R_3k7W3cMfVK8DRIo	Male	Indian	University	20+	Female	Indian	University	21	1014	3	6	1.557464585	1.238975069	1.655785017	1.334278525
+R_2uCIbIaeyxo0dFc	Male	Malay	Secondary school	20+	Male	Malay	University	22	613	3	1	0.231614435	-1.380846347	-0.724978221	-1.80702878
+R_2uCIbIaeyxo0dFc	Male	Indian	Polytechnic	20+	Male	Malay	University	22	618	4	2	-0.914152832	1.093885356	-0.817988437	-0.547998301
+R_2uCIbIaeyxo0dFc	Male	Chinese	Secondary school	20+	Male	Malay	University	22	400	2	3	0.658096305	0.406900858	-0.581155735	0.367373763
+R_2uCIbIaeyxo0dFc	Female	Malay	University	30+	Male	Malay	University	22	931	1	4	1.298569878	0.766756357	1.688318109	1.320623392
+R_2uCIbIaeyxo0dFc	Female	Chinese	Polytechnic	30+	Male	Malay	University	22	937	4	5	-0.667873505	0.352453165	-0.359824625	-1.737362571
+R_2uCIbIaeyxo0dFc	Female	Indian	University	30+	Male	Malay	University	22	956	1	6	0.793518332	0.812885244	-0.222255324	0.446640307
+R_xcnmhcMci3w9e9P	Female	Indian	Polytechnic	20+	Female	Chinese	University	23	930	2	1	-0.738673552	-1.547502382	0.688808298	-0.228755156
+R_xcnmhcMci3w9e9P	Male	Malay	University	30+	Female	Chinese	University	23	558	1	2	-0.049011325	-1.363899431	-0.322240813	-1.228862132
+R_xcnmhcMci3w9e9P	Male	Chinese	Polytechnic	20+	Female	Chinese	University	23	878	2	3	-1.085294878	1.359757385	-1.254170822	1.08509488
+R_xcnmhcMci3w9e9P	Female	Chinese	University	20+	Female	Chinese	University	23	239	4	4	0.111723076	0.767194007	-0.198441171	-0.035196797
+R_xcnmhcMci3w9e9P	Male	Indian	Secondary school	30+	Female	Chinese	University	23	962	4	5	0.140671194	-0.899932096	-0.263898765	-1.102002004
+R_xcnmhcMci3w9e9P	Female	Malay	Secondary school	20+	Female	Chinese	University	23	225	3	6	1.126627519	0.099812861	0.292366742	1.398074769
+R_3rZfCChZSwqDtf3	Male	Indian	Polytechnic	30+	Female	Chinese	Post-secondary	21	936	1	1	1.23400415	1.816945905	0.581118795	-0.223804753
+R_3rZfCChZSwqDtf3	Male	Malay	Secondary school	30+	Female	Chinese	Post-secondary	21	965	1	2	-0.84371044	-0.983862605	-0.544457587	-0.992118811
+R_3rZfCChZSwqDtf3	Female	Indian	Secondary school	20+	Female	Chinese	Post-secondary	21	446	3	3	-0.578252749	-1.313212314	-0.961527408	-2.198409575
+R_3rZfCChZSwqDtf3	Male	Chinese	University	30+	Female	Chinese	Post-secondary	21	832	2	4	-0.312294308	0.376622535	-0.006748657	-0.308579368
+R_3rZfCChZSwqDtf3	Female	Malay	University	20+	Female	Chinese	Post-secondary	21	532	4	5	-0.050042128	0.099258954	-0.246177354	-0.906000153
+R_3rZfCChZSwqDtf3	Female	Chinese	Polytechnic	20+	Female	Chinese	Post-secondary	21	818	3	6	0.384032255	1.369052438	0.769780451	0.93990804
+R_QlJ1owE2dpliERr	Male	Malay	Polytechnic	20+	Male	Malay	Post-secondary	25	990	1	1	-0.410561667	1.142443293	-0.53999786	0.051507454
+R_QlJ1owE2dpliERr	Female	Indian	Secondary school	30+	Male	Malay	Post-secondary	25	664	5	2	0.276545438	0.541130819	0.64597495	-0.642944361
+R_QlJ1owE2dpliERr	Female	Malay	Polytechnic	30+	Male	Malay	Post-secondary	25	911	3	3	0.808009014	-0.424170108	0.471251568	-0.167165925
+R_QlJ1owE2dpliERr	Male	Chinese	University	20+	Male	Malay	Post-secondary	25	866	2	4	0.906591738	1.407639413	0.090496399	0.247868028
+R_QlJ1owE2dpliERr	Male	Indian	University	20+	Male	Malay	Post-secondary	25	1014	1	5	0.118830204	0.247322169	-0.185351501	0.638924751
+R_QlJ1owE2dpliERr	Female	Chinese	Secondary school	30+	Male	Malay	Post-secondary	25	694	4	6	0.185872103	1.187750615	0.485248217	-0.605621808
+R_2qlKZJgsvcJqzu6	Female	Chinese	Polytechnic	30+	Male	Malay	Post-secondary	22	937	2	1	0.647318327	1.741054154	-0.291133309	0.293535434
+R_2qlKZJgsvcJqzu6	Male	Malay	Secondary school	20+	Male	Malay	Post-secondary	22	613	4	2	0.718706642	-0.109659604	1.901320545	-0.864603194
+R_2qlKZJgsvcJqzu6	Male	Indian	Polytechnic	20+	Male	Malay	Post-secondary	22	618	4	3	-0.855743463	0.334847418	0.575629842	-0.716644106
+R_2qlKZJgsvcJqzu6	Male	Chinese	Secondary school	20+	Male	Malay	Post-secondary	22	400	3	4	-1.321518267	0.849699096	-1.671667707	-0.575302845
+R_2qlKZJgsvcJqzu6	Female	Indian	University	30+	Male	Malay	Post-secondary	22	956	2	5	2.001352213	1.619479864	2.161140038	2.346871871
+R_2qlKZJgsvcJqzu6	Female	Malay	University	30+	Male	Malay	Post-secondary	22	931	1	6	0.391302695	0.117393707	0.457996179	0.054433045
+R_XKYJOFcR6lU8Gd3	Male	Malay	Polytechnic	20+	Male	Malay	Post-secondary	24	990	1	1	-0.66117732	-0.829706098	-0.32618483	-0.237882243
+R_XKYJOFcR6lU8Gd3	Female	Chinese	Secondary school	30+	Male	Malay	Post-secondary	24	694	3	2	-0.465694623	-1.036484054	-0.132345472	-0.491376054
+R_XKYJOFcR6lU8Gd3	Female	Malay	Polytechnic	30+	Male	Malay	Post-secondary	24	911	2	4	-0.123332858	-0.695652906	-0.754418197	-0.773448175
+R_XKYJOFcR6lU8Gd3	Male	Indian	University	20+	Male	Malay	Post-secondary	24	1014	4	5	-0.723029403	-0.414918453	0.178969714	-0.445783088
+R_XKYJOFcR6lU8Gd3	Male	Chinese	University	20+	Male	Malay	Post-secondary	24	866	4	6	-0.632084228	0.07613498	-1.082517226	0.272356232
+R_3KOtFjsM79X5uMN	Female	Indian	Secondary school	30+	Female	Chinese	Post-secondary	52	664	4	2	-1.447622816	-1.546056075	-1.611278208	-0.998885202
+R_3KOtFjsM79X5uMN	Female	Malay	Polytechnic	30+	Female	Chinese	Post-secondary	52	911	1	3	-0.517557399	-0.452916557	-0.279798109	-0.751823999
+R_3KOtFjsM79X5uMN	Male	Chinese	University	20+	Female	Chinese	Post-secondary	52	866	3	4	-1.667437864	-1.684412362	-1.387620532	-1.435694717
+R_3KOtFjsM79X5uMN	Male	Malay	Polytechnic	20+	Female	Chinese	Post-secondary	52	990	2	5	-1.340651957	-1.506985847	-1.346293065	-1.197875736
+R_3KOtFjsM79X5uMN	Female	Chinese	Secondary school	30+	Female	Chinese	Post-secondary	52	694	4	6	-1.566634698	-1.086626162	-0.902945337	-1.46933627
+R_uxmxScLOhbeAfU5	Female	Indian	Polytechnic	20+	Female	Chinese	University	22	930	3	1	-0.922337382	-0.050174317	-0.830473225	-0.364132428
+R_uxmxScLOhbeAfU5	Male	Malay	University	30+	Female	Chinese	University	22	558	4	2	0.538573165	-0.308079791	-0.094485669	-1.735248055
+R_uxmxScLOhbeAfU5	Female	Chinese	University	20+	Female	Chinese	University	22	239	2	3	-0.601148103	0.36056893	0.059373176	-1.058714388
+R_uxmxScLOhbeAfU5	Male	Chinese	Polytechnic	20+	Female	Chinese	University	22	878	3	4	0.622507804	0.211281236	-0.052109632	0.04493327
+R_uxmxScLOhbeAfU5	Male	Indian	Secondary school	30+	Female	Chinese	University	22	962	1	5	0.339013591	-0.431002738	-0.026412673	0.362638043
+R_uxmxScLOhbeAfU5	Female	Malay	Secondary school	20+	Female	Chinese	University	22	225	1	6	0.928728068	0.113766358	0.460771645	-0.344350053
+R_3dWxS2se9gOah7N	Male	Malay	Secondary school	30+	Male	Indian	University	26	965	2	1	2.293145004	-0.100274024	1.261081042	0.897280862
+R_3dWxS2se9gOah7N	Male	Indian	Polytechnic	30+	Male	Indian	University	26	936	3	2	-0.678692556	0.719633166	0.624281067	1.872979388
+R_3dWxS2se9gOah7N	Male	Chinese	University	30+	Male	Indian	University	26	832	1	3	0.442498772	0.055217936	-1.066507748	-1.274111323
+R_3dWxS2se9gOah7N	Female	Indian	Secondary school	20+	Male	Indian	University	26	446	5	4	-1.112093769	0.65446236	0.182751375	-0.208872219
+R_3dWxS2se9gOah7N	Female	Chinese	Polytechnic	20+	Male	Indian	University	26	818	4	5	0.072537617	0.29210042	1.286553075	2.235314952
+R_3Ge2uIWPe3qmZ7G	Female	Chinese	University	20+	Female	Indian	University	22	239	1	1	-0.768411084	0.710014967	0.228425807	1.99556447
+R_3Ge2uIWPe3qmZ7G	Male	Chinese	Polytechnic	20+	Female	Indian	University	22	878	3	2	1.630803419	1.438992844	0.966423255	1.964567309
+R_3Ge2uIWPe3qmZ7G	Female	Malay	Secondary school	20+	Female	Indian	University	22	225	2	3	1.464052659	-0.089313321	0.890499397	-0.150086368
+R_3Ge2uIWPe3qmZ7G	Male	Malay	University	30+	Female	Indian	University	22	558	4	4	-0.825572108	-0.601178668	-0.014122353	-0.794998735
+R_3Ge2uIWPe3qmZ7G	Male	Indian	Secondary school	30+	Female	Indian	University	22	962	1	5	0.505547616	-0.164034016	0.629361266	0.495395434
+R_3Ge2uIWPe3qmZ7G	Female	Indian	Polytechnic	20+	Female	Indian	University	22	930	4	6	0.036088673	-0.267909106	-0.445789473	0.735478227
+R_2TNRhgeafuxIDGi	Female	Malay	University	30+	Female	Chinese	Post-secondary	21	931	4	1	-0.703740054	-1.561127341	-0.244682229	-0.567421384
+R_2TNRhgeafuxIDGi	Male	Malay	Secondary school	20+	Female	Chinese	Post-secondary	21	613	3	2	-0.710218342	-0.743138498	-0.052324603	-0.388020164
+R_2TNRhgeafuxIDGi	Male	Indian	Polytechnic	20+	Female	Chinese	Post-secondary	21	618	2	3	-0.94083605	-0.48257473	-1.011802189	-0.971275815
+R_2TNRhgeafuxIDGi	Male	Chinese	Secondary school	20+	Female	Chinese	Post-secondary	21	400	2	4	-0.337153791	-0.425013194	-1.044695946	-0.471037045
+R_2TNRhgeafuxIDGi	Female	Indian	University	30+	Female	Chinese	Post-secondary	21	956	1	5	-0.358539452	0.037208488	-0.536585612	-0.475454662
+R_2TNRhgeafuxIDGi	Female	Chinese	Polytechnic	30+	Female	Chinese	Post-secondary	21	937	1	6	-0.09189337	-0.260869055	-0.254772826	-0.126088145
+R_1gUxXrcuE9Gvsy3	Female	Chinese	Polytechnic	30+	Female	Chinese	University	24	937	3	1	-1.497492254	2.119643221	-0.851000124	-0.397362062
+R_1gUxXrcuE9Gvsy3	Male	Malay	Secondary school	20+	Female	Chinese	University	24	613	4	2	0.212822511	-2.169542663	-0.128895708	-0.654991942
+R_1gUxXrcuE9Gvsy3	Female	Malay	University	30+	Female	Chinese	University	24	931	1	3	-0.696619527	0.915462619	-0.455792637	-0.068778163
+R_1gUxXrcuE9Gvsy3	Female	Indian	University	30+	Female	Chinese	University	24	956	2	4	1.268234162	0.921419188	0.894870124	0.901573716
+R_1gUxXrcuE9Gvsy3	Male	Indian	Polytechnic	20+	Female	Chinese	University	24	618	3	5	-0.050495225	0.308659639	0.276238609	1.426836721
+R_1gUxXrcuE9Gvsy3	Male	Chinese	Secondary school	20+	Female	Chinese	University	24	400	2	6	-0.286230506	-0.03174054	0.554505496	0.260513403
+R_1dgmxxXvdDRGeVU	Female	Indian	Polytechnic	20+	Female	Indian	University	21	930	1	1	1.47869852	-0.428792371	0.130664285	-0.062479675
+R_1dgmxxXvdDRGeVU	Male	Malay	University	30+	Female	Indian	University	21	558	3	2	0.493668015	-0.370437695	-0.148339762	0.133769119
+R_1dgmxxXvdDRGeVU	Male	Chinese	Polytechnic	20+	Female	Indian	University	21	878	2	3	-1.596172203	0.588544566	-1.35124346	-0.810074818
+R_1dgmxxXvdDRGeVU	Male	Indian	Secondary school	30+	Female	Indian	University	21	962	3	4	-0.371723981	-0.747182213	-0.029945659	-0.947588499
+R_1dgmxxXvdDRGeVU	Female	Chinese	University	20+	Female	Indian	University	21	239	1	5	-0.731279381	0.804675761	-0.258710649	-0.079760851
+R_1dgmxxXvdDRGeVU	Female	Malay	Secondary school	20+	Female	Indian	University	21	225	4	6	0.323090436	0.506019097	0.422895276	-0.109008961
+R_2aLHLqF4MyVs6EN	Female	Indian	University	30+	Male	Malay	Post-secondary	22	956	2	1	0.508855223	-0.036409869	-0.589699109	0.396717116
+R_2aLHLqF4MyVs6EN	Female	Chinese	Polytechnic	30+	Male	Malay	Post-secondary	22	937	2	2	0.166557437	-0.822168478	-0.354403913	0.458912484
+R_2aLHLqF4MyVs6EN	Male	Malay	Secondary school	20+	Male	Malay	Post-secondary	22	613	3	3	-0.182111119	-0.792089075	-0.211866957	0.104065166
+R_2aLHLqF4MyVs6EN	Male	Chinese	Secondary school	20+	Male	Malay	Post-secondary	22	400	1	4	-0.645294828	-0.44125552	-0.452803862	-0.526099167
+R_2aLHLqF4MyVs6EN	Male	Indian	Polytechnic	20+	Male	Malay	Post-secondary	22	618	3	5	-0.030036414	-0.005937275	-0.935672958	-0.481581344
+R_2aLHLqF4MyVs6EN	Female	Malay	University	30+	Male	Malay	Post-secondary	22	931	4	6	0.057058443	-0.4553633	-0.609180844	-0.468465826
+R_1LFNR6ECOdB8Tin	Male	Chinese	University	20+	Male	Malay	University	21	866	2	1	0.299158883	0.89113449	-0.462438202	1.238179344
+R_1LFNR6ECOdB8Tin	Male	Malay	Polytechnic	20+	Male	Malay	University	21	990	3	2	-0.912189187	-0.899419959	-0.720759736	-1.978705472
+R_1LFNR6ECOdB8Tin	Male	Indian	University	20+	Male	Malay	University	21	1014	1	3	-0.985745072	-0.294271273	-0.338396482	-0.774508346
+R_1LFNR6ECOdB8Tin	Female	Indian	Secondary school	30+	Male	Malay	University	21	664	2	4	0.023793295	-0.57064983	0.757613881	0.116938757
+R_1LFNR6ECOdB8Tin	Female	Malay	Polytechnic	30+	Male	Malay	University	21	911	4	5	0.604742603	0.153354334	0.935491963	0.271254347
+R_1LFNR6ECOdB8Tin	Female	Chinese	Secondary school	30+	Male	Malay	University	21	694	1	6	0.9641186	-0.337426568	1.002245824	0.543040937
+R_1oilAelQM6G6iTD	Male	Indian	Secondary school	30+	Male	Malay	University	23	962	4	1	-0.686579464	-0.363966688	-0.399901616	0.607129222
+R_1oilAelQM6G6iTD	Male	Malay	University	30+	Male	Malay	University	23	558	3	2	-1.466111152	-1.989703154	-3.187378412	-2.621241357
+R_1oilAelQM6G6iTD	Female	Chinese	University	20+	Male	Malay	University	23	239	4	3	-0.030956769	-0.813433608	-0.638306209	-0.245709151
+R_1oilAelQM6G6iTD	Female	Indian	Polytechnic	20+	Male	Malay	University	23	930	2	4	-0.78845057	-0.512681235	-0.724372235	0.177676286
+R_1oilAelQM6G6iTD	Male	Chinese	Polytechnic	20+	Male	Malay	University	23	878	1	5	-0.712794879	0.042026592	-0.430239562	0.22240239
+R_1oilAelQM6G6iTD	Female	Malay	Secondary school	20+	Male	Malay	University	23	225	2	6	-0.563342074	-0.171528799	-0.314676206	0.213963488
+R_1mWx1eXsMDfE3sn	Female	Malay	Secondary school	20+	Female	Chinese	University	21	225	4	1	0.828411956	-1.043171125	-0.657495855	-0.93316263
+R_1mWx1eXsMDfE3sn	Male	Chinese	Polytechnic	20+	Female	Chinese	University	21	878	1	2	0.754147501	0.659310207	0.2135365	1.239846312
+R_1mWx1eXsMDfE3sn	Male	Indian	Secondary school	30+	Female	Chinese	University	21	962	4	3	0.477325893	-1.115875162	0.548829909	-0.068752572
+R_1mWx1eXsMDfE3sn	Male	Malay	University	30+	Female	Chinese	University	21	558	2	4	-1.363213107	-1.056261893	-0.696768564	-2.279166849
+R_1mWx1eXsMDfE3sn	Female	Chinese	University	20+	Female	Chinese	University	21	239	5	5	0.481405688	0.148118705	0.17348529	-0.231266644
+R_1mWx1eXsMDfE3sn	Female	Indian	Polytechnic	20+	Female	Chinese	University	21	930	3	6	0.900226024	0.186641324	0.087258461	-0.248036496
+R_29jk3yW6TaOJuKp	Male	Malay	Polytechnic	20+	Female	Chinese	University	24	990	3	1	-1.102817667	0.907989471	0.118764282	0.247642514
+R_29jk3yW6TaOJuKp	Female	Chinese	Secondary school	30+	Female	Chinese	University	24	694	2	2	1.73877213	0.60747137	1.270066558	-0.015396363
+R_29jk3yW6TaOJuKp	Female	Malay	Polytechnic	30+	Female	Chinese	University	24	911	1	3	0.499737839	0.443375601	0.755489944	0.335923002
+R_29jk3yW6TaOJuKp	Male	Chinese	University	20+	Female	Chinese	University	24	866	4	4	0.731901096	0.814168443	0.169543147	0.144104664
+R_29jk3yW6TaOJuKp	Female	Indian	Secondary school	30+	Female	Chinese	University	24	664	1	5	-0.75577757	-0.846426989	-0.429250492	-0.704568147
+R_29jk3yW6TaOJuKp	Male	Indian	University	20+	Female	Chinese	University	24	1014	2	6	0.519676717	0.561506704	1.417188505	0.532927865
+R_3HhrxJD0ZcWPWfL	Male	Chinese	University	30+	Male	Malay	University	22	832	1	1	-1.453885217	-0.489392364	0.256061982	-1.120014537
+R_3HhrxJD0ZcWPWfL	Female	Malay	University	20+	Male	Malay	University	22	532	4	2	-0.42695781	-0.999638575	-0.176842959	-0.579055006
+R_3HhrxJD0ZcWPWfL	Male	Malay	Secondary school	30+	Male	Malay	University	22	965	2	3	-0.044053555	-1.236750197	-0.052572441	-0.380405894
+R_3HhrxJD0ZcWPWfL	Female	Chinese	Polytechnic	20+	Male	Malay	University	22	818	3	4	-1.229867654	-0.522400445	-1.421952852	-0.391419638
+R_3HhrxJD0ZcWPWfL	Female	Indian	Secondary school	20+	Male	Malay	University	22	446	3	5	-1.419498974	-0.89412894	-0.540210692	-0.639204654
+R_3HhrxJD0ZcWPWfL	Male	Indian	Polytechnic	30+	Male	Malay	University	22	936	1	6	0.490854206	-0.734057874	0.686653807	-1.40553672
+R_31R6tik2wCDj2tG	Male	Malay	University	30+	Female	Chinese	University	21	558	4	1	-0.19265575	0.070284767	-0.199307366	-1.994904714
+R_31R6tik2wCDj2tG	Female	Malay	Secondary school	20+	Female	Chinese	University	21	225	1	2	-0.243172546	0.134907692	-0.041132056	1.260694998
+R_31R6tik2wCDj2tG	Female	Indian	Polytechnic	20+	Female	Chinese	University	21	930	1	3	0.677359826	-0.234109835	0.344329446	-0.750108505
+R_31R6tik2wCDj2tG	Female	Chinese	University	20+	Female	Chinese	University	21	239	2	4	0.266145399	0.083605443	1.044013655	0.784365126
+R_31R6tik2wCDj2tG	Male	Chinese	Polytechnic	20+	Female	Chinese	University	21	878	3	5	1.021744996	1.013188826	0.418893339	0.810215398
+R_31R6tik2wCDj2tG	Male	Indian	Secondary school	30+	Female	Chinese	University	21	962	2	6	-0.817974375	0.172913466	-0.901067978	0.319751054
+R_2VvV8ucKN6wKB7H	Female	Indian	Polytechnic	20+	Female	Chinese	Secondary	55	930	3	1	-1.508756038	-1.238682283	0.002981637	-0.424606543
+R_2VvV8ucKN6wKB7H	Female	Malay	Secondary school	20+	Female	Chinese	Secondary	55	225	1	2	-0.85011244	-0.718852227	-0.158628979	0.348915571
+R_2VvV8ucKN6wKB7H	Female	Chinese	University	20+	Female	Chinese	Secondary	55	239	2	3	-1.385248443	0.379779601	-0.34766088	-0.614882483
+R_2VvV8ucKN6wKB7H	Male	Indian	Secondary school	30+	Female	Chinese	Secondary	55	962	4	4	-1.241569773	-1.916310897	-1.858098027	-1.045691287
+R_2VvV8ucKN6wKB7H	Male	Malay	University	30+	Female	Chinese	Secondary	55	558	3	5	-1.631460632	-0.387283139	0.001297997	-0.277315172
+R_2VvV8ucKN6wKB7H	Male	Chinese	Polytechnic	20+	Female	Chinese	Secondary	55	878	4	6	-0.59344365	2.0423597	0.861107159	0.860794276
+R_1P1NA0GZzD0jggS	Female	Malay	Polytechnic	30+	Female	Malay	University	21	911	1	1	1.374376235	0.438041598	1.020293472	0.425636664
+R_1P1NA0GZzD0jggS	Female	Chinese	Secondary school	30+	Female	Malay	University	21	694	4	2	1.647510343	-0.028917843	1.403472888	-0.553805183
+R_1P1NA0GZzD0jggS	Male	Malay	Polytechnic	20+	Female	Malay	University	21	990	2	3	0.350103342	0.344674357	0.276567006	-1.037225345
+R_1P1NA0GZzD0jggS	Male	Indian	University	20+	Female	Malay	University	21	1014	1	4	1.386739426	-0.49988984	0.371569162	-0.158336931
+R_1P1NA0GZzD0jggS	Male	Chinese	University	20+	Female	Malay	University	21	866	3	5	0.269755305	-0.179497633	0.060652492	0.601348494
+R_1P1NA0GZzD0jggS	Female	Indian	Secondary school	30+	Female	Malay	University	21	664	5	6	-0.073840073	-0.57140986	0.057359307	-0.145480113
+R_3kprsCBauBTABN0	Male	Chinese	University	30+	Female	Malay	University	20	832	3	1	-1.598392653	-1.779637769	0.393340551	-1.658892361
+R_3kprsCBauBTABN0	Female	Malay	University	20+	Female	Malay	University	20	532	1	2	0.432125831	0.358715985	0.348717741	0.034262717
+R_3kprsCBauBTABN0	Male	Malay	Secondary school	30+	Female	Malay	University	20	965	2	3	0.732713893	0.87887665	1.126070433	1.190080073
+R_3kprsCBauBTABN0	Female	Chinese	Polytechnic	20+	Female	Malay	University	20	818	4	4	0.334134838	1.176311524	0.830301462	0.539973022
+R_3kprsCBauBTABN0	Female	Indian	Secondary school	20+	Female	Malay	University	20	446	3	5	-1.800610481	-1.110862232	-1.356997301	-2.137296505
+R_3kprsCBauBTABN0	Male	Indian	Polytechnic	30+	Female	Malay	University	20	936	1	6	0.520257163	0.30113923	-0.00451608	0.858351042
+R_3LbWIwmI9F2COUG	Male	Malay	University	30+	Female	Malay	University	24	558	4	1	-1.539819635	-0.912778885	-0.392694871	0.04833356
+R_3LbWIwmI9F2COUG	Female	Malay	Secondary school	20+	Female	Malay	University	24	225	2	2	0.017571988	0.639656263	0.706631143	-0.014746564
+R_3LbWIwmI9F2COUG	Male	Indian	Secondary school	30+	Female	Malay	University	24	962	3	3	-0.490084474	-0.626879361	-0.75402885	0.230888314
+R_3LbWIwmI9F2COUG	Male	Chinese	Polytechnic	20+	Female	Malay	University	24	878	3	4	0.796042558	0.994145412	0.906211281	0.987477308
+R_3LbWIwmI9F2COUG	Female	Indian	Polytechnic	20+	Female	Malay	University	24	930	4	5	0.888160791	-0.4541818	0.340509791	0.211916251
+R_3LbWIwmI9F2COUG	Female	Chinese	University	20+	Female	Malay	University	24	239	1	6	-0.920927686	-0.617715174	0.338238114	0.291823026
+R_31aaX3vCDb1MiHG	Female	Indian	Secondary school	30+	Male	Chinese	Post-secondary	21	664	1	1	-2.312660516	-1.409482763	-2.018563797	-2.29789501
+R_31aaX3vCDb1MiHG	Male	Indian	University	20+	Male	Chinese	Post-secondary	21	1014	4	2	-0.251256793	0.895718225	0.785932941	0.476356659
+R_31aaX3vCDb1MiHG	Female	Chinese	Secondary school	30+	Male	Chinese	Post-secondary	21	694	1	3	2.012193976	-0.658133024	2.600250799	0.941893207
+R_31aaX3vCDb1MiHG	Male	Malay	Polytechnic	20+	Male	Chinese	Post-secondary	21	990	4	4	-0.095211877	1.847060597	0.504383349	1.62092755
+R_31aaX3vCDb1MiHG	Male	Chinese	University	20+	Male	Chinese	Post-secondary	21	866	2	5	1.16239574	0.62869258	-0.288944396	1.349756262
+R_31aaX3vCDb1MiHG	Female	Malay	Polytechnic	30+	Male	Chinese	Post-secondary	21	911	3	6	0.214596219	-0.431792417	1.615855559	-0.658353542
+R_tMwkED0C1hvWJPz	Female	Malay	Polytechnic	30+	Male	Malay	University	28	911	1	1	0.481964325	-0.060408778	-0.264523995	0.145689378
+R_tMwkED0C1hvWJPz	Female	Chinese	Secondary school	30+	Male	Malay	University	28	694	4	2	-0.034086019	0.190694636	0.371020357	-0.703600445
+R_tMwkED0C1hvWJPz	Male	Indian	University	20+	Male	Malay	University	28	1014	1	3	1.385761979	0.861813472	1.725280606	1.313277618
+R_tMwkED0C1hvWJPz	Female	Indian	Secondary school	30+	Male	Malay	University	28	664	2	4	-0.38836695	-0.764667978	-0.586264585	0.456184603
+R_tMwkED0C1hvWJPz	Male	Chinese	University	20+	Male	Malay	University	28	866	2	5	-1.60314073	-0.170087907	0.116454819	1.858492263
+R_tMwkED0C1hvWJPz	Male	Malay	Polytechnic	20+	Male	Malay	University	28	990	3	6	1.282066435	0.922379791	0.770078588	0.607467318
+R_1OOwRaAWIz0guiG	Female	Chinese	Polytechnic	30+	Male	Others	University	22	937	2	1	-0.627642388	-0.121018968	-0.262872119	-0.030516766
+R_1OOwRaAWIz0guiG	Female	Malay	University	30+	Male	Others	University	22	931	4	2	-0.907455752	-1.03366985	-0.809223921	-0.226193638
+R_1OOwRaAWIz0guiG	Female	Indian	University	30+	Male	Others	University	22	956	2	3	0.05048987	-0.71001274	-0.647941487	-0.336111747
+R_1OOwRaAWIz0guiG	Male	Malay	Secondary school	20+	Male	Others	University	22	613	1	4	-0.630980706	-0.895960054	-0.84299865	-0.499159363
+R_1OOwRaAWIz0guiG	Male	Indian	Polytechnic	20+	Male	Others	University	22	618	3	5	-0.551649749	0.553720512	-0.53915014	0.055519857
+R_1OOwRaAWIz0guiG	Male	Chinese	Secondary school	20+	Male	Others	University	22	400	3	6	-0.164038362	-0.033923555	-0.879852789	-0.160246353
+R_2cctqX8RzMh9mjb	Female	Malay	Secondary school	20+	Male	Malay	University	22	225	2	1	2.645986106	1.09505969	1.708008829	0.911752932
+R_2cctqX8RzMh9mjb	Female	Indian	Polytechnic	20+	Male	Malay	University	22	930	4	2	-1.748476335	-1.116291841	-0.097070231	-0.142574581
+R_2cctqX8RzMh9mjb	Female	Chinese	University	20+	Male	Malay	University	22	239	1	3	0.960405393	-0.527015109	1.25830929	0.147281824
+R_2cctqX8RzMh9mjb	Male	Malay	University	30+	Male	Malay	University	22	558	3	4	0.42280139	-0.612665263	-0.043369205	-1.450956416
+R_2cctqX8RzMh9mjb	Male	Indian	Secondary school	30+	Male	Malay	University	22	962	2	5	-1.246102256	-0.164518605	-0.856406068	-1.110370083
+R_2cctqX8RzMh9mjb	Male	Chinese	Polytechnic	20+	Male	Malay	University	22	878	4	6	0.21788914	1.728314145	1.697168875	1.548357333
+R_t0pxKrMyWbTlD7X	Female	Malay	University	20+	Female	Indian	University	22	532	5	1	0.694393473	1.261125835	1.40997553	0.314446312
+R_t0pxKrMyWbTlD7X	Male	Indian	Polytechnic	30+	Female	Indian	University	22	936	4	2	-0.508835132	0.298465528	0.913070084	-0.292750167
+R_t0pxKrMyWbTlD7X	Male	Chinese	University	30+	Female	Indian	University	22	832	1	3	0.70874066	-0.978218003	0.031519305	-0.336221637
+R_t0pxKrMyWbTlD7X	Female	Chinese	Polytechnic	20+	Female	Indian	University	22	818	4	4	1.665893686	1.343405564	1.751276569	1.12450326
+R_t0pxKrMyWbTlD7X	Female	Indian	Secondary school	20+	Female	Indian	University	22	446	5	5	0.817428552	-0.509511122	0.661978954	0.43261739
+R_t0pxKrMyWbTlD7X	Male	Malay	Secondary school	30+	Female	Indian	University	22	965	2	6	0.678487865	-1.561539421	-1.089262157	-1.152420561
+R_272VxIfYFNrKCEj	Female	Indian	University	30+	Female	Chinese	University	22	956	4	1	0.784032326	0.814301333	0.056383826	0.203551469
+R_272VxIfYFNrKCEj	Female	Malay	University	30+	Female	Chinese	University	22	931	1	2	-0.030526724	-0.349441262	-0.765348238	-0.320386206
+R_272VxIfYFNrKCEj	Male	Indian	Polytechnic	20+	Female	Chinese	University	22	618	3	3	-0.439603404	0.550048605	0.037629158	0.380393601
+R_272VxIfYFNrKCEj	Female	Chinese	Polytechnic	30+	Female	Chinese	University	22	937	4	4	-0.258095644	0.932121533	-0.595166391	-0.088015675
+R_272VxIfYFNrKCEj	Male	Chinese	Secondary school	20+	Female	Chinese	University	22	400	3	5	-0.492059989	0.690071119	-0.024581186	0.098121854
+R_272VxIfYFNrKCEj	Male	Malay	Secondary school	20+	Female	Chinese	University	22	613	2	6	-0.81954972	0.214754534	-0.784070964	-0.004438575
+R_3fxC7hmqdM83nS6	Male	Indian	Secondary school	30+	Female	Malay	University	21	962	3	1	-0.076851216	-0.842663148	-0.128671209	0.778748208
+R_3fxC7hmqdM83nS6	Male	Chinese	Polytechnic	20+	Female	Malay	University	21	878	4	2	-0.346896409	0.331285504	-0.337472025	-0.678361748
+R_3fxC7hmqdM83nS6	Female	Malay	Secondary school	20+	Female	Malay	University	21	225	1	3	-0.351177664	-0.3211218	-0.945891228	0.369255665
+R_3fxC7hmqdM83nS6	Male	Malay	University	30+	Female	Malay	University	21	558	2	4	-0.649688143	0.432262004	-0.620027314	-0.109674235
+R_3fxC7hmqdM83nS6	Female	Indian	Polytechnic	20+	Female	Malay	University	21	930	1	5	-0.139678785	-0.282609815	-0.682898529	0.298711048
+R_3fxC7hmqdM83nS6	Female	Chinese	University	20+	Female	Malay	University	21	239	5	6	-0.595984139	0.578426191	-0.805245904	0.286402162
+R_3qPfNEJpgV5XqfQ	Female	Malay	University	30+	Male	Chinese	Post-secondary	20	931	3	1	-0.612499159	-0.55938246	-0.3186007	-0.866056731
+R_3qPfNEJpgV5XqfQ	Male	Malay	Secondary school	20+	Male	Chinese	Post-secondary	20	613	1	2	-0.356710503	-1.221491464	-0.443343778	-0.407525048
+R_3qPfNEJpgV5XqfQ	Male	Indian	Polytechnic	20+	Male	Chinese	Post-secondary	20	618	2	3	2.60931984	1.979125454	1.323790955	1.42898082
+R_3qPfNEJpgV5XqfQ	Female	Chinese	Polytechnic	30+	Male	Chinese	Post-secondary	20	937	2	4	1.822680936	1.752878608	1.962037799	0.367892806
+R_3qPfNEJpgV5XqfQ	Female	Indian	University	30+	Male	Chinese	Post-secondary	20	956	4	6	0.064529917	-0.214313524	0.393688337	-1.321450395
+R_2ymzOJZPz2GlEhC	Male	Chinese	University	30+	Female	Chinese	University	23	832	1	2	-0.319792	-0.076771237	-0.374431178	-0.832321452
+R_2ymzOJZPz2GlEhC	Male	Malay	Secondary school	30+	Female	Chinese	University	23	965	4	3	-0.03597707	0.717878987	-1.060925425	-0.201621377
+R_2ymzOJZPz2GlEhC	Female	Malay	University	20+	Female	Chinese	University	23	532	5	4	-0.909002029	0.355642827	-0.728012592	-0.640263671
+R_2ymzOJZPz2GlEhC	Male	Indian	Polytechnic	30+	Female	Chinese	University	23	936	1	5	0.428223902	-0.076185508	-0.347947814	0.530078688
+R_2ymzOJZPz2GlEhC	Female	Chinese	Polytechnic	20+	Female	Chinese	University	23	818	2	6	0.712652466	0.381113914	-0.631470328	0.846247891
+R_9MmwxjdyRpOEglr	Male	Malay	Polytechnic	20+	Male	Malay	Post-secondary	26	990	3	1	-1.774315866	-1.218707066	-0.172424342	0.807209754
+R_9MmwxjdyRpOEglr	Female	Chinese	Secondary school	30+	Male	Malay	Post-secondary	26	694	2	2	0.509228607	0.287103877	-0.724960083	-0.145780905
+R_9MmwxjdyRpOEglr	Female	Malay	Polytechnic	30+	Male	Malay	Post-secondary	26	911	4	3	0.010581875	0.126022136	-0.23415694	0.234178807
+R_9MmwxjdyRpOEglr	Male	Indian	University	20+	Male	Malay	Post-secondary	26	1014	3	4	-0.527707565	-0.673619424	-0.351574732	-0.820329789
+R_9MmwxjdyRpOEglr	Male	Chinese	University	20+	Male	Malay	Post-secondary	26	866	1	5	-0.083510706	-0.214078931	-0.83500804	-0.636698345
+R_9MmwxjdyRpOEglr	Female	Indian	Secondary school	30+	Male	Malay	Post-secondary	26	664	4	6	-0.066646516	-0.250949783	-0.188184257	-0.944572496
+R_bOTURubKkXiWghz	Male	Indian	Polytechnic	30+	Female	Indian	University	20	936	4	1	0.580074619	0.188527148	0.407072488	0.854128398
+R_bOTURubKkXiWghz	Male	Malay	Secondary school	30+	Female	Indian	University	20	965	1	2	-0.296415171	-1.382989216	-1.381965075	0.016513632
+R_bOTURubKkXiWghz	Female	Malay	University	20+	Female	Indian	University	20	532	4	3	1.214247836	0.200627327	0.847332567	0.809601148
+R_bOTURubKkXiWghz	Female	Indian	Secondary school	20+	Female	Indian	University	20	446	1	4	1.172019725	1.171348896	0.995917344	1.41899999
+R_bOTURubKkXiWghz	Female	Chinese	Polytechnic	20+	Female	Indian	University	20	818	3	5	-0.389142062	-1.186809774	-0.449056581	-0.596238242
+R_bOTURubKkXiWghz	Male	Chinese	University	30+	Female	Indian	University	20	832	2	6	0.813210689	1.683194185	1.254096649	-0.282380668
+R_6RnWOwNf8dZyPct	Male	Malay	Polytechnic	20+	Female	Malay	University	24	990	3	1	0.640922864	0.01353965	0.210482494	0.978368573
+R_6RnWOwNf8dZyPct	Male	Indian	University	20+	Female	Malay	University	24	1014	1	2	-0.148268301	-0.271412406	-1.279816666	-0.041473842
+R_6RnWOwNf8dZyPct	Male	Chinese	University	20+	Female	Malay	University	24	866	4	3	-0.896954651	-1.632948783	-2.548260174	0.950047006
+R_6RnWOwNf8dZyPct	Female	Chinese	Secondary school	30+	Female	Malay	University	24	694	2	4	0.972536924	0.377814944	1.195395435	-0.142714123
+R_6RnWOwNf8dZyPct	Female	Malay	Polytechnic	30+	Female	Malay	University	24	911	1	5	-1.466843451	-0.119619443	0.114788906	0.53072182
+R_6RnWOwNf8dZyPct	Female	Indian	Secondary school	30+	Female	Malay	University	24	664	5	6	0.557005877	-0.626244402	1.184375197	0.503643789
+R_3ezfiA2w3JRnQox	Female	Malay	Polytechnic	30+	Male	Indian	Post-secondary	24	911	2	1	0.070750189	0.514839369	0.597762395	0.632835683
+R_3ezfiA2w3JRnQox	Male	Chinese	University	20+	Male	Indian	Post-secondary	24	866	1	2	0.122196542	1.244299773	0.567801892	0.514542889
+R_3ezfiA2w3JRnQox	Female	Indian	Secondary school	30+	Male	Indian	Post-secondary	24	664	2	3	-1.383758005	-0.622095331	-0.288392097	-0.417206908
+R_3ezfiA2w3JRnQox	Male	Malay	Polytechnic	20+	Male	Indian	Post-secondary	24	990	3	4	-1.136959659	-0.208933903	-0.17539479	-0.247907854
+R_3ezfiA2w3JRnQox	Female	Chinese	Secondary school	30+	Male	Indian	Post-secondary	24	694	4	5	0.894245139	-0.003571443	0.428732393	-0.577461449
+R_3ezfiA2w3JRnQox	Male	Indian	University	20+	Male	Indian	Post-secondary	24	1014	3	6	-0.046726846	0.830765183	1.3676336	1.528138279
+R_27fMhcsKRLbxCSw	Female	Malay	University	30+	Female	Chinese	University	22	931	4	1	0.129916269	-0.661899766	1.332808017	0.025138824
+R_27fMhcsKRLbxCSw	Female	Chinese	Polytechnic	30+	Female	Chinese	University	22	937	1	2	0.154965067	1.099548431	-0.129093391	-0.598158354
+R_27fMhcsKRLbxCSw	Male	Malay	Secondary school	20+	Female	Chinese	University	22	613	2	3	0.807844896	-0.381781567	0.709225082	0.114323339
+R_27fMhcsKRLbxCSw	Male	Indian	Polytechnic	20+	Female	Chinese	University	22	618	4	4	2.118686447	1.991356904	1.002496863	1.345765191
+R_27fMhcsKRLbxCSw	Male	Chinese	Secondary school	20+	Female	Chinese	University	22	400	3	5	0.237211651	1.846662749	0.880760121	0.394303407
+R_27fMhcsKRLbxCSw	Female	Indian	University	30+	Female	Chinese	University	22	956	2	6	2.400408574	1.674066281	0.960132764	0.473602733
+R_2CHNWBUWuMxC9qB	Male	Indian	University	20+	Male	Malay	University	22	1014	4	1	-0.935496879	0.546136107	-0.831957291	-0.819299122
+R_2CHNWBUWuMxC9qB	Male	Chinese	University	20+	Male	Malay	University	22	866	3	2	-0.88519556	-1.417530389	0.306906598	-0.096063828
+R_2CHNWBUWuMxC9qB	Female	Chinese	Secondary school	30+	Male	Malay	University	22	694	2	3	0.0014384	0.806738351	-0.392598197	0.000225176
+R_2CHNWBUWuMxC9qB	Female	Indian	Secondary school	30+	Male	Malay	University	22	664	5	4	-0.073753408	-0.147085233	0.569226045	0.673276958
+R_2CHNWBUWuMxC9qB	Female	Malay	Polytechnic	30+	Male	Malay	University	22	911	1	5	0.481473806	-0.438718362	-0.684948535	-0.648796296
+R_2CHNWBUWuMxC9qB	Male	Malay	Polytechnic	20+	Male	Malay	University	22	990	4	6	-0.022030319	1.043486913	-0.395824332	0.226365398
+R_32484kd63P1zZhU	Male	Indian	Polytechnic	30+	Female	Indian	University	21	936	1	1	1.516987307	-0.037571178	1.911283456	1.244536521
+R_32484kd63P1zZhU	Male	Chinese	University	30+	Female	Indian	University	21	832	3	2	-0.844354086	-1.526455617	-0.455308043	-1.625544378
+R_32484kd63P1zZhU	Female	Malay	University	20+	Female	Indian	University	21	532	2	3	2.437272899	0.756572045	2.115539199	1.084805952
+R_32484kd63P1zZhU	Male	Malay	Secondary school	30+	Female	Indian	University	21	965	1	4	1.025416669	-0.680909645	0.36291923	-0.06896326
+R_32484kd63P1zZhU	Female	Indian	Secondary school	20+	Female	Indian	University	21	446	5	5	1.992022355	-0.954870713	1.437557164	0.927678824
+R_32484kd63P1zZhU	Female	Chinese	Polytechnic	20+	Female	Indian	University	21	818	4	6	-1.780582934	1.399757469	0.193804835	1.350441927
+R_AsO3dgzta0eSikx	Female	Chinese	University	20+	Male	Chinese	Primary	62	239	4	1	0.042077159	1.272366248	-0.820788603	1.509486104
+R_AsO3dgzta0eSikx	Male	Chinese	Polytechnic	20+	Male	Chinese	Primary	62	878	1	2	-0.035666836	1.158445322	-0.017128503	2.257920103
+R_AsO3dgzta0eSikx	Female	Indian	Polytechnic	20+	Male	Chinese	Primary	62	930	1	3	-1.846449675	0.26977234	-0.358343323	-0.464586409
+R_AsO3dgzta0eSikx	Male	Malay	University	30+	Male	Chinese	Primary	62	558	3	4	-1.964936181	-0.974797046	-1.262454848	-2.126151241
+R_AsO3dgzta0eSikx	Female	Malay	Secondary school	20+	Male	Chinese	Primary	62	225	2	5	1.045819735	1.070092339	0.585154327	-1.313841286
+R_AsO3dgzta0eSikx	Male	Indian	Secondary school	30+	Male	Chinese	Primary	62	962	2	6	-0.714088684	-1.978581234	-2.323063444	-1.727580031
+R_3stBLkM1eV1v6OA	Female	Malay	Polytechnic	30+	Male	Chinese	University	26	911	4	1	-0.224703232	0.75220003	0.004406103	-0.071364212
+R_3stBLkM1eV1v6OA	Female	Indian	Secondary school	30+	Male	Chinese	University	26	664	2	2	0.452631461	-1.529468286	-0.00830225	-0.343221307
+R_3stBLkM1eV1v6OA	Male	Indian	University	20+	Male	Chinese	University	26	1014	3	3	-0.053822461	0.500699941	0.141400287	0.803947348
+R_3stBLkM1eV1v6OA	Female	Chinese	Secondary school	30+	Male	Chinese	University	26	694	3	4	0.086754971	-0.688966329	0.506592142	-1.12874574
+R_3stBLkM1eV1v6OA	Male	Malay	Polytechnic	20+	Male	Chinese	University	26	990	2	5	-0.342805673	0.111127562	1.039025461	0.703209874
+R_3stBLkM1eV1v6OA	Male	Chinese	University	20+	Male	Chinese	University	26	866	1	6	0.289844317	0.383923815	0.714914402	1.067222967
+R_3hg5fohl6N9Fq6X	Male	Indian	Polytechnic	30+	Male	Indian	University	21	936	1	1	1.138423794	-0.630849146	2.673506298	1.869315664
+R_3hg5fohl6N9Fq6X	Female	Chinese	Polytechnic	20+	Male	Indian	University	21	818	2	2	0.108564708	0.492226421	1.85445692	1.391219945
+R_3hg5fohl6N9Fq6X	Male	Malay	Secondary school	30+	Male	Indian	University	21	965	3	3	1.546510657	-0.166858075	2.307424315	1.001079701
+R_3hg5fohl6N9Fq6X	Female	Malay	University	20+	Male	Indian	University	21	532	1	4	0.926349113	1.870087334	0.981395307	-0.831263913
+R_3hg5fohl6N9Fq6X	Female	Indian	Secondary school	20+	Male	Indian	University	21	446	5	5	0.554502745	-0.019672941	0.097546228	0.675213174
+R_3hg5fohl6N9Fq6X	Male	Chinese	University	30+	Male	Indian	University	21	832	4	6	0.992868478	1.644420681	2.383900921	2.313735529
+R_12DTDB3r81uN2Nl	Male	Indian	University	20+	Female	Malay	Post-secondary	24	1014	1	1	-1.434852931	0.385399546	-0.411054607	0.580139342
+R_12DTDB3r81uN2Nl	Female	Indian	Secondary school	30+	Female	Malay	Post-secondary	24	664	4	2	-0.757541885	-0.42529923	0.126041843	0.805736081
+R_12DTDB3r81uN2Nl	Male	Malay	Polytechnic	20+	Female	Malay	Post-secondary	24	990	3	3	-0.624691715	0.383993543	0.469245047	0.771639446
+R_12DTDB3r81uN2Nl	Male	Chinese	University	20+	Female	Malay	Post-secondary	24	866	1	4	-0.958617346	1.060588348	0.57824317	1.459829139
+R_12DTDB3r81uN2Nl	Female	Chinese	Secondary school	30+	Female	Malay	Post-secondary	24	694	2	5	1.391982612	1.022311502	1.040185438	1.61228089
+R_12DTDB3r81uN2Nl	Female	Malay	Polytechnic	30+	Female	Malay	Post-secondary	24	911	4	6	1.020866774	1.475167494	1.608513847	1.297258774
+R_1EaH1oSj9UHean1	Female	Chinese	University	20+	Female	Indian	Post-secondary	21	239	4	1	-1.204943037	2.113091047	0.001966743	1.208108669
+R_1EaH1oSj9UHean1	Male	Indian	Secondary school	30+	Female	Indian	Post-secondary	21	962	3	2	1.084093937	0.19691603	1.692835323	0.496250096
+R_1EaH1oSj9UHean1	Male	Chinese	Polytechnic	20+	Female	Indian	Post-secondary	21	878	2	3	-0.730434565	0.923621276	-0.95592041	1.362063352
+R_1EaH1oSj9UHean1	Female	Malay	Secondary school	20+	Female	Indian	Post-secondary	21	225	3	4	-0.513016412	1.621474304	1.293178011	1.646309877
+R_1EaH1oSj9UHean1	Male	Malay	University	30+	Female	Indian	Post-secondary	21	558	1	5	-0.940037977	0.753334254	-0.917250391	-1.366686385
+R_1EaH1oSj9UHean1	Female	Indian	Polytechnic	20+	Female	Indian	Post-secondary	21	930	4	6	-0.466662073	1.345480665	0.971307131	1.724938163
+R_2QFN11dxwPKY5he	Female	Indian	University	30+	Female	Chinese	Post-secondary	21	956	2	1	0.967586465	1.527794606	0.683961833	0.737797124
+R_2QFN11dxwPKY5he	Male	Malay	Secondary school	20+	Female	Chinese	Post-secondary	21	613	2	2	-0.598063654	-0.727550209	-1.212540941	-1.061201091
+R_2QFN11dxwPKY5he	Male	Indian	Polytechnic	20+	Female	Chinese	Post-secondary	21	618	4	3	-0.012280352	1.262431271	1.385495028	1.307899239
+R_2QFN11dxwPKY5he	Female	Malay	University	30+	Female	Chinese	Post-secondary	21	931	1	4	-0.438644439	-1.449935694	-1.032985441	-1.798683072
+R_2QFN11dxwPKY5he	Male	Chinese	Secondary school	20+	Female	Chinese	Post-secondary	21	400	3	5	-0.870893557	-0.88533399	-0.955326896	-0.641365323
+R_2QFN11dxwPKY5he	Female	Chinese	Polytechnic	30+	Female	Chinese	Post-secondary	21	937	4	6	-1.467775665	-0.928293958	-1.366935151	-1.281527396
+R_1LOMWfw8HrNZ19X	Female	Chinese	Polytechnic	20+	Female	Malay	Post-secondary	23	818	2	1	-1.56006847	-0.301234299	-0.412657506	-0.068007566
+R_1LOMWfw8HrNZ19X	Male	Chinese	University	30+	Female	Malay	Post-secondary	23	832	4	2	-1.401968911	-0.782719329	-1.381218757	-1.151236679
+R_1LOMWfw8HrNZ19X	Male	Malay	Secondary school	30+	Female	Malay	Post-secondary	23	965	3	3	0.399922002	0.155424495	0.774211244	0.563797856
+R_1LOMWfw8HrNZ19X	Male	Indian	Polytechnic	30+	Female	Malay	Post-secondary	23	936	1	4	1.688210178	0.912256989	0.260057394	-0.070783557
+R_1LOMWfw8HrNZ19X	Female	Indian	Secondary school	20+	Female	Malay	Post-secondary	23	446	3	5	0.602744396	0.156158024	-0.265954493	-0.77214378
+R_1LOMWfw8HrNZ19X	Female	Malay	University	20+	Female	Malay	Post-secondary	23	532	1	6	2.385152238	1.2603416	0.828900482	1.35998376
+R_2SAJ4TgrUsKKiT4	Male	Chinese	University	20+	Male	Malay	Post-secondary	24	866	2	1	0.911598476	1.055067548	0.171143828	0.333442819
+R_2SAJ4TgrUsKKiT4	Female	Malay	Polytechnic	30+	Male	Malay	Post-secondary	24	911	4	2	-0.073889533	0.466855973	-0.6877422	-0.691772604
+R_2SAJ4TgrUsKKiT4	Male	Indian	University	20+	Male	Malay	Post-secondary	24	1014	1	3	-0.279900968	1.093744201	-0.064608348	-0.113680414
+R_2SAJ4TgrUsKKiT4	Female	Chinese	Secondary school	30+	Male	Malay	Post-secondary	24	694	1	4	-0.93923576	0.077922985	-0.853455251	-0.101003708
+R_2SAJ4TgrUsKKiT4	Male	Malay	Polytechnic	20+	Male	Malay	Post-secondary	24	990	3	5	-1.332576684	-0.437478012	-1.587772878	-1.614895732
+R_2SAJ4TgrUsKKiT4	Female	Indian	Secondary school	30+	Male	Malay	Post-secondary	24	664	2	6	-0.918134119	-0.379868579	-0.404982504	-1.106300935
+R_1mDSVWtm0sA2aNK	Female	Chinese	Polytechnic	20+	Male	Malay	Post-secondary	27	818	1	1	-0.749667283	-0.204658024	-0.021504289	-0.145939873
+R_1mDSVWtm0sA2aNK	Female	Malay	University	20+	Male	Malay	Post-secondary	27	532	2	2	0.621016989	-0.40935342	0.024525562	0.59856661
+R_1mDSVWtm0sA2aNK	Female	Indian	Secondary school	20+	Male	Malay	Post-secondary	27	446	3	3	-0.134528244	-1.039022025	-0.723961884	-0.800463754
+R_1mDSVWtm0sA2aNK	Male	Chinese	University	30+	Male	Malay	Post-secondary	27	832	4	4	-0.576917124	-0.221900446	-1.391147088	-1.398688542
+R_1mDSVWtm0sA2aNK	Male	Malay	Secondary school	30+	Male	Malay	Post-secondary	27	965	3	5	-0.600634606	-0.674329839	-0.121928075	0.014656865
+R_1mDSVWtm0sA2aNK	Male	Indian	Polytechnic	30+	Male	Malay	Post-secondary	27	936	4	6	0.472748678	0.699862486	0.30860535	0.690139177
+R_XoDAyP3i2s3DsVX	Male	Malay	Secondary school	20+	Female	Chinese	University	21	613	4	1	-1.481642349	-0.62149883	-1.391922957	-1.405359514
+R_XoDAyP3i2s3DsVX	Female	Malay	University	30+	Female	Chinese	University	21	931	2	2	0.030474752	0.507901976	-0.062180454	-0.105673403
+R_XoDAyP3i2s3DsVX	Female	Indian	University	30+	Female	Chinese	University	21	956	3	3	0.040157766	-0.109952538	-0.127973744	-0.570436822
+R_XoDAyP3i2s3DsVX	Male	Indian	Polytechnic	20+	Female	Chinese	University	21	618	2	4	0.448480307	0.221036186	-0.70159132	-0.21015023
+R_XoDAyP3i2s3DsVX	Male	Chinese	Secondary school	20+	Female	Chinese	University	21	400	3	6	-0.608105153	-0.371889549	-0.487565934	0.155105379
+R_3NJICO2VmlWLaLk	Male	Indian	Secondary school	30+	Female	Indian	University	24	962	1	1	-0.327518221	-1.485348939	0.385674332	-0.543674737
+R_3NJICO2VmlWLaLk	Female	Malay	Secondary school	20+	Female	Indian	University	24	225	2	2	-1.414839667	-1.426574919	-0.441802751	1.010960468
+R_3NJICO2VmlWLaLk	Female	Chinese	University	20+	Female	Indian	University	24	239	4	3	0.174795927	0.940802593	-0.278865715	0.281017846
+R_3NJICO2VmlWLaLk	Male	Chinese	Polytechnic	20+	Female	Indian	University	24	878	1	4	0.155966487	1.030871009	0.199537457	0.974880394
+R_3NJICO2VmlWLaLk	Female	Indian	Polytechnic	20+	Female	Indian	University	24	930	4	5	0.465644653	-1.186795916	-0.345572809	0.634713761
+R_3NJICO2VmlWLaLk	Male	Malay	University	30+	Female	Indian	University	24	558	3	6	-1.928696206	-1.062318903	-1.338154054	-1.972816
+R_1r0oFNgmN1JPsx6	Female	Indian	University	30+	Female	Chinese	University	23	956	3	1	-0.731106006	0.961216367	-0.817168827	-0.165299731
+R_1r0oFNgmN1JPsx6	Male	Indian	Polytechnic	20+	Female	Chinese	University	23	618	4	2	-0.600112103	0.362213052	-0.181779154	-0.2143942
+R_1r0oFNgmN1JPsx6	Female	Chinese	Polytechnic	30+	Female	Chinese	University	23	937	3	3	-0.299251132	-0.060353549	-1.083771954	-0.452378405
+R_1r0oFNgmN1JPsx6	Female	Malay	University	30+	Female	Chinese	University	23	931	2	4	-0.77414342	-0.677338023	-0.946891742	-0.501331186
+R_1r0oFNgmN1JPsx6	Male	Malay	Secondary school	20+	Female	Chinese	University	23	613	1	5	-0.298775153	-1.36775251	-0.197926195	-1.3981623
+R_1r0oFNgmN1JPsx6	Male	Chinese	Secondary school	20+	Female	Chinese	University	23	400	4	6	-0.077082114	0.017640808	-0.255346383	-0.453605799
+R_2TvHkvtPMZ1PhYj	Female	Chinese	Secondary school	30+	Female	Chinese	University	24	694	1	1	-0.060086641	-0.726693627	-0.190312415	-0.802085059
+R_2TvHkvtPMZ1PhYj	Female	Malay	Polytechnic	30+	Female	Chinese	University	24	911	2	2	-0.855185132	-0.727898573	-0.675972399	-0.862652716
+R_2TvHkvtPMZ1PhYj	Female	Indian	Secondary school	30+	Female	Chinese	University	24	664	2	3	-0.446864188	-1.023020125	-1.504547852	-1.624836268
+R_2TvHkvtPMZ1PhYj	Male	Chinese	University	20+	Female	Chinese	University	24	866	3	4	-0.107696555	-0.165966041	-0.783703488	-0.230439977
+R_2TvHkvtPMZ1PhYj	Male	Indian	University	20+	Female	Chinese	University	24	1014	1	5	-0.391173639	0.097628498	0.409127736	0.44467376
+R_2TvHkvtPMZ1PhYj	Male	Malay	Polytechnic	20+	Female	Chinese	University	24	990	4	6	-1.2720096	-1.151564387	-1.827115807	-1.041316418
+R_2Wxm04Wmh05joZp	Male	Indian	Secondary school	30+	Male	Indian	University	25	962	4	1	-0.610544382	-1.499399246	-0.823942473	-1.122256468
+R_2Wxm04Wmh05joZp	Female	Malay	Secondary school	20+	Male	Indian	University	25	225	4	2	-0.548215229	-1.363743072	-0.822906358	-0.132577063
+R_2Wxm04Wmh05joZp	Female	Chinese	University	20+	Male	Indian	University	25	239	1	3	-0.602106584	-0.319037348	-0.247720937	-0.691442719
+R_2Wxm04Wmh05joZp	Female	Indian	Polytechnic	20+	Male	Indian	University	25	930	3	4	0.060352079	-1.512001311	-0.173175689	-0.491292283
+R_2Wxm04Wmh05joZp	Male	Chinese	Polytechnic	20+	Male	Indian	University	25	878	3	5	-0.546078481	0.825278326	-0.832415925	0.466860202
+R_2Wxm04Wmh05joZp	Male	Malay	University	30+	Male	Indian	University	25	558	2	6	-1.151296602	-0.273323902	-1.342170725	-1.375877823
+R_WxJijQeEZqdZxx7	Female	Indian	University	30+	Male	Malay	Post-secondary	23	956	1	1	-0.391702666	0.374120266	-0.691933255	0.697563328
+R_WxJijQeEZqdZxx7	Male	Malay	Secondary school	20+	Male	Malay	Post-secondary	23	613	4	2	-1.209824719	-0.828460732	-0.960494157	-1.029432035
+R_WxJijQeEZqdZxx7	Male	Chinese	Secondary school	20+	Male	Malay	Post-secondary	23	400	1	3	-0.37823688	0.521046947	0.476124985	0.345709071
+R_WxJijQeEZqdZxx7	Female	Malay	University	30+	Male	Malay	Post-secondary	23	931	3	4	0.178996416	-0.313670591	-0.665137876	-0.588276997
+R_WxJijQeEZqdZxx7	Male	Indian	Polytechnic	20+	Male	Malay	Post-secondary	23	618	4	5	-0.345183823	1.72982205	-0.412854579	2.148065245
+R_WxJijQeEZqdZxx7	Female	Chinese	Polytechnic	30+	Male	Malay	Post-secondary	23	937	2	6	0.41418828	-0.245211697	0.568695616	0.173762087
+R_1KehUONkNUY4TuC	Female	Indian	Polytechnic	20+	Female	Chinese	University	23	930	2	1	0.675947134	-1.098415862	1.243476339	-0.523254663
+R_1KehUONkNUY4TuC	Female	Malay	Secondary school	20+	Female	Chinese	University	23	225	1	2	1.362310131	-1.561824446	0.840219311	-0.796186656
+R_1KehUONkNUY4TuC	Male	Malay	University	30+	Female	Chinese	University	23	558	3	3	-0.726752944	-0.373271053	-0.596940253	-1.168857389
+R_1KehUONkNUY4TuC	Male	Indian	Secondary school	30+	Female	Chinese	University	23	962	1	4	-1.6676238	0.902046822	0.305055612	0.36549724
+R_1KehUONkNUY4TuC	Female	Chinese	University	20+	Female	Chinese	University	23	239	4	6	-0.559391717	0.526294063	-0.415183911	1.014537217
+R_2X7ouKEFHGnI4Jo	Female	Malay	Polytechnic	30+	Female	Chinese	University	22	911	1	1	-2.828576686	0.950703367	-2.515466806	-1.180669537
+R_2X7ouKEFHGnI4Jo	Male	Chinese	University	20+	Female	Chinese	University	22	866	3	2	-0.166763716	1.793619671	-0.832041861	2.551614811
+R_2X7ouKEFHGnI4Jo	Male	Indian	University	20+	Female	Chinese	University	22	1014	1	3	1.971281232	1.710388259	0.753315805	-1.629601933
+R_2X7ouKEFHGnI4Jo	Male	Malay	Polytechnic	20+	Female	Chinese	University	22	990	4	4	-0.37720489	-1.266295157	-2.43615211	-1.814775956
+R_2X7ouKEFHGnI4Jo	Female	Chinese	Secondary school	30+	Female	Chinese	University	22	694	2	5	1.641759391	1.95686518	1.691085242	2.238566212
+R_2X7ouKEFHGnI4Jo	Female	Indian	Secondary school	30+	Female	Chinese	University	22	664	4	6	0.952676057	-1.067832345	0.719237057	-1.225207533
+R_1QmXajPGZ9EsbFY	Female	Chinese	Polytechnic	20+	Female	Indian	University	24	818	2	1	-0.055154993	0.257920864	0.176778986	1.28535747
+R_1QmXajPGZ9EsbFY	Female	Indian	Secondary school	20+	Female	Indian	University	24	446	5	2	0.567175884	-0.635880561	0.336413112	-1.310289694
+R_1QmXajPGZ9EsbFY	Male	Chinese	University	30+	Female	Indian	University	24	832	4	3	-1.116850849	-0.410872389	0.593195619	0.081414624
+R_1QmXajPGZ9EsbFY	Female	Malay	University	20+	Female	Indian	University	24	532	5	4	0.278931819	-0.12149616	0.728679734	0.28333043
+R_1QmXajPGZ9EsbFY	Male	Indian	Polytechnic	30+	Female	Indian	University	24	936	3	5	0.755178672	0.86932046	1.419547908	0.726760078
+R_1QmXajPGZ9EsbFY	Male	Malay	Secondary school	30+	Female	Indian	University	24	965	1	6	0.616332584	0.274267584	0.818936579	0.44449198
+R_3sanGo7UYeqpKmr	Female	Malay	Secondary school	20+	Female	Chinese	University	22	225	3	1	-0.487354057	-0.59400207	-0.143026576	-0.105289896
+R_3sanGo7UYeqpKmr	Male	Indian	Secondary school	30+	Female	Chinese	University	22	962	3	2	-0.7768349	-0.040855719	-0.209689677	-0.836886076
+R_3sanGo7UYeqpKmr	Female	Chinese	University	20+	Female	Chinese	University	22	239	1	3	-0.247412232	-0.183865563	-0.273743329	0.038274643
+R_3sanGo7UYeqpKmr	Female	Indian	Polytechnic	20+	Female	Chinese	University	22	930	2	4	-0.797987608	0.525021841	-0.319924487	0.241219848
+R_3sanGo7UYeqpKmr	Male	Malay	University	30+	Female	Chinese	University	22	558	4	5	-0.320961193	-0.581578978	-0.03073507	-0.888570456
+R_3sanGo7UYeqpKmr	Male	Chinese	Polytechnic	20+	Female	Chinese	University	22	878	2	6	-0.093674651	-0.46005415	-0.78258173	-0.287654907
+R_2zovVteXZePDjTl	Male	Indian	University	20+	Female	Indian	University	25	1014	3	1	-0.931104564	-0.515074785	-0.569503269	-0.283470925
+R_2zovVteXZePDjTl	Male	Chinese	University	20+	Female	Indian	University	25	866	4	2	-0.855233869	-0.618999468	-0.703652662	0.706886994
+R_2zovVteXZePDjTl	Male	Malay	Polytechnic	20+	Female	Indian	University	25	990	3	3	-0.781841214	-0.851661026	-0.438491652	-0.780986527
+R_2zovVteXZePDjTl	Female	Indian	Secondary school	30+	Female	Indian	University	25	664	1	4	-0.097082028	-0.758930248	-0.501056156	-0.969401548
+R_2zovVteXZePDjTl	Female	Chinese	Secondary school	30+	Female	Indian	University	25	694	2	5	0.066301736	-0.834214775	-0.847562614	-0.336426022
+R_2zovVteXZePDjTl	Female	Malay	Polytechnic	30+	Female	Indian	University	25	911	1	6	-0.095549401	-0.378977276	-0.46917279	-0.648817791
+R_1NE64iDCgXv0d08	Female	Chinese	Secondary school	30+	Female	Chinese	University	21	694	4	1	0.306032516	-1.777583465	-0.044528071	-1.259623775
+R_1NE64iDCgXv0d08	Female	Malay	Polytechnic	30+	Female	Chinese	University	21	911	2	2	1.341802557	0.459562619	0.977663842	0.177849225
+R_1NE64iDCgXv0d08	Male	Indian	University	20+	Female	Chinese	University	21	1014	1	3	-0.554002177	0.828865244	-0.785645087	1.060797559
+R_1NE64iDCgXv0d08	Male	Malay	Polytechnic	20+	Female	Chinese	University	21	990	1	4	-1.798495375	-0.958010565	-1.16799806	-1.371204415
+R_1NE64iDCgXv0d08	Male	Chinese	University	20+	Female	Chinese	University	21	866	3	5	-0.258172502	1.470628704	-0.164413996	1.263959053
+R_1NE64iDCgXv0d08	Female	Indian	Secondary school	30+	Female	Chinese	University	21	664	5	6	-0.351351056	-1.656272682	0.526314251	-1.140525665
+R_1DMaeeE3SSPCtGl	Female	Malay	University	20+	Male	Indian	Post-secondary	25	532	5	1	-0.143304086	0.626772978	-0.451361501	-0.914736394
+R_1DMaeeE3SSPCtGl	Female	Indian	Secondary school	20+	Male	Indian	Post-secondary	25	446	5	2	-0.493449798	-1.031863395	-0.018742375	-0.47487589
+R_1DMaeeE3SSPCtGl	Male	Chinese	University	30+	Male	Indian	Post-secondary	25	832	1	3	-0.506897554	0.675755147	-1.274224876	-0.016070346
+R_1DMaeeE3SSPCtGl	Male	Indian	Polytechnic	30+	Male	Indian	Post-secondary	25	936	4	4	0.847816526	0.602199681	0.837586462	1.127452229
+R_1DMaeeE3SSPCtGl	Female	Chinese	Polytechnic	20+	Male	Indian	Post-secondary	25	818	4	5	0.794297186	1.793965509	0.360932479	1.876768229
+R_1DMaeeE3SSPCtGl	Male	Malay	Secondary school	30+	Male	Indian	Post-secondary	25	965	2	6	0.265290367	-0.118433727	0.240733297	-0.145124524
+R_UPXPNgSErwjPtaV	Male	Malay	Secondary school	30+	Female	Malay	University	22	965	4	1	-0.481677308	0.456187076	1.479919373	-0.024630026
+R_UPXPNgSErwjPtaV	Female	Malay	University	20+	Female	Malay	University	22	532	2	2	-1.000495526	-0.023054002	0.191420298	0.105247462
+R_UPXPNgSErwjPtaV	Female	Indian	Secondary school	20+	Female	Malay	University	22	446	5	3	0.911249255	0.540810167	0.29653495	-0.909612395
+R_UPXPNgSErwjPtaV	Male	Indian	Polytechnic	30+	Female	Malay	University	22	936	1	4	-0.728688642	0.400273299	0.143184607	-0.281780399
+R_UPXPNgSErwjPtaV	Female	Chinese	Polytechnic	20+	Female	Malay	University	22	818	1	5	0.213125025	-0.667382976	0.633883236	0.010762957
+R_UPXPNgSErwjPtaV	Male	Chinese	University	30+	Female	Malay	University	22	832	3	6	0.926990436	0.427782951	0.910277188	0.016504148
+R_1pLGDZ5aORVHpJ7	Male	Chinese	Secondary school	20+	Female	Chinese	Post-secondary	23	400	2	1	-0.574762958	-0.030815549	-0.915107105	-0.159443366
+R_1pLGDZ5aORVHpJ7	Female	Malay	University	30+	Female	Chinese	Post-secondary	23	931	4	2	-0.138819007	-0.475690246	-0.999428633	0.009049036
+R_1pLGDZ5aORVHpJ7	Male	Indian	Polytechnic	20+	Female	Chinese	Post-secondary	23	618	3	3	-0.40387483	-0.157737743	-0.863365073	-0.169674493
+R_1pLGDZ5aORVHpJ7	Female	Indian	University	30+	Female	Chinese	Post-secondary	23	956	1	4	-0.170160051	0.171718308	-0.520322914	-0.004672419
+R_1pLGDZ5aORVHpJ7	Male	Malay	Secondary school	20+	Female	Chinese	Post-secondary	23	613	1	5	-3.27598149	-3.176289785	-2.647571339	-1.82269538
+R_1pLGDZ5aORVHpJ7	Female	Chinese	Polytechnic	30+	Female	Chinese	Post-secondary	23	937	3	6	0.225819268	-0.505628567	0.279726542	0.531111122
+R_1dvufT48fzhuzKf	Female	Malay	University	20+	Male	Chinese	Post-secondary	26	532	2	1	-0.886409103	-0.169397018	-0.984900451	-0.072682299
+R_1dvufT48fzhuzKf	Male	Malay	Secondary school	30+	Male	Chinese	Post-secondary	26	965	1	2	0.447134371	-0.188008147	-0.231798703	0.087767005
+R_1dvufT48fzhuzKf	Male	Indian	Polytechnic	30+	Male	Chinese	Post-secondary	26	936	2	3	-0.554255119	-0.325409809	-0.577731162	-0.578056478
+R_1dvufT48fzhuzKf	Female	Indian	Secondary school	20+	Male	Chinese	Post-secondary	26	446	4	4	-2.330178536	-1.396680994	-0.403555753	-1.411127512
+R_1dvufT48fzhuzKf	Male	Chinese	University	30+	Male	Chinese	Post-secondary	26	832	3	5	-2.541559802	-0.944690942	-2.193845485	-0.529713332
+R_1dvufT48fzhuzKf	Female	Chinese	Polytechnic	20+	Male	Chinese	Post-secondary	26	818	4	6	-1.604785457	0.260131055	-1.116235253	0.319634304
+R_25zHOohxGkJbseN	Female	Indian	University	30+	Male	Chinese	University	52	956	1	1	-0.472607535	0.4038232	-0.933439322	-1.090234476
+R_25zHOohxGkJbseN	Female	Chinese	Polytechnic	30+	Male	Chinese	University	52	937	3	2	-0.254660681	-0.453536071	-0.399967549	-0.881373329
+R_25zHOohxGkJbseN	Male	Chinese	Secondary school	20+	Male	Chinese	University	52	400	2	3	-0.896704956	-0.613610202	-0.202486981	-0.529910317
+R_25zHOohxGkJbseN	Female	Malay	University	30+	Male	Chinese	University	52	931	1	4	-0.244549544	-0.263993508	-0.751025494	-0.045640846
+R_25zHOohxGkJbseN	Male	Indian	Polytechnic	20+	Male	Chinese	University	52	618	4	5	-0.020126147	-0.032584579	-0.187254919	-0.964796313
+R_25zHOohxGkJbseN	Male	Malay	Secondary school	20+	Male	Chinese	University	52	613	4	6	-0.827832178	-0.002108949	-0.830122997	-0.81326947
+R_r6JuHDBZw9Z1Mzf	Male	Chinese	Polytechnic	20+	Female	Chinese	University	21	878	4	1	-0.952121842	0.830082183	0.451764223	1.429975602
+R_r6JuHDBZw9Z1Mzf	Male	Indian	Secondary school	30+	Female	Chinese	University	21	962	3	2	0.916133302	0.346682279	0.542622384	-1.435818425
+R_r6JuHDBZw9Z1Mzf	Female	Chinese	University	20+	Female	Chinese	University	21	239	5	3	0.637268113	0.011480348	0.457290951	-0.608508331
+R_r6JuHDBZw9Z1Mzf	Female	Malay	Secondary school	20+	Female	Chinese	University	21	225	1	4	1.445629856	0.954279469	0.219150619	0.842373398
+R_r6JuHDBZw9Z1Mzf	Female	Indian	Polytechnic	20+	Female	Chinese	University	21	930	1	5	-1.735773219	1.214053739	-1.598032171	1.126954662
+R_r6JuHDBZw9Z1Mzf	Male	Malay	University	30+	Female	Chinese	University	21	558	2	6	-0.371861054	-1.210050548	-0.012621974	-1.628839317
+R_1pxJkpyYWLl4xes	Female	Chinese	Secondary school	30+	Male	Malay	University	26	694	1	1	-0.234154007	-0.472852592	-0.79982361	-0.095352711
+R_1pxJkpyYWLl4xes	Female	Indian	Secondary school	30+	Male	Malay	University	26	664	2	2	0.812454694	-0.041436953	1.103796253	0.925677457
+R_1pxJkpyYWLl4xes	Male	Malay	Polytechnic	20+	Male	Malay	University	26	990	4	3	-0.590062969	-0.570974791	-0.048309888	0.133781633
+R_1pxJkpyYWLl4xes	Female	Malay	Polytechnic	30+	Male	Malay	University	26	911	3	4	0.6494983	-0.479170478	-0.070495742	0.418120992
+R_1pxJkpyYWLl4xes	Male	Indian	University	20+	Male	Malay	University	26	1014	3	5	-0.786836772	0.308091424	-0.238245648	0.694398669
+R_1pxJkpyYWLl4xes	Male	Chinese	University	20+	Male	Malay	University	26	866	2	6	-0.618703615	0.836935567	0.126899894	1.881372567
+R_2e2MOGomqQALX4w	Male	Malay	University	30+	Male	Chinese	University	25	558	3	1	-0.751516178	-0.792481482	-0.584571321	-1.323768337
+R_2e2MOGomqQALX4w	Female	Indian	Polytechnic	20+	Male	Chinese	University	25	930	1	2	-0.185726157	-1.103985278	-0.511830236	0.588070615
+R_2e2MOGomqQALX4w	Male	Chinese	Polytechnic	20+	Male	Chinese	University	25	878	4	3	-0.218810044	0.543966715	0.16718294	0.97992817
+R_2e2MOGomqQALX4w	Female	Malay	Secondary school	20+	Male	Chinese	University	25	225	2	4	0.202117142	-0.469183175	0.148981365	0.200922119
+R_2e2MOGomqQALX4w	Male	Indian	Secondary school	30+	Male	Chinese	University	25	962	4	5	-0.799028035	-1.330087989	0.024489812	0.330685267
+R_2e2MOGomqQALX4w	Female	Chinese	University	20+	Male	Chinese	University	25	239	1	6	0.111505978	0.116395096	0.045021297	0.078064081
+R_3pnZi3ExJQTAIpa	Female	Indian	University	30+	Male	Malay	University	23	956	4	1	0.013970905	-0.004073456	-0.215837319	0.164674577
+R_3pnZi3ExJQTAIpa	Female	Malay	University	30+	Male	Malay	University	23	931	2	2	0.803186101	-0.52436832	0.387935869	-0.160831535
+R_3pnZi3ExJQTAIpa	Male	Chinese	Secondary school	20+	Male	Malay	University	23	400	4	3	-1.035651693	0.673924371	-0.732471551	0.249445444
+R_3pnZi3ExJQTAIpa	Male	Malay	Secondary school	20+	Male	Malay	University	23	613	1	4	0.839161122	-1.15786578	0.519393742	-0.050953757
+R_3pnZi3ExJQTAIpa	Male	Indian	Polytechnic	20+	Male	Malay	University	23	618	2	5	-1.415901461	0.244990973	-0.941876549	0.611406673
+R_3pnZi3ExJQTAIpa	Female	Chinese	Polytechnic	30+	Male	Malay	University	23	937	3	6	0.011431823	0.276237723	0.042236778	-0.128961138
+R_2Rb1es7F4Ipk6Qb	Male	Malay	Secondary school	30+	Male	Indian	University	25	965	4	1	-0.836516366	-1.537706424	0.709010411	-0.475506893
+R_2Rb1es7F4Ipk6Qb	Male	Indian	Polytechnic	30+	Male	Indian	University	25	936	2	2	-0.801833488	0.283981719	-0.85974398	-0.345465628
+R_2Rb1es7F4Ipk6Qb	Male	Chinese	University	30+	Male	Indian	University	25	832	2	3	-0.264842626	-0.092419773	-1.057905199	-0.495989079
+R_2Rb1es7F4Ipk6Qb	Female	Indian	Secondary school	20+	Male	Indian	University	25	446	4	4	-0.782428545	-0.62756313	-0.924327737	-2.040005894
+R_2Rb1es7F4Ipk6Qb	Female	Malay	University	20+	Male	Indian	University	25	532	1	5	-0.75416327	-0.349356019	-0.349563804	-0.569512896
+R_2Rb1es7F4Ipk6Qb	Female	Chinese	Polytechnic	20+	Male	Indian	University	25	818	3	6	-0.891715691	0.398383003	-0.303093259	0.134784851
+R_1jYVBFreyOa96Mp	Male	Malay	Secondary school	30+	Female	Malay	University	23	965	4	1	0.483258749	-0.914522651	0.60691841	1.237381861
+R_1jYVBFreyOa96Mp	Female	Chinese	Polytechnic	20+	Female	Malay	University	23	818	3	2	0.23491243	0.871831965	-1.051595767	1.263863519
+R_1jYVBFreyOa96Mp	Male	Chinese	University	30+	Female	Malay	University	23	832	1	3	-2.337973904	0.029674816	-1.180542878	-0.655140659
+R_1jYVBFreyOa96Mp	Female	Indian	Secondary school	20+	Female	Malay	University	23	446	4	4	0.448838852	-1.096969006	0.275978967	0.722915934
+R_1jYVBFreyOa96Mp	Male	Indian	Polytechnic	30+	Female	Malay	University	23	936	3	5	0.188317719	0.284242974	0.556026089	0.882260783
+R_1jYVBFreyOa96Mp	Female	Malay	University	20+	Female	Malay	University	23	532	2	6	1.051474489	0.603317784	1.975972898	0.150090332
+R_dhARrUlUpnnoRY5	Male	Indian	University	20+	Female	Chinese	University	21	1014	1	1	0.465172973	0.40934972	-0.716078452	0.294438927
+R_dhARrUlUpnnoRY5	Male	Malay	Polytechnic	20+	Female	Chinese	University	21	990	3	2	-0.345791331	-1.54165919	-1.046815399	-1.430603354
+R_dhARrUlUpnnoRY5	Female	Malay	Polytechnic	30+	Female	Chinese	University	21	911	1	3	0.218631428	-0.678645008	-0.661110177	-0.577466332
+R_dhARrUlUpnnoRY5	Female	Indian	Secondary school	30+	Female	Chinese	University	21	664	2	4	-0.0659651	-0.969228103	-0.323326994	-1.217284677
+R_dhARrUlUpnnoRY5	Male	Chinese	University	20+	Female	Chinese	University	21	866	2	5	0.207291691	-0.060419887	-1.573090942	-0.115626177
+R_dhARrUlUpnnoRY5	Female	Chinese	Secondary school	30+	Female	Chinese	University	21	694	4	6	0.593148683	-1.093539578	0.310946912	-0.352953049
+R_3m8XJPUxFAyZKQB	Female	Chinese	Polytechnic	30+	Male	Chinese	Post-secondary	19	937	2	1	1.820701993	0.527553816	0.738528065	0.328695153
+R_3m8XJPUxFAyZKQB	Female	Malay	University	30+	Male	Chinese	Post-secondary	19	931	3	2	0.147853938	0.312193687	-0.393739162	-0.247065353
+R_3m8XJPUxFAyZKQB	Male	Malay	Secondary school	20+	Male	Chinese	Post-secondary	19	613	4	3	0.390253581	-0.127250325	0.29382922	0.006456668
+R_3m8XJPUxFAyZKQB	Male	Indian	Polytechnic	20+	Male	Chinese	Post-secondary	19	618	3	4	0.621130134	0.87434102	0.487924266	0.908204001
+R_3m8XJPUxFAyZKQB	Female	Indian	University	30+	Male	Chinese	Post-secondary	19	956	4	5	0.496965039	0.396006178	-0.208871805	0.616376347
+R_3m8XJPUxFAyZKQB	Male	Chinese	Secondary school	20+	Male	Chinese	Post-secondary	19	400	1	6	0.416959054	0.094202006	0.089607071	-0.003298416
+R_yOVqPPoqc1R999T	Male	Chinese	Secondary school	20+	Male	Chinese	University	23	400	2	1	-1.889295466	1.1884644	1.62409382	1.896733046
+R_yOVqPPoqc1R999T	Female	Chinese	Polytechnic	30+	Male	Chinese	University	23	937	3	2	-2.397195713	0.24573575	-0.861989173	-0.95686243
+R_yOVqPPoqc1R999T	Male	Indian	Polytechnic	20+	Male	Chinese	University	23	618	4	3	2.173181973	0.807465397	-1.124883063	0.962920177
+R_yOVqPPoqc1R999T	Female	Indian	University	30+	Male	Chinese	University	23	956	2	4	2.442460215	1.472380234	1.552388169	1.985055756
+R_yOVqPPoqc1R999T	Female	Malay	University	30+	Male	Chinese	University	23	931	1	5	-2.72863304	1.261024821	-2.890188002	-2.2847375
+R_yOVqPPoqc1R999T	Male	Malay	Secondary school	20+	Male	Chinese	University	23	613	4	6	0.63945353	-2.527712172	0.967288582	-0.155895524
+R_2YfYl9V2zlPNy7A	Male	Chinese	Polytechnic	20+	Male	Malay	University	25	878	4	1	-0.150454177	1.825190808	0.856120416	1.865742466
+R_2YfYl9V2zlPNy7A	Female	Indian	Polytechnic	20+	Male	Malay	University	25	930	1	2	1.623466058	-0.059030011	2.241944767	0.119407126
+R_2YfYl9V2zlPNy7A	Female	Chinese	University	20+	Male	Malay	University	25	239	2	3	1.174633169	1.704706845	1.989939991	1.455540791
+R_2YfYl9V2zlPNy7A	Male	Malay	University	30+	Male	Malay	University	25	558	3	4	0.180667249	-0.165001112	-0.414194639	-0.175138508
+R_2YfYl9V2zlPNy7A	Male	Indian	Secondary school	30+	Male	Malay	University	25	962	2	5	-0.340039499	-0.585854388	-0.008681594	1.083131108
+R_2YfYl9V2zlPNy7A	Female	Malay	Secondary school	20+	Male	Malay	University	25	225	1	6	1.297820523	1.959126299	2.331754718	1.776483203
+R_1Q4QcN0DEycdLc3	Male	Indian	Secondary school	30+	Female	Indian	University	24	962	3	1	-0.821418247	-2.313698087	0.18636812	0.081069754
+R_1Q4QcN0DEycdLc3	Female	Malay	Secondary school	20+	Female	Indian	University	24	225	2	2	0.764518874	-0.783724164	-0.321238758	-0.476213673
+R_1Q4QcN0DEycdLc3	Female	Chinese	University	20+	Female	Indian	University	24	239	4	3	-0.848268463	-0.15825325	-0.674841112	0.30480252
+R_1Q4QcN0DEycdLc3	Female	Indian	Polytechnic	20+	Female	Indian	University	24	930	2	4	-0.12591411	-0.41654083	-0.189132934	-0.022805223
+R_1Q4QcN0DEycdLc3	Male	Chinese	Polytechnic	20+	Female	Indian	University	24	878	1	5	-0.031367244	0.6530544	-0.107697814	-0.158716934
+R_1Q4QcN0DEycdLc3	Male	Malay	University	30+	Female	Indian	University	24	558	3	6	-0.423447471	-0.409627422	-0.008411781	-0.860410005
+R_3elSHZBUW9O3vnA	Male	Chinese	Secondary school	20+	Female	Malay	University	24	400	3	1	-1.159760936	0.444060596	-0.667277682	1.430482807
+R_3elSHZBUW9O3vnA	Male	Indian	Polytechnic	20+	Female	Malay	University	24	618	4	2	0.748570922	1.809975953	-0.472606283	1.484459894
+R_3elSHZBUW9O3vnA	Female	Chinese	Polytechnic	30+	Female	Malay	University	24	937	2	3	1.426110464	-0.823051481	0.017065845	-0.046015208
+R_3elSHZBUW9O3vnA	Female	Indian	University	30+	Female	Malay	University	24	956	2	4	0.920805277	0.139912343	0.561056566	0.664406835
+R_3elSHZBUW9O3vnA	Male	Malay	Secondary school	20+	Female	Malay	University	24	613	4	5	1.066180096	-1.248423133	0.370433486	-0.468617542
+R_3elSHZBUW9O3vnA	Female	Malay	University	30+	Female	Malay	University	24	931	1	6	1.445090723	-0.673056827	0.162616401	-1.263201521
+R_ZmB6vH5UMrcSWMV	Male	Malay	Polytechnic	20+	Female	Chinese	Secondary	19	990	3	1	0.511063647	0.274724647	1.645345631	1.331320272
+R_ZmB6vH5UMrcSWMV	Female	Indian	Secondary school	30+	Female	Chinese	Secondary	19	664	1	2	1.450489853	1.102570225	0.983190759	0.95127343
+R_ZmB6vH5UMrcSWMV	Female	Chinese	Secondary school	30+	Female	Chinese	Secondary	19	694	4	3	1.372594823	1.539186468	0.327693114	0.872416516
+R_ZmB6vH5UMrcSWMV	Female	Malay	Polytechnic	30+	Female	Chinese	Secondary	19	911	2	4	0.892484567	0.388207209	1.361734011	0.785283054
+R_ZmB6vH5UMrcSWMV	Male	Chinese	University	20+	Female	Chinese	Secondary	19	866	1	5	1.677920019	0.773995342	0.578915091	0.826200715
+R_ZmB6vH5UMrcSWMV	Male	Indian	University	20+	Female	Chinese	Secondary	19	1014	2	6	0.896797564	0.113251013	0.324941307	1.658812519
+R_1ISGX0Yhb4lyLMK	Male	Chinese	Polytechnic	20+	Male	Chinese	Post-secondary	21	878	3	1	-0.219627813	-0.067859978	-1.643496789	-0.463873284
+R_1ISGX0Yhb4lyLMK	Male	Malay	University	30+	Male	Chinese	Post-secondary	21	558	2	2	-0.618254916	-0.101551657	-0.427152238	0.30254623
+R_1ISGX0Yhb4lyLMK	Male	Indian	Secondary school	30+	Male	Chinese	Post-secondary	21	962	4	3	-0.897804212	-0.205702344	0.288054365	-0.415468666
+R_1ISGX0Yhb4lyLMK	Female	Chinese	University	20+	Male	Chinese	Post-secondary	21	239	1	5	-1.314545126	-0.079924095	-0.720825449	-0.424142833
+R_3MzjzGXlFm6enMG	Female	Chinese	Polytechnic	30+	Female	Malay	University	22	937	3	1	1.515882464	1.200078535	0.457652244	1.522405518
+R_3MzjzGXlFm6enMG	Male	Indian	Polytechnic	20+	Female	Malay	University	22	618	2	2	0.935146424	0.566365269	1.474424371	1.222688247
+R_3MzjzGXlFm6enMG	Male	Chinese	Secondary school	20+	Female	Malay	University	22	400	4	3	0.526669668	1.17445153	0.338691395	0.772077842
+R_3MzjzGXlFm6enMG	Male	Malay	Secondary school	20+	Female	Malay	University	22	613	2	4	1.624113648	0.354794842	1.008462185	0.85973292
+R_3MzjzGXlFm6enMG	Female	Indian	University	30+	Female	Malay	University	22	956	3	5	0.791170052	0.64901056	0.962153304	1.138075099
+R_3MzjzGXlFm6enMG	Female	Malay	University	30+	Female	Malay	University	22	931	1	6	1.638775604	0.463295472	1.529862392	1.080649937
+R_3R26oCtKhU9TSdg	Male	Chinese	University	30+	Female	Indian	University	20	832	1	1	-0.945463022	-1.922708384	-0.028618399	-0.386661463
+R_3R26oCtKhU9TSdg	Female	Malay	University	20+	Female	Indian	University	20	532	5	2	-0.495857449	0.22904273	0.814174001	-0.033513421
+R_3R26oCtKhU9TSdg	Female	Indian	Secondary school	20+	Female	Indian	University	20	446	1	3	0.806407607	-0.490920865	0.651952478	0.559450095
+R_3R26oCtKhU9TSdg	Male	Malay	Secondary school	30+	Female	Indian	University	20	965	2	4	0.709748063	-1.805391112	0.345221675	0.052428494
+R_3R26oCtKhU9TSdg	Female	Chinese	Polytechnic	20+	Female	Indian	University	20	818	4	5	0.857624559	1.233718137	1.058895048	1.302051318
+R_3R26oCtKhU9TSdg	Male	Indian	Polytechnic	30+	Female	Indian	University	20	936	4	6	0.079519595	0.065788885	0.333333829	-0.076096771
+R_3nNvX0fzUhfBvzh	Female	Malay	University	30+	Male	Indian	Post-secondary	20	931	4	1	0.306173419	-0.558599455	-1.406806364	-0.23884637
+R_3nNvX0fzUhfBvzh	Male	Malay	Secondary school	20+	Male	Indian	Post-secondary	20	613	3	2	0.386051539	-1.366651971	0.605166984	-0.439254024
+R_3nNvX0fzUhfBvzh	Male	Indian	Polytechnic	20+	Male	Indian	Post-secondary	20	618	2	3	0.160106322	1.016611523	0.047135717	0.459596086
+R_3nNvX0fzUhfBvzh	Female	Chinese	Polytechnic	30+	Male	Indian	Post-secondary	20	937	2	4	0.160887931	-0.355625786	-0.404802536	-0.904862187
+R_3nNvX0fzUhfBvzh	Male	Chinese	Secondary school	20+	Male	Indian	Post-secondary	20	400	1	5	0.611752943	0.145365874	0.358641219	-1.156165146
+R_3nNvX0fzUhfBvzh	Female	Indian	University	30+	Male	Indian	Post-secondary	20	956	4	6	2.552241914	1.720673829	2.102847148	1.218148722
+R_2Qy4rG2sFZm9jay	Male	Chinese	University	30+	Female	Chinese	University	25	832	3	1	-1.421380029	-1.717634055	-1.018825376	-1.164583866
+R_2Qy4rG2sFZm9jay	Female	Malay	University	20+	Female	Chinese	University	25	532	1	2	0.596213668	-0.134702112	0.236672203	0.681360281
+R_2Qy4rG2sFZm9jay	Male	Malay	Secondary school	30+	Female	Chinese	University	25	965	4	3	-1.762208139	-1.84595914	-1.757635752	-1.908667232
+R_2Qy4rG2sFZm9jay	Female	Indian	Secondary school	20+	Female	Chinese	University	25	446	1	4	-0.903789016	-1.266388379	-0.915249891	-1.537367675
+R_2Qy4rG2sFZm9jay	Male	Indian	Polytechnic	30+	Female	Chinese	University	25	936	3	5	1.066277099	1.259873846	1.285061958	1.170758714
+R_2Qy4rG2sFZm9jay	Female	Chinese	Polytechnic	20+	Female	Chinese	University	25	818	2	6	0.864471328	1.19619169	1.555696601	1.121157164
+R_1MY87iKpRPz5Lk1	Male	Malay	Polytechnic	20+	Male	Chinese	University	24	990	2	1	1.546659181	0.987542173	1.684717323	-0.318783397
+R_1MY87iKpRPz5Lk1	Male	Indian	University	20+	Male	Chinese	University	24	1014	3	2	0.079493969	1.502339323	1.285581674	1.237754398
+R_1MY87iKpRPz5Lk1	Female	Indian	Secondary school	30+	Male	Chinese	University	24	664	1	3	0.667318966	-0.305224633	1.403244372	0.63965839
+R_1MY87iKpRPz5Lk1	Female	Malay	Polytechnic	30+	Male	Chinese	University	24	911	4	4	2.313785194	1.321034912	1.963428654	0.149188529
+R_1MY87iKpRPz5Lk1	Male	Chinese	University	20+	Male	Chinese	University	24	866	3	5	0.97691757	0.313502834	0.818762785	0.996371826
+R_1MY87iKpRPz5Lk1	Female	Chinese	Secondary school	30+	Male	Chinese	University	24	694	1	6	0.82254884	0.576278874	1.958614746	0.929642206
+R_3Ph3Ca4hX3SucS6	Male	Malay	Polytechnic	20+	Female	Chinese	University	30	990	4	1	-1.391561798	0.953133791	-1.261299064	-0.02127382
+R_3Ph3Ca4hX3SucS6	Male	Chinese	University	20+	Female	Chinese	University	30	866	3	2	-0.015740239	-1.033440199	0.036636151	-0.511818092
+R_3Ph3Ca4hX3SucS6	Female	Indian	Secondary school	30+	Female	Chinese	University	30	664	1	3	0.851079023	-0.899673651	0.297709792	-0.720333575
+R_3Ph3Ca4hX3SucS6	Female	Malay	Polytechnic	30+	Female	Chinese	University	30	911	2	4	-0.08129415	-0.597383444	0.08174124	-1.292267815
+R_3Ph3Ca4hX3SucS6	Female	Chinese	Secondary school	30+	Female	Chinese	University	30	694	1	5	0.852596133	-0.224621829	0.72725948	-1.50270058
+R_3Ph3Ca4hX3SucS6	Male	Indian	University	20+	Female	Chinese	University	30	1014	4	6	-0.868948525	0.813127655	-1.559264953	0.791326203
+R_wXgtOujOOAJPvUJ	Male	Indian	Polytechnic	20+	Female	Chinese	University	25	618	2	1	0.725236237	-1.089997014	0.674248326	-0.69915951
+R_wXgtOujOOAJPvUJ	Female	Indian	University	30+	Female	Chinese	University	25	956	4	2	0.38373502	1.887034525	0.219423657	1.589031446
+R_wXgtOujOOAJPvUJ	Male	Malay	Secondary school	20+	Female	Chinese	University	25	613	2	3	1.474362114	-1.822972202	0.953082405	-1.273671972
+R_wXgtOujOOAJPvUJ	Female	Malay	University	30+	Female	Chinese	University	25	931	3	4	-1.337330915	-0.638980661	-0.380740914	1.051420946
+R_wXgtOujOOAJPvUJ	Male	Chinese	Secondary school	20+	Female	Chinese	University	25	400	1	5	2.183201093	0.681420068	1.805749558	0.082448264
+R_wXgtOujOOAJPvUJ	Female	Chinese	Polytechnic	30+	Female	Chinese	University	25	937	4	6	2.439484442	0.510385697	2.136542979	1.375728997
+R_pmhkfgc6dgccKFH	Male	Indian	Secondary school	30+	Male	Chinese	Post-secondary	25	962	2	1	-0.882100306	-0.120726218	-0.790169919	0.006936088
+R_pmhkfgc6dgccKFH	Female	Chinese	University	20+	Male	Chinese	Post-secondary	25	239	2	2	-0.613918156	1.123013888	-0.117203933	1.160286217
+R_pmhkfgc6dgccKFH	Female	Indian	Polytechnic	20+	Male	Chinese	Post-secondary	25	930	4	3	0.958249925	-0.037414746	1.912265586	2.227697151
+R_pmhkfgc6dgccKFH	Male	Malay	University	30+	Male	Chinese	Post-secondary	25	558	3	4	-0.646365414	-1.290737806	-1.726518396	-0.998348052
+R_pmhkfgc6dgccKFH	Male	Chinese	Polytechnic	20+	Male	Chinese	Post-secondary	25	878	1	5	1.907868866	1.646871751	2.029898311	1.572119
+R_pmhkfgc6dgccKFH	Female	Malay	Secondary school	20+	Male	Chinese	Post-secondary	25	225	4	6	1.402636221	0.440380949	1.070009611	0.223634269
+R_1BXxsR2PrkQQq7E	Female	Indian	University	30+	Male	Malay	University	25	956	3	1	1.178401471	-0.287229412	0.547120616	0.643309835
+R_1BXxsR2PrkQQq7E	Male	Chinese	Secondary school	20+	Male	Malay	University	25	400	2	2	-1.13400275	-0.912091287	-0.979048111	0.364396523
+R_1BXxsR2PrkQQq7E	Male	Malay	Secondary school	20+	Male	Malay	University	25	613	1	3	1.376186315	-1.75283161	0.01085634	0.033536959
+R_1BXxsR2PrkQQq7E	Male	Indian	Polytechnic	20+	Male	Malay	University	25	618	4	4	0.423736643	1.445391721	0.544123027	1.160911511
+R_1BXxsR2PrkQQq7E	Female	Chinese	Polytechnic	30+	Male	Malay	University	25	937	3	5	1.746149256	-0.237589565	0.702996006	-0.752403915
+R_1BXxsR2PrkQQq7E	Female	Malay	University	30+	Male	Malay	University	25	931	4	6	0.226196141	-1.744150459	-0.177625758	-1.070938927
+R_1k1gZuSJo5DB3H4	Female	Malay	University	20+	Female	Malay	University	22	532	1	1	-1.169971586	0.106655017	-0.624824896	-1.001699973
+R_1k1gZuSJo5DB3H4	Female	Indian	Secondary school	20+	Female	Malay	University	22	446	1	2	-1.978307138	-0.684887538	-1.416643444	-0.69627272
+R_1k1gZuSJo5DB3H4	Male	Indian	Polytechnic	30+	Female	Malay	University	22	936	2	3	2.324182451	1.239821948	1.736605064	1.781368986
+R_1k1gZuSJo5DB3H4	Male	Malay	Secondary school	30+	Female	Malay	University	22	965	4	4	0.217842986	-1.810268109	-0.724359844	-0.612883216
+R_1k1gZuSJo5DB3H4	Male	Chinese	University	30+	Female	Malay	University	22	832	2	5	-1.414343395	0.424758609	-0.873242225	0.368611018
+R_1k1gZuSJo5DB3H4	Female	Chinese	Polytechnic	20+	Female	Malay	University	22	818	3	6	-0.56536367	0.339479287	-0.160506014	0.350668986
+R_9tzsij3SXUozUe5	Male	Malay	University	30+	Male	Chinese	University	23	558	4	1	-0.368355733	-1.017932095	-0.288198935	-1.04975411
+R_9tzsij3SXUozUe5	Female	Malay	Secondary school	20+	Male	Chinese	University	23	225	3	2	-0.769589724	-0.40284288	-0.202603287	-0.300961341
+R_9tzsij3SXUozUe5	Female	Indian	Polytechnic	20+	Male	Chinese	University	23	930	3	3	-1.145346952	0.124255268	-0.489416215	1.3310583
+R_9tzsij3SXUozUe5	Male	Chinese	Polytechnic	20+	Male	Chinese	University	23	878	2	4	-0.145298157	0.4828134	-0.513694255	0.24261944
+R_9tzsij3SXUozUe5	Female	Chinese	University	20+	Male	Chinese	University	23	239	1	5	-0.666892932	-0.34898016	-0.940354051	-0.22271473
+R_9tzsij3SXUozUe5	Male	Indian	Secondary school	30+	Male	Chinese	University	23	962	2	6	-1.145119462	-0.621817923	-0.330824549	-0.489255941
+R_24gYpNxpCcdicqR	Female	Chinese	Polytechnic	30+	Female	Chinese	Post-secondary	49	937	3	1	-0.887564241	-1.271372135	-0.216113892	-1.642477256
+R_24gYpNxpCcdicqR	Male	Chinese	Secondary school	20+	Female	Chinese	Post-secondary	49	400	1	2	-2.626396183	-1.417635205	-1.373461147	-0.871353273
+R_24gYpNxpCcdicqR	Male	Indian	Polytechnic	20+	Female	Chinese	Post-secondary	49	618	3	3	-2.143370034	-0.663347144	-1.306029642	-1.489001662
+R_24gYpNxpCcdicqR	Male	Malay	Secondary school	20+	Female	Chinese	Post-secondary	49	613	4	4	-1.754809334	-1.166493064	-1.998424689	-1.197834913
+R_24gYpNxpCcdicqR	Female	Indian	University	30+	Female	Chinese	Post-secondary	49	956	2	5	-0.725680677	-0.84372507	-0.426366798	-0.621118313
+R_24gYpNxpCcdicqR	Female	Malay	University	30+	Female	Chinese	Post-secondary	49	931	2	6	-2.53384073	-0.621538209	-1.778606592	-0.37607849
+R_XvW75O9v6lH29KF	Male	Indian	Polytechnic	20+	Female	Malay	University	22	618	1	1	1.260421858	1.214248417	1.193350988	0.050726058
+R_XvW75O9v6lH29KF	Female	Chinese	Polytechnic	30+	Female	Malay	University	22	937	3	2	2.140251708	0.97805928	2.119826269	1.426271732
+R_XvW75O9v6lH29KF	Male	Malay	Secondary school	20+	Female	Malay	University	22	613	4	3	1.606672588	0.40917441	1.749911559	1.196019899
+R_XvW75O9v6lH29KF	Female	Indian	University	30+	Female	Malay	University	22	956	4	4	2.381576593	1.732360536	1.717188156	1.815060041
+R_XvW75O9v6lH29KF	Female	Malay	University	30+	Female	Malay	University	22	931	2	5	1.66753268	0.527213689	1.027811818	0.890194824
+R_XvW75O9v6lH29KF	Male	Chinese	Secondary school	20+	Female	Malay	University	22	400	1	6	1.039037763	1.219375263	0.778256783	1.505160617
+R_29jhkmmr51SiUAT	Male	Malay	Polytechnic	20+	Female	Indian	University	28	990	1	1	-0.05570677	-0.35528473	0.422453999	-0.803123137
+R_29jhkmmr51SiUAT	Male	Chinese	University	20+	Female	Indian	University	28	866	2	2	-0.203126804	0.182384058	0.007617647	0.604015298
+R_29jhkmmr51SiUAT	Female	Chinese	Secondary school	30+	Female	Indian	University	28	694	4	3	0.343131752	-0.558066642	-0.099781324	-0.090907698
+R_29jhkmmr51SiUAT	Female	Indian	Secondary school	30+	Female	Indian	University	28	664	1	4	0.629978336	-0.519732969	0.852905225	0.241656371
+R_29jhkmmr51SiUAT	Female	Malay	Polytechnic	30+	Female	Indian	University	28	911	3	5	0.722775748	-0.16852029	0.673001411	0.524539004
+R_29jhkmmr51SiUAT	Male	Indian	University	20+	Female	Indian	University	28	1014	2	6	0.543180276	0.578726225	0.015549169	0.695113206
+R_3plqUNGUy38hPQe	Male	Malay	Polytechnic	20+	Female	Chinese	University	21	990	2	1	-0.451034103	1.330276808	0.723613342	0.666155834
+R_3plqUNGUy38hPQe	Female	Malay	Polytechnic	30+	Female	Chinese	University	21	911	1	2	-0.189134904	0.025241452	0.248820698	0.552383056
+R_3plqUNGUy38hPQe	Female	Chinese	Secondary school	30+	Female	Chinese	University	21	694	3	3	0.074371267	-0.350172403	0.147441661	-0.556834995
+R_3plqUNGUy38hPQe	Male	Chinese	University	20+	Female	Chinese	University	21	866	4	4	-0.317083027	0.166481301	0.388435042	0.700342074
+R_3plqUNGUy38hPQe	Male	Indian	University	20+	Female	Chinese	University	21	1014	1	5	0.479644048	0.346712735	0.589461077	0.001455407
+R_3plqUNGUy38hPQe	Female	Indian	Secondary school	30+	Female	Chinese	University	21	664	5	6	-0.537744754	-0.702609312	0.396175551	-0.657344786
+R_1hyy79OLFOLjfPZ	Male	Chinese	Polytechnic	20+	Female	Indian	University	21	878	2	1	-1.49198337	1.874868322	-1.195056546	0.990329294
+R_1hyy79OLFOLjfPZ	Female	Malay	Secondary school	20+	Female	Indian	University	21	225	3	2	0.354624912	-1.879920279	0.205181869	-2.135999224
+R_1hyy79OLFOLjfPZ	Female	Chinese	University	20+	Female	Indian	University	21	239	4	3	-0.041351016	-0.821212877	0.592949015	-1.247760271
+R_1hyy79OLFOLjfPZ	Male	Indian	Secondary school	30+	Female	Indian	University	21	962	4	4	-1.687542744	-2.834025162	-2.087516652	-0.852313122
+R_1hyy79OLFOLjfPZ	Male	Malay	University	30+	Female	Indian	University	21	558	1	5	1.354806462	-0.140273361	1.435207403	-1.930195606
+R_1hyy79OLFOLjfPZ	Female	Indian	Polytechnic	20+	Female	Indian	University	21	930	3	6	0.813467804	-0.411537698	0.052607321	0.188433482
+R_3KT6XCq941L0XSg	Female	Chinese	Polytechnic	20+	Male	Malay	Post-secondary	24	818	3	1	-3.03219656	-1.022849645	-0.798881164	-2.012786779
+R_3KT6XCq941L0XSg	Male	Malay	Secondary school	30+	Male	Malay	Post-secondary	24	965	1	2	1.880980219	-0.502490878	0.810083171	-0.734712918
+R_3KT6XCq941L0XSg	Male	Chinese	University	30+	Male	Malay	Post-secondary	24	832	4	3	0.305655913	1.8318941	1.308072329	1.833267521
+R_3KT6XCq941L0XSg	Female	Indian	Secondary school	20+	Male	Malay	Post-secondary	24	446	4	4	-0.065146199	0.274176785	1.457696704	0.518264024
+R_3KT6XCq941L0XSg	Female	Malay	University	20+	Male	Malay	Post-secondary	24	532	2	5	1.375100709	0.438743412	1.246593938	-0.330921783
+R_3KT6XCq941L0XSg	Male	Indian	Polytechnic	30+	Male	Malay	Post-secondary	24	936	1	6	0.511743799	0.97895905	0.599121377	1.394199838
+R_2BbmQsgq2dPEYjf	Female	Malay	University	30+	Male	Chinese	Post-secondary	23	931	4	1	-2.050920151	0.572252561	-0.850544217	0.997045793
+R_2BbmQsgq2dPEYjf	Female	Chinese	Polytechnic	30+	Male	Chinese	Post-secondary	23	937	3	2	0.323373282	1.076167389	0.18863744	-0.658432732
+R_2BbmQsgq2dPEYjf	Male	Chinese	Secondary school	20+	Male	Chinese	Post-secondary	23	400	1	3	1.332104291	-0.521629883	1.714057746	0.788824129
+R_2BbmQsgq2dPEYjf	Male	Malay	Secondary school	20+	Male	Chinese	Post-secondary	23	613	2	4	1.70053486	0.760613916	1.653556664	0.648980353
+R_2BbmQsgq2dPEYjf	Female	Indian	University	30+	Male	Chinese	Post-secondary	23	956	4	5	0.613652923	1.655726107	0.849008778	1.314244044
+R_2BbmQsgq2dPEYjf	Male	Indian	Polytechnic	20+	Male	Chinese	Post-secondary	23	618	2	6	0.953334812	1.839159291	1.035495858	1.136083661
+R_2y10aohD5P5YzE2	Female	Chinese	Polytechnic	20+	Male	Chinese	University	25	818	4	1	-0.266878286	-1.352861202	-0.950065109	-0.465004373
+R_2y10aohD5P5YzE2	Male	Chinese	University	30+	Male	Chinese	University	25	832	2	2	-1.262362556	-1.709492678	-1.340956014	-1.431599562
+R_2y10aohD5P5YzE2	Female	Indian	Secondary school	20+	Male	Chinese	University	25	446	3	3	-0.523681739	0.108842616	-0.716787876	-0.440508735
+R_2y10aohD5P5YzE2	Male	Indian	Polytechnic	30+	Male	Chinese	University	25	936	1	4	0.766140518	1.122635287	-0.439045756	0.056666374
+R_2y10aohD5P5YzE2	Male	Malay	Secondary school	30+	Male	Chinese	University	25	965	3	5	-0.077359644	-1.225423197	-0.277390185	-0.169178879
+R_2y10aohD5P5YzE2	Female	Malay	University	20+	Male	Chinese	University	25	532	1	6	-0.925936443	0.534393128	-0.320620999	0.103708251
+R_6AmB0SDejfF6Uud	Male	Malay	University	30+	Female	Chinese	University	21	558	1	1	-1.055034898	-0.830163932	0.35875655	-0.457751184
+R_6AmB0SDejfF6Uud	Female	Malay	Secondary school	20+	Female	Chinese	University	21	225	4	2	-0.374986551	-1.250318594	-0.16057568	-0.492644028
+R_6AmB0SDejfF6Uud	Female	Indian	Polytechnic	20+	Female	Chinese	University	21	930	3	3	-0.160847171	0.619645381	-0.283418919	0.071551726
+R_6AmB0SDejfF6Uud	Female	Chinese	University	20+	Female	Chinese	University	21	239	5	4	-0.335944769	0.3694375	-1.003715736	-0.682659593
+R_6AmB0SDejfF6Uud	Male	Chinese	Polytechnic	20+	Female	Chinese	University	21	878	2	5	-0.220552121	0.991268293	-0.650901777	0.252577009
+R_6AmB0SDejfF6Uud	Male	Indian	Secondary school	30+	Female	Chinese	University	21	962	2	6	-0.186754024	-1.36214806	-0.920422389	-1.086410976
+R_2Uisa7tKPrYy04e	Female	Indian	University	30+	Female	Chinese	University	21	956	3	1	0.826835891	0.701853699	-0.117825848	0.270630337
+R_2Uisa7tKPrYy04e	Male	Malay	Secondary school	20+	Female	Chinese	University	21	613	4	2	0.009511257	-0.057494784	0.022300073	-0.380685626
+R_2Uisa7tKPrYy04e	Male	Chinese	Secondary school	20+	Female	Chinese	University	21	400	1	3	0.581338403	0.456893091	0.222560575	-0.674236248
+R_2Uisa7tKPrYy04e	Female	Chinese	Polytechnic	30+	Female	Chinese	University	21	937	2	4	0.829706857	0.305180127	-0.091799536	-0.025061732
+R_2Uisa7tKPrYy04e	Male	Indian	Polytechnic	20+	Female	Chinese	University	21	618	2	5	0.280141886	0.40204084	0.052240393	-0.008973281
+R_2Uisa7tKPrYy04e	Female	Malay	University	30+	Female	Chinese	University	21	931	3	6	0.51150386	0.416328654	-0.176670473	0.316886818
+R_24q3GlKwH2Y051W	Male	Malay	Secondary school	30+	Male	Malay	Post-secondary	27	965	2	1	2.200445906	1.485390977	1.687623971	0.984634138
+R_24q3GlKwH2Y051W	Female	Chinese	Polytechnic	20+	Male	Malay	Post-secondary	27	818	1	2	-1.220920939	0.889828544	0.250297025	2.291381076
+R_24q3GlKwH2Y051W	Female	Malay	University	20+	Male	Malay	Post-secondary	27	532	5	3	-0.145266115	1.316112351	1.066224106	1.535675592
+R_24q3GlKwH2Y051W	Male	Chinese	University	30+	Male	Malay	Post-secondary	27	832	4	4	0.283205398	0.901285435	0.391671609	0.720236997
+R_24q3GlKwH2Y051W	Female	Indian	Secondary school	20+	Male	Malay	Post-secondary	27	446	5	5	0.778257704	-2.394467368	1.084564227	-0.347363905
+R_24q3GlKwH2Y051W	Male	Indian	Polytechnic	30+	Male	Malay	Post-secondary	27	936	1	6	2.491260468	2.046836446	1.976054336	1.857668873
+R_tG766nNbxIKE5Hj	Male	Indian	Secondary school	30+	Female	Chinese	University	23	962	2	1	0.820301438	0.073726337	0.479399251	0.218571928
+R_tG766nNbxIKE5Hj	Female	Chinese	University	20+	Female	Chinese	University	23	239	2	2	0.475124934	0.007204773	0.586722381	0.426776447
+R_tG766nNbxIKE5Hj	Male	Malay	University	30+	Female	Chinese	University	23	558	1	3	0.861308215	0.184330955	0.734921607	-0.034213376
+R_tG766nNbxIKE5Hj	Female	Malay	Secondary school	20+	Female	Chinese	University	23	225	3	4	0.886377854	0.53631245	0.628938883	-0.183346323
+R_tG766nNbxIKE5Hj	Male	Chinese	Polytechnic	20+	Female	Chinese	University	23	878	4	5	0.637819005	-0.186760094	-0.075402546	0.472956803
+R_tG766nNbxIKE5Hj	Female	Indian	Polytechnic	20+	Female	Chinese	University	23	930	1	6	0.713477748	0.596789576	-0.007713368	0.699290709
+R_5aNVOmmfBu80DT3	Male	Chinese	University	20+	Female	Chinese	University	21	866	2	1	-0.548865603	0.098568038	1.194195375	2.19633097
+R_5aNVOmmfBu80DT3	Female	Chinese	Secondary school	30+	Female	Chinese	University	21	694	3	2	0.6415318	-0.124254269	0.307547252	-0.541408951
+R_5aNVOmmfBu80DT3	Female	Malay	Polytechnic	30+	Female	Chinese	University	21	911	1	3	-0.90373739	0.158489804	-0.073873419	1.585314606
+R_5aNVOmmfBu80DT3	Male	Indian	University	20+	Female	Chinese	University	21	1014	4	4	-0.693746089	-0.258327563	-1.400301917	-0.884980353
+R_5aNVOmmfBu80DT3	Female	Indian	Secondary school	30+	Female	Chinese	University	21	664	1	5	0.310255791	-0.431899814	-0.741360958	-0.449557053
+R_5aNVOmmfBu80DT3	Male	Malay	Polytechnic	20+	Female	Chinese	University	21	990	4	6	0.304094016	0.362121364	0.682833808	0.687960825
+R_rosXmHber4FlzQB	Male	Malay	Secondary school	20+	Male	Chinese	Post-secondary	23	613	3	3	-0.475969707	0.310565658	-0.436679692	0.113757254
+R_rosXmHber4FlzQB	Male	Indian	Polytechnic	20+	Male	Chinese	Post-secondary	23	618	3	5	0.310290699	0.287178782	-1.017023049	-0.083437569
+R_rosXmHber4FlzQB	Female	Malay	University	30+	Male	Chinese	Post-secondary	23	931	2	6	-0.593614581	-0.369140833	-0.890324746	-0.385154907
+R_DhJP1k7Bz7QI4BH	Female	Indian	Polytechnic	20+	Male	Indian	University	22	930	1	1	1.317925128	0.323989692	-0.296358738	1.016264308
+R_DhJP1k7Bz7QI4BH	Male	Malay	University	30+	Male	Indian	University	22	558	2	2	-0.964675007	-0.316761716	-1.144787614	-0.769227842
+R_DhJP1k7Bz7QI4BH	Male	Chinese	Polytechnic	20+	Male	Indian	University	22	878	4	3	0.731384138	0.307648871	0.424397157	0.607307752
+R_DhJP1k7Bz7QI4BH	Female	Malay	Secondary school	20+	Male	Indian	University	22	225	1	4	-0.238166458	-0.199675681	0.732486045	0.77175756
+R_DhJP1k7Bz7QI4BH	Female	Chinese	University	20+	Male	Indian	University	22	239	5	5	0.176186342	0.705072326	1.824187142	0.531216866
+R_DhJP1k7Bz7QI4BH	Male	Indian	Secondary school	30+	Male	Indian	University	22	962	4	6	0.335849188	-0.203207617	0.371046095	0.488141852
+R_2EnqdsnS3ahlUK9	Female	Indian	Secondary school	20+	Female	Malay	University	23	446	1	1	-0.807057223	-0.876414584	-0.562163557	-0.960766628
+R_2EnqdsnS3ahlUK9	Male	Chinese	University	30+	Female	Malay	University	23	832	4	2	-1.011488494	-0.531750625	-0.905477767	-0.598127401
+R_2EnqdsnS3ahlUK9	Female	Malay	University	20+	Female	Malay	University	23	532	2	3	-0.62739631	-0.22271046	-0.784217517	-0.815940077
+R_2EnqdsnS3ahlUK9	Male	Indian	Polytechnic	30+	Female	Malay	University	23	936	3	4	-0.505754044	-0.387167021	-0.526437472	-0.179642433
+R_2EnqdsnS3ahlUK9	Male	Malay	Secondary school	30+	Female	Malay	University	23	965	1	5	-0.213976279	-0.879865369	-0.17280061	-0.704670906
+R_2EnqdsnS3ahlUK9	Female	Chinese	Polytechnic	20+	Female	Malay	University	23	818	3	6	-0.002475552	-0.630154486	-0.08079544	-0.605537959
+R_2AFgPfTTxUVenNK	Male	Malay	University	30+	Male	Chinese	Post-secondary	24	558	1	1	-0.029550609	-1.776172665	-0.567529061	-0.375008059
+R_2AFgPfTTxUVenNK	Male	Indian	Secondary school	30+	Male	Chinese	Post-secondary	24	962	2	2	-0.889311287	-0.397155688	-0.960438286	-0.211671805
+R_2AFgPfTTxUVenNK	Female	Chinese	University	20+	Male	Chinese	Post-secondary	24	239	2	3	-0.369718825	1.937388236	-1.818024504	1.468984113
+R_2AFgPfTTxUVenNK	Female	Malay	Secondary school	20+	Male	Chinese	Post-secondary	24	225	3	4	-0.174616887	1.47963895	-2.137268496	0.715723562
+R_2AFgPfTTxUVenNK	Female	Indian	Polytechnic	20+	Male	Chinese	Post-secondary	24	930	3	5	-0.470371452	0.40888375	-1.844535161	-0.430281157
+R_2AFgPfTTxUVenNK	Male	Chinese	Polytechnic	20+	Male	Chinese	Post-secondary	24	878	4	6	-0.059425514	1.868042128	-0.136915764	1.287290344
+R_1MS2goj2QpTwJTz	Female	Indian	Secondary school	30+	Male	Indian	University	23	664	4	1	-0.590041405	-1.281542068	-0.260171796	-0.416922773
+R_1MS2goj2QpTwJTz	Male	Malay	Polytechnic	20+	Male	Indian	University	23	990	2	2	-0.960156193	0.174980052	-0.999726985	-1.112999855
+R_1MS2goj2QpTwJTz	Female	Chinese	Secondary school	30+	Male	Indian	University	23	694	3	3	-0.473796503	-0.472431113	0.023607316	-1.433528891
+R_1MS2goj2QpTwJTz	Male	Chinese	University	20+	Male	Indian	University	23	866	1	4	-0.579346016	0.449711984	-0.402266837	0.810545937
+R_1MS2goj2QpTwJTz	Male	Indian	University	20+	Male	Indian	University	23	1014	3	5	-0.064423206	0.505842477	0.488721313	0.406545844
+R_1MS2goj2QpTwJTz	Female	Malay	Polytechnic	30+	Male	Indian	University	23	911	4	6	-0.554389083	0.439428632	-0.326399095	0.639384887
+R_432aNARAmqHJP0t	Male	Malay	Polytechnic	20+	Female	Malay	University	21	990	3	1	0.865920786	0.487292745	-1.488839732	0.556749318
+R_432aNARAmqHJP0t	Female	Malay	Polytechnic	30+	Female	Malay	University	21	911	4	2	0.436193	0.450088671	0.39841946	0.732287167
+R_432aNARAmqHJP0t	Female	Indian	Secondary school	30+	Female	Malay	University	21	664	1	3	0.71509028	0.059872278	0.420464312	-0.635566823
+R_432aNARAmqHJP0t	Male	Chinese	University	20+	Female	Malay	University	21	866	1	4	-0.054993945	-0.119771861	-0.862308799	1.840766531
+R_432aNARAmqHJP0t	Female	Chinese	Secondary school	30+	Female	Malay	University	21	694	2	5	0.017587958	0.30759008	-0.786125051	-0.612539595
+R_432aNARAmqHJP0t	Male	Indian	University	20+	Female	Malay	University	21	1014	2	6	0.105478084	0.722538646	0.027931522	0.405461397
+R_uxnOYoHhb2FHlkd	Female	Indian	Secondary school	30+	Male	Malay	Post-secondary	23	664	1	1	0.329881502	-0.396589209	-0.737765281	0.372538968
+R_uxnOYoHhb2FHlkd	Male	Indian	University	20+	Male	Malay	Post-secondary	23	1014	4	2	0.088360913	1.146562372	-0.426673686	0.443996963
+R_uxnOYoHhb2FHlkd	Female	Malay	Polytechnic	30+	Male	Malay	Post-secondary	23	911	3	3	1.50752886	-0.300810584	-0.368342408	-0.985518545
+R_uxnOYoHhb2FHlkd	Female	Chinese	Secondary school	30+	Male	Malay	Post-secondary	23	694	1	4	0.766134066	0.131261727	-0.352415582	-0.152391755
+R_uxnOYoHhb2FHlkd	Male	Chinese	University	20+	Male	Malay	Post-secondary	23	866	4	5	0.311767497	-0.103136067	-0.524677615	0.437880145
+R_uxnOYoHhb2FHlkd	Male	Malay	Polytechnic	20+	Male	Malay	Post-secondary	23	990	2	6	-2.012895303	-0.120046198	-1.337750703	-1.800072153
+R_3rMmRwv3UO3xyAb	Female	Indian	University	30+	Female	Chinese	University	22	956	4	1	-2.820815928	-0.404507742	-2.074329937	0.229701293
+R_3rMmRwv3UO3xyAb	Male	Malay	Secondary school	20+	Female	Chinese	University	22	613	3	2	-0.824468848	-1.222666074	-0.875039237	-0.476202199
+R_3rMmRwv3UO3xyAb	Male	Indian	Polytechnic	20+	Female	Chinese	University	22	618	2	3	-0.089298887	-0.781998401	-0.16796777	-0.107948796
+R_3rMmRwv3UO3xyAb	Female	Chinese	Polytechnic	30+	Female	Chinese	University	22	937	4	4	-1.763244966	-0.236922999	-2.168588569	-0.574391168
+R_3rMmRwv3UO3xyAb	Male	Chinese	Secondary school	20+	Female	Chinese	University	22	400	1	5	-0.922936467	-0.696875848	-0.068468202	-0.370764665
+R_3rMmRwv3UO3xyAb	Female	Malay	University	30+	Female	Chinese	University	22	931	2	6	-0.918055322	-0.794094866	-0.8158254	-0.411151298
+R_XsUL1cAn169HD6F	Female	Chinese	University	20+	Male	Chinese	Post-secondary	21	239	5	1	-0.162550944	-1.887952855	0.479725628	-0.262975418
+R_XsUL1cAn169HD6F	Male	Malay	University	30+	Male	Chinese	Post-secondary	21	558	2	2	-2.154940774	-1.619454326	-2.419390128	-1.988796711
+R_XsUL1cAn169HD6F	Male	Indian	Secondary school	30+	Male	Chinese	Post-secondary	21	962	1	3	-0.267440543	-1.065687299	0.190928647	0.049004351
+R_XsUL1cAn169HD6F	Male	Chinese	Polytechnic	20+	Male	Chinese	Post-secondary	21	878	1	4	2.098841498	1.993932646	2.407737553	2.119594622
+R_XsUL1cAn169HD6F	Female	Indian	Polytechnic	20+	Male	Chinese	Post-secondary	21	930	3	5	0.97558582	-0.853276913	1.507183487	0.949602955
+R_XsUL1cAn169HD6F	Female	Malay	Secondary school	20+	Male	Chinese	Post-secondary	21	225	4	6	1.460477581	-0.022990619	1.308842956	1.291373249
+R_1GHNpOivLNdmdWq	Female	Indian	Polytechnic	20+	Female	Malay	University	23	930	4	1	0.498823557	0.314096677	0.791948568	1.389595389
+R_1GHNpOivLNdmdWq	Male	Chinese	Polytechnic	20+	Female	Malay	University	23	878	3	2	0.12271019	0.876390747	1.485208127	0.82266474
+R_1GHNpOivLNdmdWq	Male	Malay	University	30+	Female	Malay	University	23	558	1	3	0.528171968	-0.199221369	0.113169758	-0.26731879
+R_1GHNpOivLNdmdWq	Female	Malay	Secondary school	20+	Female	Malay	University	23	225	4	4	0.984899975	-1.576017087	0.982445181	-1.542655691
+R_1GHNpOivLNdmdWq	Male	Indian	Secondary school	30+	Female	Malay	University	23	962	3	5	0.064757353	-0.385409087	0.554281708	0.534861535
+R_1GHNpOivLNdmdWq	Female	Chinese	University	20+	Female	Malay	University	23	239	2	6	0.879824078	0.132893685	1.708427671	0.283772818
+R_2QtySYuyZSNPD5H	Male	Chinese	University	30+	Male	Indian	University	26	832	1	1	-1.543785451	-0.807838956	-1.608006321	-1.369098154
+R_2QtySYuyZSNPD5H	Female	Malay	University	20+	Male	Indian	University	26	532	5	2	-0.275699164	-0.820650846	-0.177555013	0.372234476
+R_2QtySYuyZSNPD5H	Male	Malay	Secondary school	30+	Male	Indian	University	26	965	4	3	1.161269291	0.071852979	0.779123548	0.360462968
+R_2QtySYuyZSNPD5H	Male	Indian	Polytechnic	30+	Male	Indian	University	26	936	4	4	-0.234628433	0.122886953	0.396037068	0.111963882
+R_2QtySYuyZSNPD5H	Female	Chinese	Polytechnic	20+	Male	Indian	University	26	818	2	5	1.072256296	1.332554611	1.661536757	0.650323827
+R_2QtySYuyZSNPD5H	Female	Indian	Secondary school	20+	Male	Indian	University	26	446	1	6	-0.913610964	-1.364480677	-0.905192887	-1.717762215
+R_3ObVNoYloMPfWKJ	Female	Malay	University	30+	Female	Malay	University	23	931	1	1	0.490256141	0.341934867	1.348930798	1.514383368
+R_3ObVNoYloMPfWKJ	Female	Chinese	Polytechnic	30+	Female	Malay	University	23	937	2	2	-0.596595968	0.081720058	0.068859389	-1.439262524
+R_3ObVNoYloMPfWKJ	Female	Indian	University	30+	Female	Malay	University	23	956	1	3	0.18003122	0.783893911	-0.106929767	0.241484935
+R_3ObVNoYloMPfWKJ	Male	Chinese	Secondary school	20+	Female	Malay	University	23	400	4	4	-0.752424195	-0.220836072	-1.527688484	-1.82363636
+R_3ObVNoYloMPfWKJ	Male	Malay	Secondary school	20+	Female	Malay	University	23	613	3	5	-1.492880129	-1.080326012	-0.441551264	-0.400272114
+R_3ObVNoYloMPfWKJ	Male	Indian	Polytechnic	20+	Female	Malay	University	23	618	4	6	0.332701342	1.062349402	-0.678753294	0.135557686
+R_3JjYKFO7Z8e8isO	Male	Indian	Polytechnic	30+	Female	Chinese	Post-secondary	21	936	1	1	0.207816251	1.492149805	0.896879221	1.366221413
+R_3JjYKFO7Z8e8isO	Male	Malay	Secondary school	30+	Female	Chinese	Post-secondary	21	965	4	2	0.353472463	-0.568023597	-0.623339784	-0.814967227
+R_3JjYKFO7Z8e8isO	Female	Chinese	Polytechnic	20+	Female	Chinese	Post-secondary	21	818	3	3	-0.952800145	-0.092031647	0.554947548	-0.619286182
+R_3JjYKFO7Z8e8isO	Male	Chinese	University	30+	Female	Chinese	Post-secondary	21	832	1	4	-1.681503473	-0.206900577	-1.568301262	-1.154830776
+R_3JjYKFO7Z8e8isO	Female	Malay	University	20+	Female	Chinese	Post-secondary	21	532	2	5	0.387673506	1.03784616	0.235994445	0.283567317
+R_3JjYKFO7Z8e8isO	Female	Indian	Secondary school	20+	Female	Chinese	Post-secondary	21	446	5	6	-0.539202639	-1.697065216	-0.598120477	-1.24221886
+R_3KObSq4hm1i5cYH	Female	Indian	Secondary school	30+	Female	Chinese	University	22	664	2	1	0.703143877	-0.354307583	-0.004248504	-0.050084941
+R_3KObSq4hm1i5cYH	Male	Chinese	University	20+	Female	Chinese	University	22	866	3	2	-1.090815866	0.868870499	0.040887754	-0.077922539
+R_3KObSq4hm1i5cYH	Female	Malay	Polytechnic	30+	Female	Chinese	University	22	911	2	3	0.149464525	-0.575181786	0.230515709	-0.200644409
+R_3KObSq4hm1i5cYH	Male	Indian	University	20+	Female	Chinese	University	22	1014	1	4	-0.074644336	1.135559403	0.762878247	1.457903673
+R_3KObSq4hm1i5cYH	Male	Malay	Polytechnic	20+	Female	Chinese	University	22	990	1	5	-0.253071989	-0.966859637	-1.182320734	-1.516114283
+R_3KObSq4hm1i5cYH	Female	Chinese	Secondary school	30+	Female	Chinese	University	22	694	4	6	1.770641014	0.268187789	0.124908572	-0.821396006
+R_tS38QH4mru7V6Ux	Female	Indian	Secondary school	30+	Male	Chinese	University	21	664	5	1	1.422087422	-0.006949066	1.162620698	0.076783773
+R_tS38QH4mru7V6Ux	Male	Indian	University	20+	Male	Chinese	University	21	1014	1	2	-1.094119984	0.074590781	-1.493022231	0.340407715
+R_tS38QH4mru7V6Ux	Male	Malay	Polytechnic	20+	Male	Chinese	University	21	990	1	3	0.818554896	0.313469617	-0.064872241	-1.133910607
+R_tS38QH4mru7V6Ux	Male	Chinese	University	20+	Male	Chinese	University	21	866	2	4	0.898650986	0.899693887	-2.16262945	0.014023041
+R_tS38QH4mru7V6Ux	Female	Malay	Polytechnic	30+	Male	Chinese	University	21	911	4	5	1.468525972	1.001801741	1.210764611	1.090290281
+R_tS38QH4mru7V6Ux	Female	Chinese	Secondary school	30+	Male	Chinese	University	21	694	3	6	0.60879379	-1.011667967	0.640952106	-1.040679917
+R_3PI7eLLdk0VnmsG	Male	Chinese	Polytechnic	20+	Female	Malay	University	22	878	3	1	-1.077866354	0.876259116	-0.263344163	0.80658631
+R_3PI7eLLdk0VnmsG	Male	Indian	Secondary school	30+	Female	Malay	University	22	962	2	2	1.217976528	-0.216161371	0.576129328	-0.166516866
+R_3PI7eLLdk0VnmsG	Male	Malay	University	30+	Female	Malay	University	22	558	2	3	0.452963086	0.044891965	-0.053275109	-1.070932162
+R_3PI7eLLdk0VnmsG	Female	Indian	Polytechnic	20+	Female	Malay	University	22	930	3	4	0.259221467	-1.103962771	0.109871918	-0.21454983
+R_3PI7eLLdk0VnmsG	Female	Malay	Secondary school	20+	Female	Malay	University	22	225	1	5	1.204821635	0.341579228	0.458962563	0.801595435
+R_3PI7eLLdk0VnmsG	Female	Chinese	University	20+	Female	Malay	University	22	239	4	6	0.230070868	0.235825515	0.200605922	0.90246614
+R_2S90R3KbZaZXUdZ	Male	Chinese	Secondary school	20+	Male	Chinese	University	25	400	1	1	0.438441178	-1.235569081	0.760811825	0.351615437
+R_2S90R3KbZaZXUdZ	Female	Indian	University	30+	Male	Chinese	University	25	956	3	2	-1.406319727	0.657138094	-0.436807735	0.367368616
+R_2S90R3KbZaZXUdZ	Male	Malay	Secondary school	20+	Male	Chinese	University	25	613	4	3	-0.332284039	-2.582349566	1.683345497	0.231970677
+R_2S90R3KbZaZXUdZ	Female	Chinese	Polytechnic	30+	Male	Chinese	University	25	937	2	4	1.068099151	0.524518041	1.508563075	0.880089133
+R_2S90R3KbZaZXUdZ	Female	Malay	University	30+	Male	Chinese	University	25	931	3	6	0.862385149	-0.287141275	0.330174035	-0.107336362
+R_1KjW4Ku6SBp3moi	Male	Malay	Secondary school	20+	Female	Indian	University	22	613	3	1	1.605581005	0.867786548	1.163923292	1.024202911
+R_1KjW4Ku6SBp3moi	Female	Malay	University	30+	Female	Indian	University	22	931	2	2	0.275555876	-0.026542364	-0.298115065	-0.43317948
+R_1KjW4Ku6SBp3moi	Male	Chinese	Secondary school	20+	Female	Indian	University	22	400	4	3	0.803647314	0.481554243	1.562737166	1.028606159
+R_1KjW4Ku6SBp3moi	Female	Chinese	Polytechnic	30+	Female	Indian	University	22	937	1	4	0.07702534	0.196676139	0.49917547	-0.022169069
+R_1KjW4Ku6SBp3moi	Male	Indian	Polytechnic	20+	Female	Indian	University	22	618	1	5	1.169765705	1.124690462	1.365082419	0.727658617
+R_1KjW4Ku6SBp3moi	Female	Indian	University	30+	Female	Indian	University	22	956	4	6	1.593157319	0.493839768	2.212077534	1.573690709
+R_3PQQbaIkQYwdFvq	Male	Indian	University	20+	Female	Chinese	Post-secondary	19	1014	3	1	0.087252359	0.96708467	1.123707653	1.204386702
+R_3PQQbaIkQYwdFvq	Female	Chinese	Secondary school	30+	Female	Chinese	Post-secondary	19	694	4	2	1.118589967	0.642400861	0.860976228	1.03402324
+R_3PQQbaIkQYwdFvq	Male	Malay	Polytechnic	20+	Female	Chinese	Post-secondary	19	990	1	3	1.134829109	0.857381128	1.006225961	1.285903918
+R_3PQQbaIkQYwdFvq	Male	Chinese	University	20+	Female	Chinese	Post-secondary	19	866	2	4	0.680395763	0.360833345	0.745904663	0.431925917
+R_3PQQbaIkQYwdFvq	Female	Indian	Secondary school	30+	Female	Chinese	Post-secondary	19	664	4	5	-0.078035428	-0.136032643	0.959433784	0.435750062
+R_3PQQbaIkQYwdFvq	Female	Malay	Polytechnic	30+	Female	Chinese	Post-secondary	19	911	3	6	1.315641089	0.774027322	0.585297547	1.324260986
+R_2YtT9AXYfuawbBi	Female	Chinese	Polytechnic	20+	Female	Indian	Secondary	54	818	3	1	-2.151829973	-2.58437093	-1.942761522	-1.94766158
+R_2YtT9AXYfuawbBi	Male	Chinese	University	30+	Female	Indian	Secondary	54	832	2	2	-0.80552201	-1.810769268	-1.158069494	-1.054551
+R_2YtT9AXYfuawbBi	Male	Malay	Secondary school	30+	Female	Indian	Secondary	54	965	1	3	-0.642646917	-0.198744939	-0.350008617	-0.388893042
+R_2YtT9AXYfuawbBi	Male	Indian	Polytechnic	30+	Female	Indian	Secondary	54	936	3	4	1.101855781	0.747280452	-0.29576464	0.381167969
+R_2YtT9AXYfuawbBi	Female	Indian	Secondary school	20+	Female	Indian	Secondary	54	446	5	5	-2.11541357	-1.791455302	-2.419481599	-1.236145641
+R_2YtT9AXYfuawbBi	Female	Malay	University	20+	Female	Indian	Secondary	54	532	4	6	-0.313971531	-1.135527592	-1.041484844	-0.848314827
+R_2cbjb4QcvMA8GpZ	Male	Indian	University	20+	Female	Indian	University	21	1014	3	1	-1.628527975	-0.445101895	0.234524509	-0.236656968
+R_2cbjb4QcvMA8GpZ	Male	Malay	Polytechnic	20+	Female	Indian	University	21	990	2	2	-0.021943041	0.124555884	-0.290525266	-0.6509588
+R_2cbjb4QcvMA8GpZ	Female	Chinese	Secondary school	30+	Female	Indian	University	21	694	4	3	-0.148251047	-0.798764972	-0.930362662	-0.401920408
+R_2cbjb4QcvMA8GpZ	Female	Indian	Secondary school	30+	Female	Indian	University	21	664	4	4	-0.253324341	-0.130786194	-0.400072841	-0.558585902
+R_2cbjb4QcvMA8GpZ	Female	Malay	Polytechnic	30+	Female	Indian	University	21	911	3	5	-0.037771416	-0.867753937	-0.875355104	-0.450797016
+R_2cbjb4QcvMA8GpZ	Male	Chinese	University	20+	Female	Indian	University	21	866	1	6	-0.083492788	-0.144683062	-0.393075756	-0.029454425
+R_3paSmfKufT8egku	Male	Indian	Secondary school	30+	Female	Chinese	University	31	962	3	1	-1.476106447	-1.580318281	-0.992688189	0.564479215
+R_3paSmfKufT8egku	Male	Chinese	Polytechnic	20+	Female	Chinese	University	31	878	3	2	-0.456590527	0.399564284	-0.202573912	-0.317760608
+R_3paSmfKufT8egku	Female	Indian	Polytechnic	20+	Female	Chinese	University	31	930	2	3	0.125486136	-0.26697494	-0.063217477	0.224538174
+R_3paSmfKufT8egku	Male	Malay	University	30+	Female	Chinese	University	31	558	2	4	-0.063270655	-0.285018169	-0.09803532	-1.258225291
+R_3paSmfKufT8egku	Female	Malay	Secondary school	20+	Female	Chinese	University	31	225	4	5	-0.023214421	-0.477086934	-0.414844589	-0.746857799
+R_3paSmfKufT8egku	Female	Chinese	University	20+	Female	Chinese	University	31	239	1	6	-0.735170547	0.279871604	-0.961938204	-0.527511492
+R_3q8UZEHStG5yCEi	Male	Malay	Polytechnic	20+	Male	Chinese	University	26	990	4	1	-0.086920878	-0.09172766	0.072483701	0.49529837
+R_3q8UZEHStG5yCEi	Female	Indian	Secondary school	30+	Male	Chinese	University	26	664	2	2	-0.458130097	-1.297726252	-0.104423606	0.9751703
+R_3q8UZEHStG5yCEi	Male	Chinese	University	20+	Male	Chinese	University	26	866	2	3	0.392246538	0.994479874	0.575238693	0.494547765
+R_3q8UZEHStG5yCEi	Female	Chinese	Secondary school	30+	Male	Chinese	University	26	694	1	4	0.989309317	-0.359961539	0.294053492	0.308842685
+R_3q8UZEHStG5yCEi	Male	Indian	University	20+	Male	Chinese	University	26	1014	4	5	0.960323215	1.129189941	0.534809677	0.773583986
+R_3q8UZEHStG5yCEi	Female	Malay	Polytechnic	30+	Male	Chinese	University	26	911	3	6	0.935033741	0.726486481	0.980268568	0.9243152
+R_1BWLjMx9MDKJTr3	Male	Indian	Secondary school	30+	Male	Chinese	University	21	962	2	1	-1.023840779	0.65315015	-0.238511285	0.382248746
+R_1BWLjMx9MDKJTr3	Female	Indian	Polytechnic	20+	Male	Chinese	University	21	930	1	2	0.084554036	0.64518073	-0.35899964	-1.367409241
+R_1BWLjMx9MDKJTr3	Female	Malay	Secondary school	20+	Male	Chinese	University	21	225	2	3	0.342653118	1.130294475	0.79240948	0.520985861
+R_1BWLjMx9MDKJTr3	Male	Chinese	Polytechnic	20+	Male	Chinese	University	21	878	1	4	-0.633964581	1.25564855	-0.817036038	1.159535317
+R_1BWLjMx9MDKJTr3	Male	Malay	University	30+	Male	Chinese	University	21	558	3	5	-1.193841137	-0.263059156	1.301618769	-0.833883709
+R_1BWLjMx9MDKJTr3	Female	Chinese	University	20+	Male	Chinese	University	21	239	4	6	-1.040475061	0.460621556	-0.533934138	0.057868421
+R_3EzOCUkym6z0WpM	Male	Chinese	Polytechnic	20+	Male	Indian	University	21	878	2	1	-0.707084927	1.268449081	0.839638099	-0.408545397
+R_3EzOCUkym6z0WpM	Male	Indian	Secondary school	30+	Male	Indian	University	21	962	3	2	2.282797615	1.057639623	1.729442111	0.167620053
+R_3EzOCUkym6z0WpM	Female	Malay	Secondary school	20+	Male	Indian	University	21	225	1	3	-0.095287384	-1.004465623	-0.189806356	-1.308645417
+R_3EzOCUkym6z0WpM	Male	Malay	University	30+	Male	Indian	University	21	558	3	4	-0.739573153	-0.894780625	-2.342057181	-1.015885057
+R_3EzOCUkym6z0WpM	Female	Indian	Polytechnic	20+	Male	Indian	University	21	930	4	5	0.805373638	0.451833481	-1.179423624	-0.130021815
+R_3EzOCUkym6z0WpM	Female	Chinese	University	20+	Male	Indian	University	21	239	4	6	0.390687243	1.027472155	2.155957181	-1.016893825
+R_1K8s0YWKzVjMp1I	Female	Indian	University	30+	Female	Chinese	University	22	956	4	1	1.130484631	0.508018519	1.579477164	0.378564029
+R_1K8s0YWKzVjMp1I	Female	Chinese	Polytechnic	30+	Female	Chinese	University	22	937	4	2	0.164765104	1.119942452	0.270540317	0.524398647
+R_1K8s0YWKzVjMp1I	Female	Malay	University	30+	Female	Chinese	University	22	931	2	3	1.505844686	0.111541102	0.871385931	-0.126417828
+R_1K8s0YWKzVjMp1I	Male	Indian	Polytechnic	20+	Female	Chinese	University	22	618	2	4	0.353949709	0.733064918	0.264311651	0.390149009
+R_1K8s0YWKzVjMp1I	Male	Malay	Secondary school	20+	Female	Chinese	University	22	613	1	5	1.40462703	-0.558786033	1.019511213	-0.008996855
+R_1K8s0YWKzVjMp1I	Male	Chinese	Secondary school	20+	Female	Chinese	University	22	400	3	6	-0.610006491	1.165102332	-0.082592428	0.61510958
+R_TbCVuZoUJkDF4Pv	Female	Chinese	Secondary school	30+	Female	Indian	Post-secondary	28	694	1	1	-0.004567123	-0.632204376	-0.898474813	1.0711747
+R_TbCVuZoUJkDF4Pv	Female	Malay	Polytechnic	30+	Female	Indian	Post-secondary	28	911	2	2	-0.899830499	-0.656188826	-0.342783595	0.139388731
+R_TbCVuZoUJkDF4Pv	Male	Malay	Polytechnic	20+	Female	Indian	Post-secondary	28	990	4	3	-1.438594493	-9.88E-05	-0.433427421	-0.593376707
+R_TbCVuZoUJkDF4Pv	Male	Indian	University	20+	Female	Indian	Post-secondary	28	1014	3	4	-0.62249438	0.566730819	-0.317493661	0.49172163
+R_TbCVuZoUJkDF4Pv	Male	Chinese	University	20+	Female	Indian	Post-secondary	28	866	3	5	-0.895089599	-0.751983356	-0.361276992	0.242244784
+R_TbCVuZoUJkDF4Pv	Female	Indian	Secondary school	30+	Female	Indian	Post-secondary	28	664	1	6	-0.952440992	-1.045901419	-1.468055001	-0.754187949
+R_26l2oXS7PfoaVP6	Male	Indian	Secondary school	30+	Female	Chinese	University	24	962	3	1	0.283689281	-1.496215641	0.646936084	-1.157747821
+R_26l2oXS7PfoaVP6	Male	Malay	University	30+	Female	Chinese	University	24	558	4	2	1.065950636	0.213870058	0.304890935	0.198018156
+R_26l2oXS7PfoaVP6	Male	Chinese	Polytechnic	20+	Female	Chinese	University	24	878	2	3	-2.267871337	1.599168036	-1.994671634	1.639803228
+R_26l2oXS7PfoaVP6	Female	Indian	Polytechnic	20+	Female	Chinese	University	24	930	1	4	1.242754481	-1.991037993	1.01560765	0.677671116
+R_26l2oXS7PfoaVP6	Female	Chinese	University	20+	Female	Chinese	University	24	239	1	5	-0.556996229	-1.122974517	-0.981942204	-1.994147545
+R_26l2oXS7PfoaVP6	Female	Malay	Secondary school	20+	Female	Chinese	University	24	225	3	6	0.939102878	-0.122963777	1.035787983	0.889116402
+R_32Klwk50BhwU6fS	Female	Malay	University	20+	Female	Chinese	Post-secondary	45	532	1	1	-0.045026635	-0.31097893	-0.448073912	-0.746743516
+R_32Klwk50BhwU6fS	Female	Indian	Secondary school	20+	Female	Chinese	Post-secondary	45	446	4	2	-1.195082689	-1.316353178	-0.227582115	-0.367915029
+R_32Klwk50BhwU6fS	Male	Chinese	University	30+	Female	Chinese	Post-secondary	45	832	3	3	-1.844741878	-0.261783668	-0.672248902	-1.099668345
+R_32Klwk50BhwU6fS	Female	Chinese	Polytechnic	20+	Female	Chinese	Post-secondary	45	818	4	4	0.404903822	0.074013254	-0.837989817	-0.611578538
+R_32Klwk50BhwU6fS	Male	Indian	Polytechnic	30+	Female	Chinese	Post-secondary	45	936	1	5	0.035274323	0.556173074	-0.324536042	0.281483034
+R_32Klwk50BhwU6fS	Male	Malay	Secondary school	30+	Female	Chinese	Post-secondary	45	965	2	6	-0.739444939	-0.455824735	-0.878388798	-0.915123514
+R_2bq2ei21aJi7D6p	Female	Malay	Secondary school	20+	Female	Malay	University	23	225	1	1	0.063543994	-0.673595055	1.288206241	-0.099016197
+R_2bq2ei21aJi7D6p	Female	Indian	Polytechnic	20+	Female	Malay	University	23	930	4	2	-2.104803036	-0.983031381	-1.452966893	-2.361539787
+R_2bq2ei21aJi7D6p	Male	Chinese	Polytechnic	20+	Female	Malay	University	23	878	4	3	-0.256089955	1.794142856	-0.12314634	2.124089645
+R_2bq2ei21aJi7D6p	Female	Chinese	University	20+	Female	Malay	University	23	239	2	4	-0.005876084	0.103440332	0.869212574	-1.212026078
+R_2bq2ei21aJi7D6p	Male	Indian	Secondary school	30+	Female	Malay	University	23	962	1	5	-2.540544928	-1.98716401	-1.036784702	-2.030890119
+R_2bq2ei21aJi7D6p	Male	Malay	University	30+	Female	Malay	University	23	558	3	6	-1.425506824	-0.862914489	-0.955725228	-2.105420262
+R_33CqDey4L3dcK5u	Male	Chinese	University	30+	Female	Chinese	University	22	832	2	1	-0.242735889	-0.764039382	1.442155884	-0.553936744
+R_33CqDey4L3dcK5u	Female	Malay	University	20+	Female	Chinese	University	22	532	5	2	-0.388342371	-0.526010663	-0.871929188	-0.754896456
+R_33CqDey4L3dcK5u	Male	Malay	Secondary school	30+	Female	Chinese	University	22	965	1	3	-0.865952471	0.531410084	-0.289294088	-0.771584982
+R_33CqDey4L3dcK5u	Female	Indian	Secondary school	20+	Female	Chinese	University	22	446	5	4	-0.581343262	0.353946609	0.013987631	0.067248423
+R_33CqDey4L3dcK5u	Female	Chinese	Polytechnic	20+	Female	Chinese	University	22	818	4	5	-0.46291967	0.372843129	-0.658173578	0.295870026
+R_33CqDey4L3dcK5u	Male	Indian	Polytechnic	30+	Female	Chinese	University	22	936	4	6	0.010261232	0.069775123	-1.059266619	-0.013348657
+R_22kQVja9g1Dm032	Female	Indian	Secondary school	20+	Female	Indian	University	26	446	1	1	-1.155961743	0.391605797	-0.651139685	-1.056927649
+R_22kQVja9g1Dm032	Female	Chinese	Polytechnic	20+	Female	Indian	University	26	818	3	4	-2.266337399	0.307494646	-1.633483459	0.094358568
+R_22kQVja9g1Dm032	Male	Indian	Polytechnic	30+	Female	Indian	University	26	936	3	5	-0.323731016	0.317716724	0.535850409	-0.129831009
+R_22kQVja9g1Dm032	Male	Chinese	University	30+	Female	Indian	University	26	832	2	6	-0.087921218	0.454483635	0.053590444	0.309849691
+R_1odN5lu7CDuawWZ	Female	Chinese	Polytechnic	30+	Female	Indian	University	21	937	2	1	0.448167975	0.747794908	-0.253969635	-0.622818061
+R_1odN5lu7CDuawWZ	Male	Indian	Polytechnic	20+	Female	Indian	University	21	618	4	2	0.472491802	1.200077377	-0.846601406	-0.008524614
+R_1odN5lu7CDuawWZ	Male	Chinese	Secondary school	20+	Female	Indian	University	21	400	1	3	-0.11860953	0.035095329	0.003766704	-1.110085728
+R_1odN5lu7CDuawWZ	Female	Malay	University	30+	Female	Indian	University	21	931	3	4	-0.736786334	-0.174182428	-0.121669768	-0.34850744
+R_1odN5lu7CDuawWZ	Male	Malay	Secondary school	20+	Female	Indian	University	21	613	4	5	-0.626043128	-0.74637067	-0.628816925	0.299862968
+R_1odN5lu7CDuawWZ	Female	Indian	University	30+	Female	Indian	University	21	956	2	6	-0.463374315	-0.35161777	-0.133749365	0.059959849
+R_1QMnlCZSApXtXwB	Female	Malay	Polytechnic	30+	Female	Chinese	University	20	911	4	2	-0.159076144	0.188759936	-0.20182902	-0.795986493
+R_1QMnlCZSApXtXwB	Male	Indian	University	20+	Female	Chinese	University	20	1014	3	3	-0.87639021	-0.814862595	-0.128244853	-0.412962224
+R_1QMnlCZSApXtXwB	Female	Chinese	Secondary school	30+	Female	Chinese	University	20	694	1	4	0.703243136	-0.22130528	0.452973528	-0.96315718
+R_1QMnlCZSApXtXwB	Male	Chinese	University	20+	Female	Chinese	University	20	866	3	6	-0.957353441	0.285521459	-0.639908875	1.085709525
+R_2pKsqakbuTGe7gk	Male	Chinese	Polytechnic	20+	Female	Chinese	University	40	878	1	1	-0.53504263	-0.367349416	-0.291086075	0.069877223
+R_2pKsqakbuTGe7gk	Male	Indian	Secondary school	30+	Female	Chinese	University	40	962	2	2	0.022464517	-0.051315829	-0.34060203	-0.144148554
+R_2pKsqakbuTGe7gk	Female	Indian	Polytechnic	20+	Female	Chinese	University	40	930	1	3	-0.412122838	-0.020974579	-0.626604943	-0.020697236
+R_2pKsqakbuTGe7gk	Female	Malay	Secondary school	20+	Female	Chinese	University	40	225	3	4	-0.38866391	-0.366852697	-0.661001804	-0.44631817
+R_2pKsqakbuTGe7gk	Male	Malay	University	30+	Female	Chinese	University	40	558	4	5	-0.943099554	-0.864101813	-0.918095322	-0.435109154
+R_2pKsqakbuTGe7gk	Female	Chinese	University	20+	Female	Chinese	University	40	239	2	6	-0.64029633	-0.318381423	-0.493618282	-0.44689573
+R_2Qy8DUSvFK1Aav0	Female	Indian	Polytechnic	20+	Male	Malay	University	23	930	1	1	1.702945806	1.101695123	-0.165419403	-0.254224123
+R_2Qy8DUSvFK1Aav0	Male	Chinese	Polytechnic	20+	Male	Malay	University	23	878	1	2	0.243141406	2.192718594	0.812856529	1.142381402
+R_2Qy8DUSvFK1Aav0	Female	Chinese	University	20+	Male	Malay	University	23	239	4	3	1.600485379	0.729417641	2.174368822	-0.029711942
+R_2Qy8DUSvFK1Aav0	Male	Malay	University	30+	Male	Malay	University	23	558	2	4	0.461620626	0.136273416	0.714056591	-0.640019539
+R_2Qy8DUSvFK1Aav0	Male	Indian	Secondary school	30+	Male	Malay	University	23	962	4	5	1.913102913	-1.660435989	1.411452578	1.018090287
+R_2Qy8DUSvFK1Aav0	Female	Malay	Secondary school	20+	Male	Malay	University	23	225	3	6	1.556275205	-0.304828654	1.567821867	0.563577178
+R_ZCDa3WdiI8grdS1	Female	Malay	University	20+	Female	Chinese	University	53	532	5	1	1.928449301	1.747704681	1.961271636	1.946130308
+R_ZCDa3WdiI8grdS1	Male	Chinese	University	30+	Female	Chinese	University	53	832	4	2	0.00719224	-0.294234838	-0.69996455	-0.260925221
+R_ZCDa3WdiI8grdS1	Female	Indian	Secondary school	20+	Female	Chinese	University	53	446	3	3	-1.726399156	0.758543971	0.263154672	1.031091268
+R_ZCDa3WdiI8grdS1	Female	Chinese	Polytechnic	20+	Female	Chinese	University	53	818	1	4	2.103718081	2.043936682	2.159714524	2.165272022
+R_ZCDa3WdiI8grdS1	Male	Malay	Secondary school	30+	Female	Chinese	University	53	965	2	5	0.329674091	1.067513329	-0.04830759	0.854130608
+R_ZCDa3WdiI8grdS1	Male	Indian	Polytechnic	30+	Female	Chinese	University	53	936	4	6	2.399084946	2.434393832	2.361425806	2.201809801
+R_2VQEMLdzDJmUitB	Male	Malay	Polytechnic	20+	Female	Malay	University	21	990	2	1	-0.121278328	-0.062042975	-0.879058637	-1.948524184
+R_2VQEMLdzDJmUitB	Male	Indian	University	20+	Female	Malay	University	21	1014	2	2	0.546203871	0.128219482	0.420288995	0.558699118
+R_2VQEMLdzDJmUitB	Male	Chinese	University	20+	Female	Malay	University	21	866	3	3	-0.040094281	-0.891928628	0.103969254	0.132707411
+R_2VQEMLdzDJmUitB	Female	Indian	Secondary school	30+	Female	Malay	University	21	664	5	4	-0.308110244	-0.95677617	-0.281875791	-0.499997203
+R_2VQEMLdzDJmUitB	Female	Chinese	Secondary school	30+	Female	Malay	University	21	694	4	5	0.668906342	0.169560866	0.623161589	0.277216365
+R_2VQEMLdzDJmUitB	Female	Malay	Polytechnic	30+	Female	Malay	University	21	911	1	6	-0.553636377	0.561001879	-0.076717017	-0.256005121
+R_3GE5GpghPPY3pXX	Female	Malay	University	30+	Female	Indian	University	22	931	1	1	0.499587733	1.828405167	-0.786340894	0.482502505
+R_3GE5GpghPPY3pXX	Female	Indian	University	30+	Female	Indian	University	22	956	1	2	1.110080716	1.766628165	-0.495700226	0.484138782
+R_3GE5GpghPPY3pXX	Male	Chinese	Secondary school	20+	Female	Indian	University	22	400	4	3	-0.313059484	1.388113658	-0.093498931	1.21407572
+R_3GE5GpghPPY3pXX	Male	Indian	Polytechnic	20+	Female	Indian	University	22	618	4	4	-0.730106404	1.925335836	-0.743126453	0.464631705
+R_3GE5GpghPPY3pXX	Female	Chinese	Polytechnic	30+	Female	Indian	University	22	937	2	5	2.099061448	0.788391488	1.222463664	-1.173668172
+R_3GE5GpghPPY3pXX	Male	Malay	Secondary school	20+	Female	Indian	University	22	613	3	6	-0.489181139	-0.468889082	0.425854123	2.498224276
+R_1hK1uRY3ymNHntf	Female	Indian	University	30+	Female	Chinese	Post-secondary	22	956	3	1	-1.164806226	1.242127535	2.459563846	2.402665674
+R_1hK1uRY3ymNHntf	Male	Chinese	Secondary school	20+	Female	Chinese	Post-secondary	22	400	2	2	2.281062805	-0.985785475	0.040718389	1.496365527
+R_1hK1uRY3ymNHntf	Female	Malay	University	30+	Female	Chinese	Post-secondary	22	931	4	3	-2.665183414	0.846267063	0.838542754	1.98056449
+R_1hK1uRY3ymNHntf	Male	Indian	Polytechnic	20+	Female	Chinese	Post-secondary	22	618	4	4	-1.67781686	1.622703862	-2.971361473	0.404918714
+R_1hK1uRY3ymNHntf	Male	Malay	Secondary school	20+	Female	Chinese	Post-secondary	22	613	1	5	2.210159811	-0.876145423	1.142059488	1.222570969
+R_1hK1uRY3ymNHntf	Female	Chinese	Polytechnic	30+	Female	Chinese	Post-secondary	22	937	3	6	-2.10905047	1.091930213	-1.865923726	2.47471828
+R_1Qur5Q6r27ez0LT	Female	Malay	Polytechnic	30+	Male	Chinese	University	24	911	3	1	1.340055431	1.041214177	1.135805859	-0.310565688
+R_1Qur5Q6r27ez0LT	Female	Indian	Secondary school	30+	Male	Chinese	University	24	664	5	2	-1.667909445	-1.682471174	-0.844296406	-0.358601451
+R_1Qur5Q6r27ez0LT	Male	Chinese	University	20+	Male	Chinese	University	24	866	2	3	0.442264195	0.019516594	0.569573247	0.385302821
+R_1Qur5Q6r27ez0LT	Female	Chinese	Secondary school	30+	Male	Chinese	University	24	694	4	4	0.601699833	-0.935582414	-1.460182846	-1.175235472
+R_1Qur5Q6r27ez0LT	Male	Indian	University	20+	Male	Chinese	University	24	1014	1	5	-1.098985468	-0.148454008	-1.797605764	-0.923195386
+R_1Qur5Q6r27ez0LT	Male	Malay	Polytechnic	20+	Male	Chinese	University	24	990	1	6	-1.908106714	-0.194698254	-1.305731364	-1.585929524
+R_1eznBOxjUlxWCE1	Female	Chinese	University	20+	Male	Chinese	Post-secondary	56	239	1	1	-0.926207529	-0.455598463	-0.50900267	-0.017909551
+R_1eznBOxjUlxWCE1	Female	Malay	Secondary school	20+	Male	Chinese	Post-secondary	56	225	3	2	-0.905885492	-0.456519586	-0.829237083	-0.985108278
+R_1eznBOxjUlxWCE1	Male	Malay	University	30+	Male	Chinese	Post-secondary	56	558	4	4	-0.90361123	-0.562410094	-0.85243664	-0.368160658
+R_1eznBOxjUlxWCE1	Female	Indian	Polytechnic	20+	Male	Chinese	Post-secondary	56	930	3	5	-0.802456671	-0.717280057	-0.523227662	-0.528354535
+R_1eznBOxjUlxWCE1	Male	Chinese	Polytechnic	20+	Male	Chinese	Post-secondary	56	878	2	6	-0.520515121	-0.666064848	-0.275779145	-0.388103793
+R_Qfvo8hncCbMjlU5	Female	Indian	Secondary school	20+	Female	Chinese	University	52	446	5	1	-0.4325019	1.214984816	1.482177551	0.684209596
+R_Qfvo8hncCbMjlU5	Male	Chinese	University	30+	Female	Chinese	University	52	832	1	2	0.824592809	1.172772403	2.194649001	0.86691073
+R_Qfvo8hncCbMjlU5	Female	Chinese	Polytechnic	20+	Female	Chinese	University	52	818	3	3	-2.08605369	0.016719965	-1.658208223	-0.571789102
+R_Qfvo8hncCbMjlU5	Female	Malay	University	20+	Female	Chinese	University	52	532	4	4	-0.320051251	1.739073123	0.716184621	1.836112257
+R_Qfvo8hncCbMjlU5	Male	Malay	Secondary school	30+	Female	Chinese	University	52	965	2	5	1.234054587	-1.223871304	1.788919638	-0.085959224
+R_Qfvo8hncCbMjlU5	Male	Indian	Polytechnic	30+	Female	Chinese	University	52	936	3	6	-1.494627608	-0.440677614	-2.706078758	-0.911677685
+R_1kYaj9VDBYKovNG	Female	Malay	Secondary school	20+	Female	Malay	University	49	225	1	1	0.035605488	-0.724279033	-0.291698119	-0.633123683
+R_1kYaj9VDBYKovNG	Female	Chinese	University	20+	Female	Malay	University	49	239	2	2	-0.532253845	-0.611386301	-0.49701564	-0.570393513
+R_1kYaj9VDBYKovNG	Male	Indian	Secondary school	30+	Female	Malay	University	49	962	1	3	-0.644495474	-0.107442733	-0.377053959	-0.427483128
+R_1kYaj9VDBYKovNG	Male	Chinese	Polytechnic	20+	Female	Malay	University	49	878	3	4	0.040641314	0.158950969	-0.733872972	0.20729202
+R_1kYaj9VDBYKovNG	Female	Indian	Polytechnic	20+	Female	Malay	University	49	930	2	5	0.123701115	-0.049573656	0.430363973	-0.171717588
+R_1kYaj9VDBYKovNG	Male	Malay	University	30+	Female	Malay	University	49	558	4	6	-0.682908014	-0.293911509	-0.612798397	-0.946228182
+R_1pnXQNRdJbmjBkL	Male	Indian	Polytechnic	20+	Female	Indian	Post-secondary	22	618	1	1	0.124948064	0.531377485	0.380853828	0.16527854
+R_1pnXQNRdJbmjBkL	Male	Malay	Secondary school	20+	Female	Indian	Post-secondary	22	613	2	2	0.807188602	-0.422920295	0.852063051	-0.008299257
+R_1pnXQNRdJbmjBkL	Male	Chinese	Secondary school	20+	Female	Indian	Post-secondary	22	400	4	3	0.646179152	1.258785684	-0.330359847	1.249606528
+R_1pnXQNRdJbmjBkL	Female	Chinese	Polytechnic	30+	Female	Indian	Post-secondary	22	937	1	4	0.03306307	-0.676072879	0.082735282	-0.122090418
+R_1pnXQNRdJbmjBkL	Female	Malay	University	30+	Female	Indian	Post-secondary	22	931	3	5	0.127241362	0.299340369	-0.007799152	0.085536406
+R_1pnXQNRdJbmjBkL	Female	Indian	University	30+	Female	Indian	Post-secondary	22	956	2	6	1.112523507	0.592168637	1.562439423	0.44511587
+R_A1imEW9iawZhZId	Female	Indian	Secondary school	30+	Male	Malay	Post-secondary	23	664	4	1	-0.957342484	-0.350114846	-0.083171558	-0.440197517
+R_A1imEW9iawZhZId	Female	Chinese	Secondary school	30+	Male	Malay	Post-secondary	23	694	3	2	-0.328863946	0.025368026	-0.559676843	-0.795937758
+R_A1imEW9iawZhZId	Male	Malay	Polytechnic	20+	Male	Malay	Post-secondary	23	990	1	3	-0.669228544	-0.467670524	-1.012461422	-0.7825132
+R_A1imEW9iawZhZId	Female	Malay	Polytechnic	30+	Male	Malay	Post-secondary	23	911	2	4	-0.150367465	-0.00297191	-0.099404596	-0.753451498
+R_A1imEW9iawZhZId	Male	Indian	University	20+	Male	Malay	Post-secondary	23	1014	3	5	0.012072315	-0.429770855	-0.379454253	0.206165996
+R_A1imEW9iawZhZId	Male	Chinese	University	20+	Male	Malay	Post-secondary	23	866	4	6	-0.156531645	-0.339912907	-0.878733928	-0.220425354
+R_1mVq7s5hpNlNqrD	Male	Malay	University	30+	Female	Indian	University	28	558	3	1	0.557494271	-0.756415206	-0.754431297	0.95238556
+R_1mVq7s5hpNlNqrD	Male	Indian	Secondary school	30+	Female	Indian	University	28	962	2	2	-0.283273821	-1.028534326	0.433361358	-0.229463694
+R_1mVq7s5hpNlNqrD	Female	Chinese	University	20+	Female	Indian	University	28	239	2	3	0.688037123	0.735769617	0.587893545	0.702215368
+R_1mVq7s5hpNlNqrD	Female	Malay	Secondary school	20+	Female	Indian	University	28	225	4	4	0.585680037	0.006147195	0.445226476	-0.009167634
+R_1mVq7s5hpNlNqrD	Female	Indian	Polytechnic	20+	Female	Indian	University	28	930	4	5	1.034884744	0.553391944	1.602821584	1.298510326
+R_1mVq7s5hpNlNqrD	Male	Chinese	Polytechnic	20+	Female	Indian	University	28	878	1	6	1.688170901	1.905300517	1.084484823	1.847448362
+R_BE9h6FHVnWCUHpn	Male	Chinese	University	30+	Male	Indian	Post-secondary	20	832	2	1	0.958986491	0.512460784	1.150327309	-0.717883517
+R_BE9h6FHVnWCUHpn	Female	Chinese	Polytechnic	20+	Male	Indian	Post-secondary	20	818	3	2	1.701663141	1.646976125	1.268682517	1.469795854
+R_BE9h6FHVnWCUHpn	Male	Malay	Secondary school	30+	Male	Indian	Post-secondary	20	965	4	3	-0.540546476	-0.195014706	-0.492182936	-0.447602349
+R_BE9h6FHVnWCUHpn	Female	Indian	Secondary school	20+	Male	Indian	Post-secondary	20	446	1	4	1.722794734	1.612062695	1.516749383	1.095823772
+R_BE9h6FHVnWCUHpn	Male	Indian	Polytechnic	30+	Male	Indian	Post-secondary	20	936	4	5	0.823095753	1.469107992	1.711660425	2.171010459
+R_BE9h6FHVnWCUHpn	Female	Malay	University	20+	Male	Indian	Post-secondary	20	532	1	6	0.360298481	0.637659168	1.240948776	-0.01126339
+R_2vj4oySYnUowZHd	Male	Indian	Polytechnic	30+	Female	Indian	University	23	936	4	1	-0.457477478	0.5807144	0.417212197	-0.100312153
+R_2vj4oySYnUowZHd	Female	Chinese	Polytechnic	20+	Female	Indian	University	23	818	1	2	-0.356035357	-0.067548569	-0.369332906	-0.495018682
+R_2vj4oySYnUowZHd	Female	Indian	Secondary school	20+	Female	Indian	University	23	446	5	3	-0.048529574	-1.159185066	-0.854390343	-0.218615953
+R_2vj4oySYnUowZHd	Female	Malay	University	20+	Female	Indian	University	23	532	4	4	0.156550724	-0.28932069	-0.363956854	-0.602139051
+R_2vj4oySYnUowZHd	Male	Chinese	University	30+	Female	Indian	University	23	832	3	5	-0.63730172	-0.484208132	-0.100815787	-1.17300303
+R_2vj4oySYnUowZHd	Male	Malay	Secondary school	30+	Female	Indian	University	23	965	2	6	-0.304853372	-0.511478769	-0.408640649	-0.558669754
+R_vxHFZSLZOA7i8AV	Male	Indian	Polytechnic	30+	Female	Indian	University	23	936	3	1	-2.067836243	-0.672697622	-0.838721579	-0.313953285
+R_vxHFZSLZOA7i8AV	Female	Malay	University	20+	Female	Indian	University	23	532	4	2	-1.465984572	-1.722285913	-0.398426684	-1.978145286
+R_vxHFZSLZOA7i8AV	Male	Malay	Secondary school	30+	Female	Indian	University	23	965	1	3	-1.34939694	-0.629865815	-1.277392696	-0.653946716
+R_vxHFZSLZOA7i8AV	Male	Chinese	University	30+	Female	Indian	University	23	832	3	4	-0.649255656	-1.197813896	-1.267876567	-0.789535665
+R_vxHFZSLZOA7i8AV	Female	Chinese	Polytechnic	20+	Female	Indian	University	23	818	2	5	0.01691392	1.524985068	0.253559707	1.545001049
+R_vxHFZSLZOA7i8AV	Female	Indian	Secondary school	20+	Female	Indian	University	23	446	4	6	-1.750212644	-1.055697779	-0.391616071	-0.232547558
+R_7USrEtknXgi91Cx	Male	Indian	University	20+	Male	Indian	University	23	1014	3	1	-0.629507856	-0.347219157	0.634558058	0.263828014
+R_7USrEtknXgi91Cx	Female	Chinese	Secondary school	30+	Male	Indian	University	23	694	4	2	0.391751451	-0.601521009	0.096139507	-1.181097946
+R_7USrEtknXgi91Cx	Male	Chinese	University	20+	Male	Indian	University	23	866	3	3	-0.673762264	-1.082115811	-0.404821915	-0.153835525
+R_7USrEtknXgi91Cx	Female	Malay	Polytechnic	30+	Male	Indian	University	23	911	1	4	-0.534867268	-0.517194276	-0.162560261	0.5115081
+R_7USrEtknXgi91Cx	Male	Malay	Polytechnic	20+	Male	Indian	University	23	990	2	5	-1.81973131	-1.225912373	-0.632388407	-1.912777371
+R_7USrEtknXgi91Cx	Female	Indian	Secondary school	30+	Male	Indian	University	23	664	2	6	0.760338307	-0.023042073	0.752045741	-0.056859523
+R_25vye6J7Rh7odoS	Female	Chinese	University	20+	Female	Indian	University	23	239	5	1	-0.318668415	-0.319498606	-1.407078196	-0.28837138
+R_25vye6J7Rh7odoS	Male	Indian	Secondary school	30+	Female	Indian	University	23	962	1	2	-0.266534744	-0.8214163	-0.335541578	-0.1315157
+R_25vye6J7Rh7odoS	Male	Malay	University	30+	Female	Indian	University	23	558	2	3	-1.427794405	-1.421762322	-1.724368585	-1.055119039
+R_25vye6J7Rh7odoS	Male	Chinese	Polytechnic	20+	Female	Indian	University	23	878	4	4	2.197995645	1.133952542	1.383401494	2.141657362
+R_25vye6J7Rh7odoS	Female	Malay	Secondary school	20+	Female	Indian	University	23	225	1	5	0.865184816	-0.169797586	0.785392788	0.089412388
+R_25vye6J7Rh7odoS	Female	Indian	Polytechnic	20+	Female	Indian	University	23	930	2	6	0.436325555	1.630467988	1.36279182	0.232277092
+R_3hmxdqrmXcPKkA6	Male	Malay	Polytechnic	20+	Female	Indian	University	22	990	4	1	-0.284364847	0.921301779	1.281521733	0.998185292
+R_3hmxdqrmXcPKkA6	Female	Chinese	Secondary school	30+	Female	Indian	University	22	694	3	2	0.092333688	0.160209657	-0.156971252	0.677041084
+R_3hmxdqrmXcPKkA6	Male	Chinese	University	20+	Female	Indian	University	22	866	1	3	1.591277895	1.320245027	2.35227441	0.026893471
+R_3hmxdqrmXcPKkA6	Female	Malay	Polytechnic	30+	Female	Indian	University	22	911	2	4	0.700049594	0.75585684	1.254199981	-0.196884727
+R_3hmxdqrmXcPKkA6	Female	Indian	Secondary school	30+	Female	Indian	University	22	664	1	5	-0.615791919	0.659286589	0.333767144	-0.497583156
+R_3hmxdqrmXcPKkA6	Male	Indian	University	20+	Female	Indian	University	22	1014	2	6	0.672387675	1.229538165	1.452032944	1.026984827
+R_2OOo3NqfIy0OAqD	Male	Chinese	University	20+	Female	Malay	University	22	866	1	1	0.598267886	0.22399295	0.209961652	-0.2258511
+R_2OOo3NqfIy0OAqD	Female	Indian	Secondary school	30+	Female	Malay	University	22	664	2	2	1.041020834	0.25064592	0.775980916	0.726012733
+R_2OOo3NqfIy0OAqD	Female	Chinese	Secondary school	30+	Female	Malay	University	22	694	3	3	0.421791735	0.326837581	-0.072100137	-0.599281956
+R_2OOo3NqfIy0OAqD	Male	Malay	Polytechnic	20+	Female	Malay	University	22	990	2	4	0.344079769	1.119110248	0.630870167	1.086719438
+R_2OOo3NqfIy0OAqD	Male	Indian	University	20+	Female	Malay	University	22	1014	3	5	0.194708416	0.411113823	0.025936233	0.841613871
+R_2OOo3NqfIy0OAqD	Female	Malay	Polytechnic	30+	Female	Malay	University	22	911	4	6	1.661295369	0.940037321	0.231234497	0.454416557
+R_22P11x6x4j9JCQy	Male	Malay	Polytechnic	20+	Male	Indian	Post-secondary	21	990	2	1	-0.452900783	-3.428727442	-2.845515328	-2.716125334
+R_22P11x6x4j9JCQy	Male	Chinese	University	20+	Male	Indian	Post-secondary	21	866	4	2	-2.864341613	-2.848576612	-2.939724836	-2.75382975
+R_22P11x6x4j9JCQy	Female	Malay	Polytechnic	30+	Male	Indian	Post-secondary	21	911	1	3	-3.314770887	-3.083287834	-3.306928503	-3.38336778
+R_22P11x6x4j9JCQy	Male	Indian	University	20+	Male	Indian	Post-secondary	21	1014	3	4	2.433445064	1.620927921	2.024399837	1.485259717
+R_22P11x6x4j9JCQy	Female	Indian	Secondary school	30+	Male	Indian	Post-secondary	21	664	1	5	2.192211713	1.949695496	1.787055969	1.45817323
+R_22P11x6x4j9JCQy	Female	Chinese	Secondary school	30+	Male	Indian	Post-secondary	21	694	3	6	1.798195701	1.956722357	2.058924008	2.360739046
+R_3RwT3bQELkBfX5e	Female	Indian	Secondary school	20+	Male	Indian	University	21	446	4	1	-0.810359623	0.189432716	-0.22246311	-0.745545591
+R_3RwT3bQELkBfX5e	Female	Malay	University	20+	Male	Indian	University	21	532	2	2	0.711559434	-0.873292228	-0.224221749	-1.173697425
+R_3RwT3bQELkBfX5e	Male	Malay	Secondary school	30+	Male	Indian	University	21	965	4	3	0.012679778	-0.975740823	-0.677204607	-0.522518354
+R_3RwT3bQELkBfX5e	Male	Chinese	University	30+	Male	Indian	University	21	832	1	4	-0.475904348	-0.398863565	-0.935476095	-1.043690867
+R_3RwT3bQELkBfX5e	Male	Indian	Polytechnic	30+	Male	Indian	University	21	936	1	5	0.483724883	-1.316660266	-0.65559099	-0.466671389
+R_3RwT3bQELkBfX5e	Female	Chinese	Polytechnic	20+	Male	Indian	University	21	818	3	6	-0.342150628	0.484826675	-0.130572189	0.51862591
+R_1r81kEk7cYKH3Jo	Female	Indian	University	30+	Female	Others	University	21	956	3	1	1.660213479	2.048432978	1.795757208	1.941142541
+R_1r81kEk7cYKH3Jo	Female	Chinese	Polytechnic	30+	Female	Others	University	21	937	1	2	-1.157713729	-1.574130008	-0.688491387	-0.120230986
+R_1r81kEk7cYKH3Jo	Female	Malay	University	30+	Female	Others	University	21	931	4	3	1.996514456	0.912219029	1.622124797	0.972226234
+R_1r81kEk7cYKH3Jo	Male	Malay	Secondary school	20+	Female	Others	University	21	613	3	4	0.665595722	-1.722587121	-0.44207977	-0.370440681
+R_1r81kEk7cYKH3Jo	Male	Chinese	Secondary school	20+	Female	Others	University	21	400	2	5	0.214203181	0.805264301	-0.417820572	1.759317147
+R_1r81kEk7cYKH3Jo	Male	Indian	Polytechnic	20+	Female	Others	University	21	618	2	6	1.695960795	0.363458006	1.20619988	0.031850065
+R_3qVW2zv83G7az0j	Male	Indian	Secondary school	30+	Female	Chinese	University	22	962	2	1	0.651002912	-0.048809018	0.82708715	1.563922744
+R_3qVW2zv83G7az0j	Male	Chinese	Polytechnic	20+	Female	Chinese	University	22	878	4	2	-0.069698161	0.36060992	-0.063898355	0.377551581
+R_3qVW2zv83G7az0j	Male	Malay	University	30+	Female	Chinese	University	22	558	2	3	-0.770447382	-0.113065058	0.734859777	-0.809899569
+R_3qVW2zv83G7az0j	Female	Chinese	University	20+	Female	Chinese	University	22	239	1	4	1.676298912	0.760952371	1.035597171	1.145676983
+R_3qVW2zv83G7az0j	Female	Malay	Secondary school	20+	Female	Chinese	University	22	225	3	5	0.883598433	1.075696538	1.052114831	0.222701859
+R_3qVW2zv83G7az0j	Female	Indian	Polytechnic	20+	Female	Chinese	University	22	930	1	6	1.648255397	0.111119515	0.968305962	0.861664885
+R_1LdnLrHrEqxwUSB	Female	Chinese	Polytechnic	30+	Female	Chinese	Post-secondary	22	937	2	1	0.379338051	1.050970629	1.59932207	1.190547214
+R_1LdnLrHrEqxwUSB	Male	Malay	Secondary school	20+	Female	Chinese	Post-secondary	22	613	4	2	-0.641387388	-2.384209803	-2.939422753	-2.29025275
+R_1LdnLrHrEqxwUSB	Male	Chinese	Secondary school	20+	Female	Chinese	Post-secondary	22	400	3	3	-2.541786328	2.060591902	-2.348414491	1.413538545
+R_1LdnLrHrEqxwUSB	Female	Indian	University	30+	Female	Chinese	Post-secondary	22	956	4	4	1.744351106	1.644476919	1.89121846	1.255365607
+R_1LdnLrHrEqxwUSB	Male	Indian	Polytechnic	20+	Female	Chinese	Post-secondary	22	618	2	5	1.160995447	0.384178371	0.981252101	0.982947753
+R_1LdnLrHrEqxwUSB	Female	Malay	University	30+	Female	Chinese	Post-secondary	22	931	1	6	-0.285734061	-0.5738458	-0.028003764	0.503228382
+R_1mOTcnVxhBacrmE	Male	Chinese	Polytechnic	20+	Female	Chinese	Post-secondary	21	878	2	1	0.18087884	0.280296182	0.837217602	-0.284744126
+R_1mOTcnVxhBacrmE	Male	Indian	Secondary school	30+	Female	Chinese	Post-secondary	21	962	2	2	0.969914588	-2.065867127	-2.18999381	-1.412587687
+R_1mOTcnVxhBacrmE	Female	Indian	Polytechnic	20+	Female	Chinese	Post-secondary	21	930	4	3	0.945300405	-2.073324749	-0.443212296	-2.018668879
+R_1mOTcnVxhBacrmE	Male	Malay	University	30+	Female	Chinese	Post-secondary	21	558	3	5	-2.788835632	-3.048119602	-3.149258531	-2.703957274
+R_1mOTcnVxhBacrmE	Female	Chinese	University	20+	Female	Chinese	Post-secondary	21	239	4	6	-0.049015001	0.205243278	0.795168696	0.739704297
+R_331421a0Yn6zDBZ	Male	Indian	Polytechnic	30+	Male	Others	University	25	936	4	1	1.683701067	2.502709684	1.468184904	1.236917997
+R_331421a0Yn6zDBZ	Male	Chinese	University	30+	Male	Others	University	25	832	4	2	-0.48613687	-0.59102989	-0.305283486	-0.037454965
+R_331421a0Yn6zDBZ	Female	Chinese	Polytechnic	20+	Male	Others	University	25	818	2	3	0.255264746	1.840683879	-0.742038256	1.194162939
+R_331421a0Yn6zDBZ	Female	Indian	Secondary school	20+	Male	Others	University	25	446	3	4	-0.76854296	-0.319736833	0.890275301	0.625500501
+R_331421a0Yn6zDBZ	Male	Malay	Secondary school	30+	Male	Others	University	25	965	1	5	0.274658577	0.91357036	0.791449951	0.615026556
+R_331421a0Yn6zDBZ	Female	Malay	University	20+	Male	Others	University	25	532	5	6	-0.897891408	0.034354597	-0.604472759	1.327423165
+R_BKazx17QBDrGqdz	Male	Malay	Polytechnic	20+	Female	Chinese	Post-secondary	21	990	4	1	0.444007781	-0.069550754	-0.786851894	-0.751351026
+R_BKazx17QBDrGqdz	Female	Malay	Polytechnic	30+	Female	Chinese	Post-secondary	21	911	3	2	0.812837134	-1.588759425	1.040366358	-0.599964986
+R_BKazx17QBDrGqdz	Male	Chinese	University	20+	Female	Chinese	Post-secondary	21	866	1	3	-1.059122779	-0.282660237	-2.519723057	0.342526692
+R_BKazx17QBDrGqdz	Female	Indian	Secondary school	30+	Female	Chinese	Post-secondary	21	664	4	4	0.564946259	-1.401222763	-0.502037213	-1.12222269
+R_BKazx17QBDrGqdz	Male	Indian	University	20+	Female	Chinese	Post-secondary	21	1014	1	5	-1.117367	0.257074592	-0.67155804	0.802466827
+R_BKazx17QBDrGqdz	Female	Chinese	Secondary school	30+	Female	Chinese	Post-secondary	21	694	2	6	0.311982211	-1.368492238	0.209606844	-0.95913986
+R_2CfAD3WlscBqRwY	Male	Indian	Secondary school	30+	Male	Chinese	University	23	962	2	1	0.430151665	1.89921659	1.732295396	1.073430081
+R_2CfAD3WlscBqRwY	Male	Chinese	Polytechnic	20+	Male	Chinese	University	23	878	4	2	0.465731161	0.788976701	1.659998592	1.495963726
+R_2CfAD3WlscBqRwY	Female	Indian	Polytechnic	20+	Male	Chinese	University	23	930	1	3	1.552388295	0.566362437	1.697297603	0.430789403
+R_2CfAD3WlscBqRwY	Female	Malay	Secondary school	20+	Male	Chinese	University	23	225	2	4	1.686922513	0.246059977	1.5992131	0.19267844
+R_2CfAD3WlscBqRwY	Female	Chinese	University	20+	Male	Chinese	University	23	239	1	5	0.043386033	0.68964383	0.888717982	-0.008986491
+R_2CfAD3WlscBqRwY	Male	Malay	University	30+	Male	Chinese	University	23	558	3	6	-0.613825957	-1.081723451	0.200142297	-1.057662935
+R_2CCxjHuqRSJBZHZ	Male	Chinese	Secondary school	20+	Male	Malay	University	24	400	2	1	-1.055475292	1.008806481	-0.850949967	0.270770103
+R_2CCxjHuqRSJBZHZ	Male	Malay	Secondary school	20+	Male	Malay	University	24	613	4	2	-0.003544625	-0.721273464	1.063812335	1.006590466
+R_2CCxjHuqRSJBZHZ	Female	Chinese	Polytechnic	30+	Male	Malay	University	24	937	1	3	-0.553193831	0.355231985	-0.964811147	-0.558577911
+R_2CCxjHuqRSJBZHZ	Female	Malay	University	30+	Male	Malay	University	24	931	3	4	-1.11483213	-0.125302941	-1.590896533	-0.720784087
+R_2CCxjHuqRSJBZHZ	Male	Indian	Polytechnic	20+	Male	Malay	University	24	618	2	5	-0.290945616	1.425435349	1.314182655	1.589397222
+R_2CCxjHuqRSJBZHZ	Female	Indian	University	30+	Male	Malay	University	24	956	1	6	0.05998236	1.552898464	0.12480712	1.351671376
+R_yWUtKiwW8fUvYwp	Male	Indian	Polytechnic	30+	Male	Indian	Post-secondary	21	936	2	1	-0.094107183	-1.080776264	-0.899156893	0.548619177
+R_yWUtKiwW8fUvYwp	Female	Chinese	Polytechnic	20+	Male	Indian	Post-secondary	21	818	4	2	2.263908824	-2.555291657	-2.219547444	-2.545822739
+R_yWUtKiwW8fUvYwp	Male	Malay	Secondary school	30+	Male	Indian	Post-secondary	21	965	3	3	-2.601855543	0.50415338	-1.821272433	0.654908111
+R_yWUtKiwW8fUvYwp	Male	Chinese	University	30+	Male	Indian	Post-secondary	21	832	2	4	-2.632331916	-2.835190627	-3.158364589	-3.182822762
+R_yWUtKiwW8fUvYwp	Female	Indian	Secondary school	20+	Male	Indian	Post-secondary	21	446	4	5	0.111071787	-0.305283794	1.15156248	1.618504185
+R_yWUtKiwW8fUvYwp	Female	Malay	University	20+	Male	Indian	Post-secondary	21	532	1	6	-2.81038737	2.243768872	-2.693454104	2.080048665
+R_eWDtWe1z4P1Y5xf	Male	Chinese	University	20+	Female	Malay	Post-secondary	20	866	3	1	-0.167920084	-1.507123956	-0.423420362	0.091859874
+R_eWDtWe1z4P1Y5xf	Female	Chinese	Secondary school	30+	Female	Malay	Post-secondary	20	694	4	2	0.717089339	-0.124555177	-0.937609406	-1.124269296
+R_eWDtWe1z4P1Y5xf	Male	Malay	Polytechnic	20+	Female	Malay	Post-secondary	20	990	2	3	-0.132971211	1.000554881	-0.153818378	0.145517511
+R_eWDtWe1z4P1Y5xf	Male	Indian	University	20+	Female	Malay	Post-secondary	20	1014	3	4	0.639148782	0.272605998	-0.797995567	-0.850520114
+R_eWDtWe1z4P1Y5xf	Female	Malay	Polytechnic	30+	Female	Malay	Post-secondary	20	911	1	5	0.335444945	0.881777711	-0.362306794	-0.17780512
+R_eWDtWe1z4P1Y5xf	Female	Indian	Secondary school	30+	Female	Malay	Post-secondary	20	664	2	6	0.256111334	0.135290894	-0.379937387	0.225048455
+R_3HjAKgBhUkA25OW	Male	Indian	Polytechnic	30+	Female	Indian	Post-secondary	20	936	3	1	-0.312762537	0.298375329	0.81057604	0.171857024
+R_3HjAKgBhUkA25OW	Male	Malay	Secondary school	30+	Female	Indian	Post-secondary	20	965	4	2	1.245641284	0.423501752	1.255358809	0.47283989
+R_3HjAKgBhUkA25OW	Female	Malay	University	20+	Female	Indian	Post-secondary	20	532	1	3	1.240291057	0.359785942	0.455467194	0.665065944
+R_3HjAKgBhUkA25OW	Male	Chinese	University	30+	Female	Indian	Post-secondary	20	832	2	4	0.854376305	0.972790085	0.392728898	-0.010713108
+R_3HjAKgBhUkA25OW	Female	Indian	Secondary school	20+	Female	Indian	Post-secondary	20	446	5	5	1.070597629	0.535842274	1.292180868	0.603260267
+R_3HjAKgBhUkA25OW	Female	Chinese	Polytechnic	20+	Female	Indian	Post-secondary	20	818	3	6	1.654977337	0.971058339	0.636887923	1.488078611
+R_21yUOJYG9W45Sz7	Female	Chinese	University	20+	Male	Indian	University	25	239	2	1	-1.264155123	-1.811751992	-1.224305388	-0.863248892
+R_21yUOJYG9W45Sz7	Male	Chinese	Polytechnic	20+	Male	Indian	University	25	878	3	2	-0.06099362	1.065954297	-0.058784773	0.995086754
+R_21yUOJYG9W45Sz7	Male	Malay	University	30+	Male	Indian	University	25	558	1	4	1.316402705	0.906469461	-0.062224264	-0.268327578
+R_21yUOJYG9W45Sz7	Male	Indian	Secondary school	30+	Male	Indian	University	25	962	1	5	0.08888649	0.039742552	0.536322975	0.750723634
+R_21yUOJYG9W45Sz7	Female	Indian	Polytechnic	20+	Male	Indian	University	25	930	4	6	-0.415204451	2.085126832	0.307010988	2.192392402
+R_1ob4jBhybop8vk5	Male	Malay	Secondary school	30+	Female	Malay	Post-secondary	21	965	4	1	0.79629821	0.180784735	0.57694544	0.216849357
+R_1ob4jBhybop8vk5	Male	Indian	Polytechnic	30+	Female	Malay	Post-secondary	21	936	4	2	0.444321862	-0.262948608	0.491581572	0.440077702
+R_1ob4jBhybop8vk5	Female	Indian	Secondary school	20+	Female	Malay	Post-secondary	21	446	5	3	0.084997435	0.104801944	0.478404072	-0.027395941
+R_1ob4jBhybop8vk5	Male	Chinese	University	30+	Female	Malay	Post-secondary	21	832	3	4	-0.101339692	-0.153603581	0.283636246	-0.216115284
+R_1ob4jBhybop8vk5	Female	Malay	University	20+	Female	Malay	Post-secondary	21	532	2	5	0.905724497	-0.245361999	-0.013990902	0.233687652
+R_1ob4jBhybop8vk5	Female	Chinese	Polytechnic	20+	Female	Malay	Post-secondary	21	818	1	6	0.112989301	0.072668288	0.105140568	-0.195069913
+R_2xEj1eQ9vJlCtlm	Male	Indian	University	20+	Female	Others	University	23	1014	3	1	0.912744255	1.318750327	-0.141573023	1.810682769
+R_2xEj1eQ9vJlCtlm	Male	Malay	Polytechnic	20+	Female	Others	University	23	990	4	2	2.210578002	0.498856136	1.794628	0.873257974
+R_2xEj1eQ9vJlCtlm	Male	Chinese	University	20+	Female	Others	University	23	866	3	3	0.205066816	0.484147681	1.493356785	0.132048453
+R_2xEj1eQ9vJlCtlm	Female	Malay	Polytechnic	30+	Female	Others	University	23	911	2	4	1.730229996	1.389559468	1.655376272	1.193582005
+R_2xEj1eQ9vJlCtlm	Female	Chinese	Secondary school	30+	Female	Others	University	23	694	1	5	2.413686492	0.76486321	1.684580315	1.318069114
+R_2xEj1eQ9vJlCtlm	Female	Indian	Secondary school	30+	Female	Others	University	23	664	4	6	1.422170021	0.581451004	1.380866287	0.462440557
+R_270Spxm6KUIzy4j	Male	Malay	Secondary school	20+	Female	Indian	University	23	613	3	1	0.597773531	-0.436343016	-0.370684135	-0.4362455
+R_270Spxm6KUIzy4j	Male	Indian	Polytechnic	20+	Female	Indian	University	23	618	2	2	0.394364561	-0.370305286	-0.885318189	-0.020297469
+R_270Spxm6KUIzy4j	Female	Indian	University	30+	Female	Indian	University	23	956	4	3	1.1656572	0.09731888	0.49652154	-0.780985212
+R_270Spxm6KUIzy4j	Female	Malay	University	30+	Female	Indian	University	23	931	4	4	0.755747047	-0.290256523	0.510350774	0.233296308
+R_270Spxm6KUIzy4j	Female	Chinese	Polytechnic	30+	Female	Indian	University	23	937	1	5	-0.96393114	-0.915034646	0.758056303	-0.578341155
+R_270Spxm6KUIzy4j	Male	Chinese	Secondary school	20+	Female	Indian	University	23	400	2	6	0.619294118	-0.413796311	-0.161105946	-0.824994166
+R_2X02RIFuVMt5acC	Male	Chinese	University	20+	Female	Indian	University	23	866	3	1	0.981397204	0.634166884	0.625904254	1.053059233
+R_2X02RIFuVMt5acC	Female	Chinese	Secondary school	30+	Female	Indian	University	23	694	1	2	1.977158774	0.472082276	1.481459691	0.543260424
+R_2X02RIFuVMt5acC	Male	Indian	University	20+	Female	Indian	University	23	1014	4	3	1.074155226	1.610758389	0.786397243	1.273007942
+R_2X02RIFuVMt5acC	Female	Indian	Secondary school	30+	Female	Indian	University	23	664	5	4	0.79946796	1.588071726	1.185769753	1.336972603
+R_2X02RIFuVMt5acC	Female	Malay	Polytechnic	30+	Female	Indian	University	23	911	2	5	1.596544026	1.446111055	1.627584553	0.663773388
+R_2X02RIFuVMt5acC	Male	Malay	Polytechnic	20+	Female	Indian	University	23	990	4	6	2.294179001	1.040420892	0.860602099	0.510414969
+R_2EuufnJkYxpVRRD	Female	Malay	University	20+	Male	Indian	University	24	532	4	1	-0.607241828	-0.160536777	-0.351473298	0.816409042
+R_2EuufnJkYxpVRRD	Male	Indian	Polytechnic	30+	Male	Indian	University	24	936	4	2	-0.877469842	-1.104322803	-0.923528284	0.127284183
+R_2EuufnJkYxpVRRD	Female	Indian	Secondary school	20+	Male	Indian	University	24	446	1	3	-1.403963264	-0.332068975	-1.788650747	-1.057509042
+R_2EuufnJkYxpVRRD	Male	Malay	Secondary school	30+	Male	Indian	University	24	965	3	4	0.101532486	-0.084541796	-0.058367324	-0.927058366
+R_2EuufnJkYxpVRRD	Female	Chinese	Polytechnic	20+	Male	Indian	University	24	818	1	5	-0.853403324	-0.284299333	-0.762004666	-0.826813693
+R_2EuufnJkYxpVRRD	Male	Chinese	University	30+	Male	Indian	University	24	832	2	6	-0.353002629	-0.721192189	-0.344606227	-0.761290886
+R_2uq8ubqi58E9ggH	Male	Malay	University	30+	Female	Chinese	Post-secondary	23	558	3	1	-1.921373675	-1.797231392	-0.847674505	-1.216095178
+R_2uq8ubqi58E9ggH	Female	Indian	Polytechnic	20+	Female	Chinese	Post-secondary	23	930	4	2	-0.765652236	-0.855902913	0.159543619	-1.653398266
+R_2uq8ubqi58E9ggH	Male	Indian	Secondary school	30+	Female	Chinese	Post-secondary	23	962	3	3	-0.032558676	0.437348125	-0.013978435	-1.408544512
+R_2uq8ubqi58E9ggH	Male	Chinese	Polytechnic	20+	Female	Chinese	Post-secondary	23	878	4	4	0.034376379	1.507805792	0.681378543	-0.128903458
+R_2uq8ubqi58E9ggH	Female	Chinese	University	20+	Female	Chinese	Post-secondary	23	239	2	5	0.716439179	1.050914716	0.423402213	0.849704425
+R_2uq8ubqi58E9ggH	Female	Malay	Secondary school	20+	Female	Chinese	Post-secondary	23	225	1	6	-0.784301007	-1.505442392	-0.457501127	-0.348094537
+R_22FicwOhaZVnwjU	Female	Malay	University	30+	Female	Chinese	Post-secondary	24	931	1	1	0.871549417	-0.073514444	-0.94311607	0.132903963
+R_22FicwOhaZVnwjU	Female	Indian	University	30+	Female	Chinese	Post-secondary	24	956	2	2	1.350505117	1.672934447	2.217297454	0.694289954
+R_22FicwOhaZVnwjU	Male	Chinese	Secondary school	20+	Female	Chinese	Post-secondary	24	400	3	3	-0.800306605	-0.181479467	-0.706935262	-0.442009671
+R_22FicwOhaZVnwjU	Female	Chinese	Polytechnic	30+	Female	Chinese	Post-secondary	24	937	2	4	1.839800538	0.994468141	2.134045727	0.328064064
+R_22FicwOhaZVnwjU	Male	Indian	Polytechnic	20+	Female	Chinese	Post-secondary	24	618	1	5	-0.111917468	-0.098006886	0.57775794	-0.080090027
+R_22FicwOhaZVnwjU	Male	Malay	Secondary school	20+	Female	Chinese	Post-secondary	24	613	4	6	-0.054372549	-0.249487617	-0.106054428	-0.676133413
+R_3PctgegJ44n7X9L	Male	Indian	Polytechnic	30+	Female	Malay	University	22	936	4	1	-0.297873637	1.802192642	-0.213552243	2.569718292
+R_3PctgegJ44n7X9L	Female	Indian	Secondary school	20+	Female	Malay	University	22	446	3	2	-1.062885412	-0.531653173	-1.179572366	-1.634620609
+R_xnm9pFH4WhM6y2Z	Male	Indian	Polytechnic	20+	Female	Indian	University	21	618	4	1	-0.800008916	0.782706479	-0.79474509	-1.149026629
+R_xnm9pFH4WhM6y2Z	Female	Malay	University	30+	Female	Indian	University	21	931	2	2	-0.836795188	0.499620788	-0.27373917	-0.931821666
+R_xnm9pFH4WhM6y2Z	Female	Indian	University	30+	Female	Indian	University	21	956	1	3	-0.274372881	0.339207865	-0.407521092	-0.550281849
+R_xnm9pFH4WhM6y2Z	Male	Malay	Secondary school	20+	Female	Indian	University	21	613	1	4	-0.080098384	0.425248151	-0.186033858	-0.686317125
+R_xnm9pFH4WhM6y2Z	Female	Chinese	Polytechnic	30+	Female	Indian	University	21	937	4	5	0.00944132	-0.251593365	-0.584903018	-0.335487649
+R_xnm9pFH4WhM6y2Z	Male	Chinese	Secondary school	20+	Female	Indian	University	21	400	3	6	-0.442232235	-0.281598334	-0.265813065	-0.448232551
+R_22WdlEeg9mQbqXl	Male	Malay	Polytechnic	20+	Male	Indian	Post-secondary	35	990	2	1	0.518349196	0.851194473	-0.81624717	0.17502899
+R_22WdlEeg9mQbqXl	Female	Malay	Polytechnic	30+	Male	Indian	Post-secondary	35	911	1	2	-0.143404853	0.515333776	-1.135791146	-0.333618052
