@@ -19,9 +19,9 @@ shapiro.test(log10(as.data.frame(xtabs(~ SCD, data = examples))$Freq))
 full.lm <- lm(RC3 ~ P.Age, data = Data)
 summary(full.lm)
 
-Data$P.Age_centred <- scale(Data$P.Age, center = TRUE, scale = FALSE)
-Data$P.Age_scaled <- scale(Data$P.Age, center = FALSE, scale = TRUE)
-Data$P.Age_centred_scaled <- scale(Data$P.Age, center = TRUE, scale = TRUE)
+Data$P.Age_centred <- as.vector(scale(Data$P.Age, center = TRUE, scale = FALSE))
+Data$P.Age_scaled <- as.vector(scale(Data$P.Age, center = FALSE, scale = sd(Data$P.Age)))
+Data$P.Age_centred_scaled <- as.vector(scale(Data$P.Age, center = TRUE, scale = TRUE))
 
 full.lm <- lm(RC3 ~ P.Age_centred, data = Data)
 summary(full.lm)
