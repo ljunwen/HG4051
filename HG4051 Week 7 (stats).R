@@ -6,19 +6,35 @@ download.file("https://github.com/ljunwen/HG4051/raw/main/data/Week%207%20-%20La
 
 path <- ""
 examples <- read.delim(file = paste0(path, "Week 7 - Lah examples.txt"), header = TRUE, stringsAsFactors = TRUE)
+Data <- read.delim(file = paste0(path, "Week 7 - Ratings data.txt"), header = TRUE, stringsAsFactors = TRUE)
+Data$Speaker <- as.factor(Data$Speaker)
+Data$Sentence <- as.factor(Data$Sentence)
+Data$Loop <- as.factor(Data$Loop)
 
 hist(as.data.frame(xtabs(~ SCD, data = examples))$Freq)
 shapiro.test(as.data.frame(xtabs(~ SCD, data = examples))$Freq)
 hist(log10(as.data.frame(xtabs(~ SCD, data = examples))$Freq))
 shapiro.test(log10(as.data.frame(xtabs(~ SCD, data = examples))$Freq))
 
+full.lm <- lm(RC3 ~ P.Age, data = Data)
+summary(full.lm)
+
+Data$P.Age_centred <- scale(Data$P.Age, center = TRUE, scale = FALSE)
+Data$P.Age_scaled <- scale(Data$P.Age, center = FALSE, scale = TRUE)
+Data$P.Age_centred_scaled <- scale(Data$P.Age, center = TRUE, scale = TRUE)
+
+full.lm <- lm(RC3 ~ P.Age_centred, data = Data)
+summary(full.lm)
+
+full.lm <- lm(RC3 ~ P.Age_scaled, data = Data)
+summary(full.lm)
+
+full.lm <- lm(RC3 ~ P.Age_centred_scaled, data = Data)
+summary(full.lm)
+
 
 # mixed-effects models
 
-Data <- read.delim(file = paste0(path, "Week 7 - Ratings data.txt"), header = TRUE, stringsAsFactors = TRUE)
-Data$Speaker <- as.factor(Data$Speaker)
-Data$Sentence <- as.factor(Data$Sentence)
-Data$Loop <- as.factor(Data$Loop)
 
 if(!require(lmerTest)){
   install.packages("lmerTest")   # installs the 'lmerTest' package if it isn't installed
