@@ -1,5 +1,5 @@
 # downloads the data file from the course's GitHub
-download.file("https://github.com/ljunwen/HG4051/raw/main/data/Week%207%20-%20Ratings%20data.txt", "Week 6 - RT data.txt", method = "libcurl")
+download.file("https://github.com/ljunwen/HG4051/raw/main/data/Week%207%20-%20Ratings%20data.txt", "Week 7 - RT data.txt", method = "libcurl")
 download.file("https://github.com/ljunwen/HG4051/raw/main/data/Week%207%20-%20Lah%20examples.txt", "Week 7 - lah examples.txt", method = "libcurl")
 
 # transformations
