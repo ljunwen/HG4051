@@ -24,7 +24,7 @@ Data[, c(3:5)] <- lapply(Data[, c(3:5)], as.factor)
 unique(examples$Ethnicity)
 examples_subset <- subset(examples, Ethnicity != "OTHERS")
 Data <- as.data.frame(xtabs(count ~ SCD, data = examples_subset))
-Data <- merge(Data, examples, by = "SCD", all.x = TRUE)
+Data <- merge(Data, examples_subset, by = "SCD", all.x = TRUE)
 Data <- Data[, c(3,1,4:12,17,18,2,20)]
 
 Data[, c(1:11,13)] <- lapply(Data[, c(1:11,13)], as.factor)
