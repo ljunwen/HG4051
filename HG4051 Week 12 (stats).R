@@ -1,11 +1,11 @@
 # downloads the data file from the course's GitHub
 download.file("https://github.com/ljunwen/HG4051/raw/main/data/Week%2012%20-%20BMI%20data.txt", "Week 12 - BMI data.txt", method = "libcurl")
-download.file("https://github.com/ljunwen/HG4051/raw/main/data/Week%2012%20-%20particles%20data.txt", "Week 12 - particles data.txt", method = "libcurl")
+download.file("https://github.com/ljunwen/HG4051/raw/main/data/Week%2012%20-%20Particles%20data.txt", "Week 12 - Particles data.txt", method = "libcurl")
 
 
 path <- ""
 BMI <- read.delim(paste0(path,"Week 12 - BMI data.txt"), header = TRUE, stringsAsFactors = TRUE)
-particles <- read.delim(paste0(path,"Week 12 - particles data.txt"), header = TRUE, stringsAsFactors = TRUE)
+particles <- read.delim(paste0(path,"Week 12 - Particles data.txt"), header = TRUE, stringsAsFactors = TRUE)
 
 
 # scatterplots
