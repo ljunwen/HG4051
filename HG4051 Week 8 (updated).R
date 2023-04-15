@@ -97,11 +97,13 @@ plot(full.lm, which = 2)   # tries to match (standardised) residuals with normal
 # mixed-model regression
 
 if(!require(lmerTest)){
-  install.packages("lmerTest")   # installs the 'lmerTest' package (for 'lmer') if it isn't installed
+   install.packages("lmerTest")   # installs the 'lmerTest' package (for 'lmer') if it isn't installed
+   library(lmerTest)   # loads the package on first install
 }
 
 if(!require(emmeans)){
-  install.packages("emmeans")   # installs the 'emmeans' package (for 'emmeans') if it isn't installed
+   install.packages("emmeans")   # installs the 'emmeans' package (for 'emmeans') if it isn't installed
+   library(emmeans)   # loads the package on first install
 }
 
 full.lmer <- lmer(Log.Freq.per.1000 ~ Ethnicity + (1|File), data = particles[["sia"]])
@@ -111,7 +113,8 @@ full.lmer <- lmer(Log.Freq.per.1000 ~ Ethnicity + (1|File), data = particles[["s
 
 # saving the emmeans output
 
-con <- file("D:/logistic_regression_results.txt", open = "w+", encoding = "native.enc")
+path <- ""
+con <- file(paste0(path, "logistic_regression_results.txt"), open = "w+", encoding = "native.enc")
 writeLines(paste0("Analysis of: ", full.lmer@call[[2]][2], " ~ ", full.lmer@call[[2]][3]), con = con)
 writeLines("", con = con)
 writeLines(paste0(c("factor",colnames(effects_analysis)), collapse = "\t"), con = con)

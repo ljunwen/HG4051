@@ -1,9 +1,9 @@
 # import the AntConc wordlist and collocates list to R
 
-path <- "D:/"
-wordlist <- read.delim(file = paste0(path, "antconc_wordlist.txt"), header = FALSE, stringsAsFactors = FALSE)
-collocates <- read.delim(file = paste0(path, "antconc_results_tall.txt"), header = FALSE, stringsAsFactors = FALSE)
-word <- "tall"
+path <- ""
+wordlist <- read.delim(file = paste0(path, "HG4051 Assignment 3 - antconc_wordlist.txt"), header = FALSE, stringsAsFactors = FALSE)
+collocates <- read.delim(file = paste0(path, "antconc_kena.txt"), header = FALSE, stringsAsFactors = FALSE)
+word <- "kena"
 write_to_file <- "n"
 
 
@@ -25,14 +25,9 @@ collocates$Fisher_test <- NA
 
 # loads required packages
 
-if(!require(lmtest)){
-  install.packages("lmtest")   # installs the 'lmtest' package if it isn't installed
-  library(lmtest)   # loads the package
-}
-
 if(!require(DescTools)){
-  install.packages("DescTools")   # installs the 'DescTools' package if it isn't installed
-  library(DescTools)   # loads the package
+  install.packages("DescTools")   # installs the 'DescTools' package (for 'GTest') if it isn't installed
+  library(DescTools)   # loads the package on first install
 }
 
 
@@ -53,6 +48,7 @@ for (i in seq_along(collocates$Collocate)) {
 
 collocates <- with(collocates, collocates[order(LR_test, decreasing = TRUE),])
 # collocates <- with(collocates, collocates[order(Fisher_test, decreasing = FALSE),])
+row.names(collocates) <- seq_along(collocates[,1])
 
 rm(xtabs_table)
 

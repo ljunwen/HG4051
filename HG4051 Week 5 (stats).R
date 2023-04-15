@@ -3,7 +3,7 @@ download.file("https://github.com/ljunwen/HG4051/raw/main/data/Week%204%20-%20RT
 
 # test for normality
 
-path <- "D:/"
+path <- ""
 Data <- read.delim(file = paste0(path, "Week 4 - RT data.txt"), header = TRUE, stringsAsFactors = TRUE)
 Data$Caffeine <- as.factor(Data$Caffeine)
 
@@ -37,15 +37,15 @@ kruskal.test(RT ~ Caffeine, data = Data)
 summary(aov(RT ~ Caffeine, data = Data))   # one-way ANOVA for comparison
 
 if(!require(PMCMRplus)){
-  install.packages("PMCMRplus")   # installs the 'PMCMRplus' package if it isn't installed
-  library(PMCMRplus)   # loads the package
+   install.packages("PMCMRplus")   # installs the 'PMCMRplus' package (for 'kwAllPairsConoverTest') if it isn't installed
+   library(PMCMRplus)   # loads the package on first install
 }
 
 summary(kwAllPairsConoverTest(RT ~ Caffeine, data = Data))   # 'P value adjustment method: single-step' means that Tukey's adjustment was used. Also, the warning about ties can be ignored.
 
 if(!require(emmeans)){
-  install.packages("emmeans")   # installs the 'emmeans' package if it isn't installed
-  library(emmeans)   # loads the package
+   install.packages("emmeans")   # installs the 'emmeans' package (for 'emmeans') if it isn't installed
+   library(emmeans)   # loads the package on first install
 }
 
 pairs(emmeans(aov(RT ~ Caffeine, data = Data), "Caffeine"))   # pairwise comparisons using 'emmeans' for comparison
@@ -65,8 +65,8 @@ pairs(emmeans(aov(RT ~ Caffeine + Error(Participant), data = Data), "Caffeine"))
 # permutation test for ANOVA
 
 if(!require(coin)){
-  install.packages("coin")   # installs the 'coin' package if it isn't installed
-  library(coin)   # loads the package
+   install.packages("coin")   # installs the 'coin' package (for 'oneway_test' and 'symmetry_test') if it isn't installed
+   library(coin)   # loads the package on first install
 }
 
 # one-way test
@@ -74,8 +74,8 @@ if(!require(coin)){
 oneway_test(RT ~ Caffeine, data = Data)
 
 if(!require(rcompanion)){
-  install.packages("rcompanion")   # installs the 'rcompanion' package if it isn't installed
-  library(rcompanion)   # loads the package
+   install.packages("rcompanion")   # installs the 'rcompanion' package (for 'pairwisePermutationTest' and 'pairwisePermutationSymmetry') if it isn't installed
+   library(rcompanion)   # loads the package on first install
 }
 
 pairwisePermutationTest(RT ~ Caffeine, data = Data, method = "fdr")
@@ -93,8 +93,8 @@ pairs(emmeans(aov(RT ~ Caffeine + Error(Participant), data = Data), "Caffeine"))
 # aligned ranks transformation ANOVA
 
 if(!require(ARTool)){
-  install.packages("ARTool")   # installs the 'ARTool' package if it isn't installed
-  library(ARTool)   # loads the package
+   install.packages("ARTool")   # installs the 'ARTool' package (for 'art' and 'art.con') if it isn't installed
+   library(ARTool)   # loads the package on first install
 }
 
 # one-way test
@@ -108,24 +108,24 @@ pairs(emmeans(aov(RT ~ Caffeine, data = Data), "Caffeine"))   # pairwise compari
 
 # factorial test
 
-(aligned_ranks <- art(RT ~ Caffeine * Age.Group, data = Data))
+(aligned_ranks <- art(RT ~ Age.Group * Caffeine, data = Data))
 anova(aligned_ranks)
-summary(aov(RT ~ Caffeine * Age.Group, data = Data))
+summary(aov(RT ~ Age.Group * Caffeine, data = Data))
 
 # post-hoc comparisons of main effects and interaction
 
 art.con(aligned_ranks, "Caffeine")
 art.con(aligned_ranks, "Age.Group")
-art.con(aligned_ranks, "Caffeine:Age.Group")
-contrast(emmeans(artlm.con(aligned_ranks, "Caffeine:Age.Group"), ~ Caffeine|Age.Group), method = "pairwise")
-art.con(aligned_ranks, "Caffeine:Age.Group")
+art.con(aligned_ranks, "Age.Group:Caffeine")
+contrast(emmeans(artlm.con(aligned_ranks, "Age.Group:Caffeine"), specs = ~ Age.GroupCaffeine), method = "pairwise")
 
-emmeans(lm(RT ~ Caffeine * Age.Group, data = Data), specs = consec ~ Caffeine|Age.Group)
+emmeans(lm(RT ~ Age.Group * Caffeine, data = Data), specs = consec ~ Caffeine|Age.Group)
 
 # custom contrasts
 
-emmeans(artlm.con(aligned_ranks, "Caffeine:Age.Group"), ~ CaffeineAge.Group)
-contrast(emmeans(artlm.con(aligned_ranks, "Caffeine:Age.Group"), specs = ~ CaffeineAge.Group), list("< 30, 0 - 100" = c(1,0,-1,0,0,0), "< 30, 100 - 200" = c(0,0,1,0,-1,0), "> 30, 0 - 100" = c(0,1,0,-1,0,0), "> 30, 100 - 200" = c(0,0,0,1,0,-1)), adjust = "holm")
+contrast(emmeans(artlm.con(aligned_ranks, "Age.Group:Caffeine"), specs = ~ Age.GroupCaffeine), method = "consec")
+emmeans(artlm.con(aligned_ranks, "Age.Group:Caffeine"), specs = ~ Age.GroupCaffeine)
+contrast(emmeans(artlm.con(aligned_ranks, "Age.Group:Caffeine"), specs = ~ Age.GroupCaffeine), list("< 30, 0 - 100" = c(-1,1,0,0,0,0), "< 30, 100 - 200" = c(0,-1,1,0,0,0), "> 30, 0 - 100" = c(0,0,0,-1,1,0), "> 30, 100 - 200" = c(0,0,0,0,-1,1)), adjust = "mvt")
 
 
 # chi-square test

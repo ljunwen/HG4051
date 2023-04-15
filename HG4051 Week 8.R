@@ -15,6 +15,7 @@ Data <- as.data.frame(xtabs(Count ~ ID, data = examples_subset))
 Data <- merge(Data, examples_subset, by = "ID", all.x = TRUE)
 Data <- Data[, c(12,1,3:6,2,10,8)]
 Data <- unique(Data)
+row.names(Data) <- seq_along(Data[,1])
 
 Data[, c(3:5)] <- lapply(Data[, c(3:5)], as.factor)
 
@@ -27,16 +28,22 @@ Data <- as.data.frame(xtabs(count ~ SCD, data = examples_subset))
 Data <- merge(Data, examples_subset, by = "SCD", all.x = TRUE)
 Data <- Data[, c(3,1,4:12,17,18,2,20)]
 Data <- unique(Data)
+row.names(Data) <- seq_along(Data[,1])
 
 Data[, c(1:11,13)] <- lapply(Data[, c(1:11,13)], as.factor)
 
 
 # calculated values
 
+if(!require(car)){
+   install.packages("car")   # loads the 'car' package (for 'Boxplot') and installs it if it isn't installed
+   library(car)   # loads the package on first install
+}
+
 Data$Freq.per.1000 <- with(Data, Freq / Wordcount * 1000)
 
 hist(Data$Freq.per.1000)
-boxplot(Data$Freq.per.1000)
+car::Boxplot(Data$Freq.per.1000)
 
 
 # log-transform
@@ -45,6 +52,7 @@ Data$Freq.per.1000[Data$Freq.per.1000 == 0] <- min(Data$Freq.per.1000[Data$Freq.
 
 Data$Log.Freq.per.1000 <- log10(Data$Freq.per.1000)
 hist(Data$Log.Freq.per.1000)
+car::Boxplot(Data$Log.Freq.per.1000)
 
 
 # data-cleaning
@@ -69,8 +77,8 @@ View(particles[[1]])
 # linear regression
 
 full.lm <- lm(Log.Freq.per.1000 ~ Ethnicity, data = particles[["sia"]])
-anova(full.lm)
-emmeans(full.lm, pairwise ~ Ethnicity)
+(effects_analysis <- anova(full.lm))
+(full.emm <- emmeans(full.lm, pairwise ~ Ethnicity))
 
 
 # residual plots
@@ -82,18 +90,35 @@ plot(full.lm, which = 2)   # tries to match (standardised) residuals with normal
 # mixed-model regression
 
 if(!require(lmerTest)){
-  install.packages("lmerTest")   # installs the 'lmerTest' package if it isn't installed
-  library(lmerTest)   # loads the package (for 'lmer')
+   install.packages("lmerTest")   # installs the 'lmerTest' package (for 'lmer') if it isn't installed
+   library(lmerTest)   # loads the package on first install
 }
 
 if(!require(emmeans)){
-  install.packages("emmeans")   # installs the 'emmeans' package if it isn't installed
-  library(emmeans)   # loads the package (for 'emmeans')
+   install.packages("emmeans")   # installs the 'emmeans' package (for 'emmeans') if it isn't installed
+   library(emmeans)   # loads the package on first install
 }
 
-full.lmer <- lmer(Log.Freq.per.1000 ~ Ethnicity + (1|File), data = particles[["hor"]])
-anova(full.lmer, type = 2)
-emmeans(full.lmer, pairwise ~ Ethnicity)
+full.lmer <- lmer(Log.Freq.per.1000 ~ Ethnicity + (1|File), data = particles[["sia"]])
+(effects_analysis <- anova(full.lmer, type = 2))
+(full.emm <- emmeans(full.lmer, pairwise ~ Ethnicity))
+
+
+# saving the emmeans output
+
+path <- ""
+con <- file(paste0(path, "logistic_regression_results.txt"), open = "w+", encoding = "native.enc")
+writeLines(paste0("Analysis of: ", full.lmer@call[[2]][2], " ~ ", full.lmer@call[[2]][3]), con = con)
+writeLines("", con = con)
+writeLines(paste0(c("factor",colnames(effects_analysis)), collapse = "\t"), con = con)
+writeLines(apply(cbind(rownames(as.data.frame(effects_analysis)),as.data.frame(effects_analysis)), 1, function(x) {paste0(x, collapse = "\t")}), con = con)
+writeLines("", con = con)
+writeLines(paste0(colnames(as.data.frame(full.emm$emmeans)), collapse = "\t"), con = con)
+writeLines(apply(as.data.frame(full.emm$emmeans), 1, function(x) {paste0(x, collapse = "\t")}), con = con)
+writeLines("", con = con)
+writeLines(paste0(colnames(as.data.frame(full.emm$contrasts)), collapse = "\t"), con = con)
+writeLines(apply(as.data.frame(full.emm$contrasts), 1, function(x) {paste0(x, collapse = "\t")}), con = con)
+close(con)
 
 
 # residual plots

@@ -28,11 +28,13 @@ summary(full.glm)
 # mixed effect logistic regression
 
 if(!require(lmerTest)){
-  install.packages("lmerTest")   # loads the 'lmerTest' package (for 'glmer') and installs it if it isn't installed
+   install.packages("lmerTest")   # installs the 'lmerTest' package (for 'glmer') if it isn't installed
+   library(lmerTest)   # loads the package on first install
 }
 
 if(!require(emmeans)){
-  install.packages("emmeans")   # loads the 'emmeans' package (for 'emmeans') and installs it if it isn't installed
+   install.packages("emmeans")   # installs the 'emmeans' package (for 'emmeans') if it isn't installed
+   library(emmeans)   # loads the package on first install
 }
 
 # test if random intercepts are significant

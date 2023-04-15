@@ -5,6 +5,11 @@ path <- "D:/NSC Part 3/48k/Transcripts/Scripts Same Room/combined2/Switchboard N
 file <- "2005-1.xml"
 write_to_file <- "n"
 
+if(!require(stringr)){
+   install.packages("stringr")   # installs the 'stringr' package (for 'str_split', 'str_match', and 'str_match_all') if it isn't installed
+   library(stringr)   # loads the package on first install
+}
+
 
 transcript_str <- readChar(paste0(path, file), file.info(paste0(path, file))$size)
 
@@ -24,8 +29,7 @@ transcript <- data.frame(matrix(vector(), 0, length(temp[,1]), dimnames=list(c()
 
 for (i in seq_along(transcript_tmp)) {
    for (j in seq_along(colnames(transcript))) {
-     temp <- as.data.frame(str_match_all(transcript_tmp[i], paste0(colnames(transcript)[j],"=\"([a-zA-Z0-9\\.\\-#\\(\\)\\_\\[\\]]+)\"")))[,2]
-     if (length(temp) == 0) {temp <- NA}
+     temp <- as.data.frame(str_match(transcript_tmp[i], paste0(colnames(transcript)[j],"=\"([a-zA-Z0-9\\.\\-#\\(\\)\\_\\[\\]]+)\"")))[,2]
      transcript[i,j] <- temp
    }
 }

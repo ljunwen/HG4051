@@ -29,7 +29,8 @@ with(subset(BMI, Sex == "Female"), cor.test(Height, Weight, method = "pearson"))
 # correlation plot
 
 if(!require(corrplot)){
-   install.packages("corrplot")   # loads the 'corrplot' package (for 'corrplot') and installs it if it isn't installed
+   install.packages("corrplot")   # installs the 'corrplot' package (for 'corrplot') if it isn't installed
+   library(corrplot)   # loads the package on first install
 }
 
 corrplot(cor(particles[,c(13:20)]))
@@ -42,7 +43,8 @@ boxplot(particles$lah)
 hist(particles$lah)
 
 if(!require(robustbase)){
-  install.packages("robustbase")   # loads the 'robustbase' package (for 'adjbox') and installs it if it isn't installed
+   install.packages("robustbase")   # installs the 'robustbase' package (for 'adjbox') if it isn't installed
+   library(robustbase)   # loads the package on first install
 }
 
 adjbox(particles$lah)

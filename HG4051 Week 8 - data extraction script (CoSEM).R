@@ -2,14 +2,14 @@
 download.file("https://github.com/ljunwen/HG4051/raw/main/data/CoSEM%20ethnicity%20codes.txt", "CoSEM ethnicity codes.txt", method = "libcurl")
 
 if(!require(stringr)){
-  install.packages("stringr")   # installs the 'stringr' package if it isn't installed
-  library(stringr)   # loads the package (for 'str_match' and 'str_count')
+  install.packages("stringr")   # installs the 'stringr' package (for 'str_match' and 'str_count') if it isn't installed
+  library(stringr)   # loads the package on first install
 }
 
 # check transcripts for a specific string and adds the lines to the database if found
 
 dir_path <- "D:/CoSEM_v3_anonymized_txtformat_2m_v2/"
-directory <- list.files(path = dir_path, pattern = "*.txt$")
+directory <- list.files(path = dir_path, pattern = "CoSEM_v3_public_chunk_[0-9]+\\.txt$")
 
 # enter search string here
 
@@ -52,7 +52,7 @@ for (i in seq_along(directory)) {
    # notes down the filename of the transcript if lines are extracted
    
    if (length(examples_part[,1]) > 0) {
-      examples_part$File <- paste0("CoSEM_v3_public_chunk_",str_match(directory[i], "chunk_([0-9]+)\\.txt")[,2],".txt")
+      examples_part$File <- directory[i]
    }
    
    # adds the extracted lines to the output table

@@ -1,5 +1,5 @@
 # downloads the data file from the course's GitHub
-download.file("https://github.com/ljunwen/HG4051/raw/main/data/Week%206%20-%20Ratings%20data.txt", "Week 6 - Ratings data.txt", method = "libcurl")
+download.file("https://github.com/ljunwen/HG4051/raw/main/data/Week%206%20-%20Ratings%20data.txt", "Week 6 - RT data.txt", method = "libcurl")
 
 # linear regression
 
@@ -7,8 +7,8 @@ path <- "D:/"
 Data <- read.delim(file = paste0(path, "Week 6 - Ratings data.txt"), header = TRUE, stringsAsFactors = TRUE)
 
 if(!require(car)){
-  install.packages("car")   # installs the 'car' package if it isn't installed
-  library(car)   # loads the package
+  install.packages("car")   # installs the 'car' package (for 'Anova') if it isn't installed
+  library(car)   # loads the package on first install
 }
 
 full.lm <- lm(MR3 ~ P.Age, data = Data)
@@ -35,8 +35,8 @@ contrasts(Data$S.Ethnicity) <- as.matrix(rbind(c(-1,-1),c(1,0),c(0,1)))   # chan
 # emmeans plots
 
 if(!require(emmeans)){
-  install.packages("emmeans")   # installs the 'emmeans' package if it isn't installed
-  library(emmeans)   # loads the package
+  install.packages("emmeans")   # installs the 'emmeans' package (for 'emmeans') if it isn't installed
+  library(emmeans)   # loads the package on first install
 }
 
 (full.emm <- emmeans(full.lm, specs = pairwise ~ S.Ethnicity))
@@ -74,8 +74,8 @@ summary(reduced.lm)
 # emmeans plots
 
 if(!require(emmeans)){
-  install.packages("emmeans")   # installs the 'emmeans' package if it isn't installed
-  library(emmeans)   # loads the package
+  install.packages("emmeans")   # installs the 'emmeans' package (for 'emmeans') if it isn't installed
+  library(emmeans)   # loads the package on first install
 }
 
 (reduced.emm <- emmeans(reduced.lm, specs = pairwise ~ S.Education|S.Ethnicity))

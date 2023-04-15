@@ -27,7 +27,8 @@ text$Fisher_test <- NA
 # loads required package
 
 if(!require(DescTools)){
-  install.packages("DescTools")   # loads the 'DescTools' package (for 'GTest') and installs it if it isn't installed
+   install.packages("DescTools")   # installs the 'DescTools' package (for 'GTest') if it isn't installed
+   library(DescTools)   # loads the package on first install
 }
 
 

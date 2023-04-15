@@ -4,7 +4,7 @@ download.file("https://github.com/ljunwen/HG4051/raw/main/data/Week%207%20-%20La
 
 # transformations
 
-path <- ""
+path <- "D:/"
 examples <- read.delim(file = paste0(path, "Week 7 - Lah examples.txt"), header = TRUE, stringsAsFactors = TRUE)
 Data <- read.delim(file = paste0(path, "Week 7 - Ratings data.txt"), header = TRUE, stringsAsFactors = TRUE)
 Data$Speaker <- as.factor(Data$Speaker)
@@ -37,18 +37,18 @@ summary(full.lm)
 
 
 if(!require(lmerTest)){
-  install.packages("lmerTest")   # installs the 'lmerTest' package if it isn't installed
-  library(lmerTest)   # loads the package
+   install.packages("lmerTest")   # installs the 'lmerTest' package (for 'lmer') if it isn't installed
+   library(lmerTest)   # loads the package on first install
 }
 
 if(!require(car)){
-  install.packages("car")   # installs the 'car' package if it isn't installed
-  library(car)   # loads the package
+   install.packages("car")   # installs the 'car' package (for 'Anova') if it isn't installed
+   library(car)   # loads the package on first install
 }
 
 if(!require(MuMIn)){
-  install.packages("MuMIn")   # installs the 'MuMIn' package if it isn't installed
-  library(MuMIn)   # loads the package
+   install.packages("MuMIn")   # installs the 'MuMIn' package (for 'r.squaredGLMM') if it isn't installed
+   library(MuMIn)   # loads the package on first install
 }
 
 
