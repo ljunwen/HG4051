@@ -1,4 +1,4 @@
-load(conv.RData)   # loads the data file
+load("data/conv.RData")   # loads the data file
 
 if(!require(stringr)){
   install.packages("stringr")   # installs the 'stringr' package (for 'str_count') if it isn't installed
