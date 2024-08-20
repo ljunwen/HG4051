@@ -32,7 +32,8 @@ stdev/sqrt(n)
 
 # sampling using the heights data
 
-heights <- read.csv("D:/Heights.csv", header = TRUE, stringsAsFactors = TRUE)
+path <- ""
+heights <- read.csv(paste0(path, "Week 2 - Heights.txt"), header = TRUE, stringsAsFactors = TRUE)
 
 n <- 5
 num_samples <- 5000
@@ -47,12 +48,14 @@ hist(samples$mean)
 
 
 # t-tests
-path <- ""
+
 Data <- read.delim(file = paste0(path, "Week 2 - RT data.txt"), header = TRUE, stringsAsFactors = TRUE)
+levels(Data$Drug)
+levels(Data$Participant)
 
 t.test(RT ~ Drug, data = Data)
-t.test(RT ~ Drug, paired = TRUE, data = Data)
+t.test(Pair(RT[Drug == "Yes"], RT[Drug == "No"]) ~ 1, data = Data[order(Data$Participant),])
 
 # non-parametric tests
 wilcox.test(RT ~ Drug, data = Data)
-wilcox.test(RT ~ Drug, paired = TRUE, data = Data)
+wilcox.test(Pair(RT[Drug == "Yes"], RT[Drug == "No"]) ~ 1, data = Data[order(Data$Participant),])
