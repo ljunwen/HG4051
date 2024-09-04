@@ -1,5 +1,6 @@
 # downloads the data file from the course's GitHub
-download.file("https://github.com/ljunwen/HG4051/raw/main/data/Week%201%20-%20NSC%203009.txt", "Week 1 - NSC 3009.txt", method = "libcurl")
+path <- ""
+download.file("https://github.com/ljunwen/HG4051/raw/main/data/Week%201%20-%20NSC%203009.txt", paste0(path, "Week 1 - NSC 3009.txt"), method = "libcurl")
 
 getwd()   # tells you where the current working directory is
 setwd("C:/")   # sets the current working directory as C:/ (you can change it to wherever you want)
