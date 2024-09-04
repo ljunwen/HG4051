@@ -1,6 +1,7 @@
 # downloads the data file from the course's GitHub
-download.file("https://github.com/ljunwen/HG4051/raw/main/data/Week%202%20-%20RT%20data.txt", "Week 2 - RT data.txt", method = "libcurl")
-download.file("https://github.com/ljunwen/HG4051/raw/main/data/Week%202%20-%20Heights.txt", "Week 2 - Heights.txt", method = "libcurl")
+path <- ""
+download.file("https://github.com/ljunwen/HG4051/raw/main/data/Week%202%20-%20RT%20data.txt", paste0(path, "Week 2 - RT data.txt"), method = "libcurl")
+download.file("https://github.com/ljunwen/HG4051/raw/main/data/Week%202%20-%20Heights.txt", paste0(path, "Week 2 - Heights.txt"), method = "libcurl")
 
 # simulation of distribution of sample means
 
