@@ -78,7 +78,7 @@ num_samples <- 5000
 samples <- data.frame(matrix(vector(), num_samples, 1, dimnames=list(c(), "mean")))
 
 for (i in seq_along(1:(num_samples))) {
-  samples$mean[i] <- mean(sample(heights$Height, n))  
+   samples$mean[i] <- mean(sample(heights$Height, n))  
 }
 
 hist(samples$mean)
@@ -109,4 +109,5 @@ t.test(Pair(RT[Drug == "Yes"], RT[Drug == "No"]) ~ 1, data = Data[order(Data$Par
 
 # non-parametric tests
 wilcox.test(RT ~ Drug, data = Data)
+
 wilcox.test(Pair(RT[Drug == "Yes"], RT[Drug == "No"]) ~ 1, data = Data[order(Data$Participant),])
